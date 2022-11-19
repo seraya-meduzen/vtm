@@ -148,7 +148,7 @@ recursive function mtx_mult(mtx_A, mtx_B, n, block_size) result(result_matrix)
     allocate(result_matrix_00(n * n / 4), result_matrix_01(n * n / 4), result_matrix_10(n * n / 4))
 
 
-    if (n <= 2) then
+    if (n <= 1024) then
         result_matrix = matmul(mtx_B, mtx_A, n, block_size)
         return
     end if
