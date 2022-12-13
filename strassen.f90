@@ -17,7 +17,7 @@ program fcn2
     call random_number(y)
 
     res_1 = mtx_mult(x, y, matrix_size, block_size)
-    res_2 = matmul(x, y, matrix_size, block_size)
+    res_2 = matmul(y, x, matrix_size, block_size)  ! mtx_mult counts y @ x......(
 
     write (*, *) ((res_1(i, j), i = 1, matrix_size), j = 1, matrix_size)
     write (*, *) ((res_2(i, j), i = 1, matrix_size), j = 1, matrix_size)
@@ -54,7 +54,6 @@ subroutine copy_a(block_a, A, n, block_size)
     integer, intent(in) :: n, block_size
     double precision, allocatable, dimension(:, :), intent(inout) :: block_a
     double precision, dimension(:, :), intent(in) :: A
-    ! double precision, allocatable, dimension(:), intent(in) :: A
 
     integer :: i, j
 
@@ -70,7 +69,6 @@ subroutine copy_c(block_c, C, n, block_size)
     integer, intent(in) :: n, block_size
 
     double precision, dimension(:, :), intent(inout) :: C
-    ! double precision, allocatable, dimension(:), intent(inout) :: C
     double precision, allocatable, dimension(:, :), intent(in) :: block_c
 
     integer :: i, j
@@ -147,11 +145,7 @@ recursive function mtx_mult(mtx_A, mtx_B, n, block_size) result(result_matrix)
     double precision,allocatable, dimension(:, :) :: a_11, a_12, a_21, a_22, b_11, b_12, b_21, b_22, D, D_1, D_2, H_2, H_1, V_1, V_2
     double precision,allocatable, dimension(:, :) :: result_matrix_00, result_matrix_01, result_matrix_10, result_matrix_11
 
-    allocate(result_matrix(n, n))
-
-    allocate(a_11(n / 2, n / 2), a_12(n / 2, n / 2), a_21(n / 2, n / 2), a_22(n / 2, n / 2), b_11(n / 2, n / 2), b_12(n / 2, n / 2))
-    allocate(b_21(n / 2, n / 2), b_22(n / 2, n / 2), D(n / 2, n / 2), D_1(n / 2, n / 2), D_2(n / 2, n / 2), H_2(n / 2, n / 2))
-    allocate(H_1(n / 2, n / 2), V_1(n / 2, n / 2), V_2(n / 2, n / 2), result_matrix_11(n / 2, n / 2))
+    allocate(result_matrix(n, n), result_matrix_11(n / 2, n / 2))
 
     allocate(result_matrix_00(n / 2, n / 2), result_matrix_01(n / 2, n / 2), result_matrix_10(n / 2, n / 2))
 
@@ -159,23 +153,19 @@ recursive function mtx_mult(mtx_A, mtx_B, n, block_size) result(result_matrix)
     if (n <= 1024) then
         result_matrix = matmul(mtx_B, mtx_A, n, block_size)
         return
-    end if
 
-    if (n == 1) then
-        result_matrix(1, 1) = mtx_A(1, 1) * mtx_B(1, 1)
     else
         split_index = n / 2
 
-        forall(i = 1 : block_size, j = 1 : block_size)
-                a_11(i, j) = mtx_B(i, j)
-				a_12(i, j) = mtx_B(i, j + split_index)
-				a_21(i, j) = mtx_B(split_index + i, j)
-				a_22(i, j) = mtx_B(i + split_index, j + split_index)
-				b_11(i, j) = mtx_A(i, j)
-				b_12(i, j) = mtx_A(i, j + split_index)
-				b_21(i, j) = mtx_A(split_index + i, j)
-				b_22(i, j) = mtx_A(i + split_index, j + split_index)
-        end forall
+        a_11 = mtx_A(1:split_index, 1:split_index)
+        a_12 = mtx_A(1:split_index, 1 + split_index : 2*split_index)
+        a_21 = mtx_A(split_index + 1 : 2 * split_index, 1:split_index)
+        a_22 = mtx_A(1 + split_index : 2 * split_index, 1 + split_index : 2*split_index)
+        b_11 = mtx_B(1:split_index, 1:split_index)
+        b_12 = mtx_B(1:split_index, 1 + split_index : 2*split_index)
+        b_21 = mtx_B(split_index + 1 : 2 * split_index, 1:split_index)
+        b_22 = mtx_B(1 + split_index : 2 * split_index, 1 + split_index : 2*split_index)
+
 
         D = mtx_mult(mtx_sum(a_11, a_22, split_index), mtx_sum(b_11, b_22, split_index), split_index, block_size)
         D_1 = mtx_mult(mtx_sum(a_12, a_22, split_index, -1), mtx_sum(b_21, b_22, split_index), split_index, block_size)
