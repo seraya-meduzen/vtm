@@ -180,12 +180,12 @@ recursive function mtx_mult(mtx_A, mtx_B, n, block_size) result(result_matrix)
         result_matrix_10 = mtx_sum(V_1, H_2, split_index)
         result_matrix_11 = mtx_sum(mtx_sum(mtx_sum(D, D_2, split_index), V_2, split_index), H_2, split_index, -1)
 
-        forall(i = 1 : block_size, j = 1 : block_size)
-                result_matrix(i, j) = result_matrix_00(i, j)
-				result_matrix(i, j + split_index) = result_matrix_01(i, j)
-				result_matrix(split_index + i, j) = result_matrix_10(i, j)
-				result_matrix(i + split_index, j + split_index) = result_matrix_11(i, j)
-        end forall
+        result_matrix(1:block_size, 1:block_size) = result_matrix_00(1:block_size, 1:block_size)
+        result_matrix(1:block_size, 1 + split_index:2 * split_index) = result_matrix_01(1:block_size, 1:block_size)
+        result_matrix(split_index + 1:2 * split_index, 1:block_size) = result_matrix_10(1:block_size, 1:block_size)
+        result_matrix(split_index + 1:2 * split_index, split_index + 1:2 * split_index) =&
+        result_matrix_11(1:block_size, 1:block_size)
+
 
     end if
 
