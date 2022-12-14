@@ -37,8 +37,8 @@ unsigned int mix(unsigned int a, unsigned int b, unsigned int c) {
 
 vector<double> mtx_sum(vector<double> mtx_A, vector<double> mtx_B, int split_index, int multiplier = 1) {
     for (auto i = 0; i < split_index; ++i)
-		for (auto j = 0; j < split_index; ++j)
-			mtx_A[i * split_index + j] = mtx_A[i * split_index + j] + (multiplier * mtx_B[i * split_index + j]);
+        for (auto j = 0; j < split_index; ++j)
+            mtx_A[i * split_index + j] = mtx_A[i * split_index + j] + (multiplier * mtx_B[i * split_index + j]);
 
 	return mtx_A;
 }
@@ -54,29 +54,29 @@ vector<double> mtx_mult(vector<double> mtx_A, vector<double> mtx_B) {
     }
 
     else {
-		int split_index = col_1 / 2;
+        int split_index = col_1 / 2;
 
-		vector<double> a_11(split_index * split_index);
-		vector<double> a_12(split_index * split_index);
-		vector<double> a_21(split_index * split_index);
-		vector<double> a_22(split_index * split_index);
-		vector<double> b_11(split_index * split_index);
-		vector<double> b_12(split_index * split_index);
-		vector<double> b_21(split_index * split_index);
-    	vector<double> b_22(split_index * split_index);
+        vector<double> a_11(split_index * split_index);
+        vector<double> a_12(split_index * split_index);
+        vector<double> a_21(split_index * split_index);
+        vector<double> a_22(split_index * split_index);
+        vector<double> b_11(split_index * split_index);
+        vector<double> b_12(split_index * split_index);
+        vector<double> b_21(split_index * split_index);
+        vector<double> b_22(split_index * split_index);
 
 
-		for (auto i = 0; i < split_index; i++) {
-			for (auto j = 0; j < split_index; j++) {
-				a_11[i * split_index + j] = mtx_A[i * col_1 + j];
-				a_12[i * split_index + j] = mtx_A[i * col_1 + j + split_index];
-				a_21[i * split_index + j] = mtx_A[(split_index + i) * col_1 + j];
-				a_22[i * split_index + j] = mtx_A[(i + split_index) * col_1 + j + split_index];
-				b_11[i * split_index + j] = mtx_B[i * col_1 + j];
-				b_12[i * split_index + j] = mtx_B[i * col_1 + j + split_index];
-				b_21[i * split_index + j] = mtx_B[(split_index + i)  * col_1 + j];
-				b_22[i * split_index + j] = mtx_B[(i + split_index) * col_1 + j + split_index];
-			}
+        for (auto i = 0; i < split_index; i++) {
+            for (auto j = 0; j < split_index; j++) {
+                a_11[i * split_index + j] = mtx_A[i * col_1 + j];
+                a_12[i * split_index + j] = mtx_A[i * col_1 + j + split_index];
+                a_21[i * split_index + j] = mtx_A[(split_index + i) * col_1 + j];
+                a_22[i * split_index + j] = mtx_A[(i + split_index) * col_1 + j + split_index];
+                b_11[i * split_index + j] = mtx_B[i * col_1 + j];
+                b_12[i * split_index + j] = mtx_B[i * col_1 + j + split_index];
+                b_21[i * split_index + j] = mtx_B[(split_index + i)  * col_1 + j];
+                b_22[i * split_index + j] = mtx_B[(i + split_index) * col_1 + j + split_index];
+            }
         }
 
         vector<double> D(mtx_mult(mtx_sum(a_11, a_22, split_index), mtx_sum(b_11, b_22, split_index)));
@@ -85,22 +85,22 @@ vector<double> mtx_mult(vector<double> mtx_A, vector<double> mtx_B) {
         vector<double> H_2(mtx_mult(mtx_sum(a_21, a_22, split_index), b_11));
         vector<double> H_1(mtx_mult(mtx_sum(a_11, a_12, split_index), b_22));
         vector<double> V_1(mtx_mult(a_22, mtx_sum(b_21, b_11, split_index, -1)));
-		vector<double> V_2(mtx_mult(a_11, mtx_sum(b_12, b_22, split_index, -1)));
+        vector<double> V_2(mtx_mult(a_11, mtx_sum(b_12, b_22, split_index, -1)));
 
 
-		vector<double> result_matrix_00(mtx_sum(mtx_sum(mtx_sum(D, D_1, split_index), V_1, split_index), H_1, split_index, -1));
-		vector<double> result_matrix_01(mtx_sum(V_2, H_1, split_index));
-    	vector<double> result_matrix_10(mtx_sum(V_1, H_2, split_index));
-		vector<double> result_matrix_11(mtx_sum(mtx_sum(mtx_sum(D, D_2, split_index), V_2, split_index), H_2, split_index, -1));
+        vector<double> result_matrix_00(mtx_sum(mtx_sum(mtx_sum(D, D_1, split_index), V_1, split_index), H_1, split_index, -1));
+        vector<double> result_matrix_01(mtx_sum(V_2, H_1, split_index));
+        vector<double> result_matrix_10(mtx_sum(V_1, H_2, split_index));
+        vector<double> result_matrix_11(mtx_sum(mtx_sum(mtx_sum(D, D_2, split_index), V_2, split_index), H_2, split_index, -1));
 
 
-		for (auto i = 0; i < split_index; i++) {
-			for (auto j = 0; j < split_index; j++) {
-				result_matrix[i * col_1 + j] = result_matrix_00[i * split_index + j];
-				result_matrix[i * col_1 + j + split_index] = result_matrix_01[i * split_index + j];
-				result_matrix[(split_index + i) * col_1 + j] = result_matrix_10[i * split_index + j];
-				result_matrix[(i + split_index) * col_1 + j + split_index] = result_matrix_11[i * split_index + j];
-			}
+        for (auto i = 0; i < split_index; i++) {
+            for (auto j = 0; j < split_index; j++) {
+                result_matrix[i * col_1 + j] = result_matrix_00[i * split_index + j];
+                result_matrix[i * col_1 + j + split_index] = result_matrix_01[i * split_index + j];
+                result_matrix[(split_index + i) * col_1 + j] = result_matrix_10[i * split_index + j];
+                result_matrix[(i + split_index) * col_1 + j + split_index] = result_matrix_11[i * split_index + j];
+            }
         }
 	}
 
