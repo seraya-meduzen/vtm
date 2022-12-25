@@ -1,10 +1,10 @@
 program fcn2
     implicit none
 
-    integer, parameter :: block_size = 2
-    integer, parameter :: matrix_size = 4
+    integer, parameter :: block_size = 32
+    integer, parameter :: matrix_size = 4096
     double precision, dimension(:, :), allocatable :: x, y, res_1, res_2
-
+    real :: start, finish
     integer :: i, j
     allocate (x(matrix_size, matrix_size), y(matrix_size, matrix_size), res_2(matrix_size, matrix_size))
 
@@ -14,9 +14,12 @@ program fcn2
     call random_number(x)
     call random_number(y)
 
+    call cpu_time(start)
     res_1 = mtx_mult(x, y, matrix_size, block_size)
+    call cpu_time(finish)
 
-    write (*, *) ((res_1(i, j), i = 1, matrix_size), j = 1, matrix_size)
+    print '("Time = ",f6.3," seconds.")',finish-start
+    !write (*, *) ((res_1(i, j), i = 1, matrix_size), j = 1, matrix_size)
 
 contains
 
