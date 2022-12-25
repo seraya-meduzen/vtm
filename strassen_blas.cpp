@@ -108,10 +108,10 @@ vector<double> mtx_mult(vector<double> mtx_A, vector<double> mtx_B) {
 }
 
 
-vector<int> Generator(int size) {
+vector<double> Generator(int size) {
     srand(mix(clock(), time(NULL), getpid()));
 
-    vector<int> res(size * size);
+    vector<double> res(size * size);
 
     for (int i = 0; i < size * size; ++i) {
         res[i] = rand();
@@ -125,18 +125,18 @@ int main(int argc, char** argv) {
 
     const int size = std::stoi(argv[1]);
 
-    // vector<int> mtx_A = Generator(size);
-    // vector<int> mtx_B = Generator(size);
+    vector<double> mtx_A = Generator(size);
+    vector<double> mtx_B = Generator(size);
 
-    vector<double> mtx_A = {1, 5, -4, -8, -10, 4, 5, 6, 1, 3, 5, 8, 7, 9, -4, 2};
-    vector<double> mtx_B = {4, 5, -4, -8, -10, 4, 6, 6, 1, 3, 2, 8, 7, 10, -4, 2};
+    // vector<double> mtx_A = {1, 5, -4, -8, -10, 4, 5, 6, 1, 3, 5, 8, 7, 9, -4, 2};
+    // vector<double> mtx_B = {4, 5, -4, -8, -10, 4, 6, 6, 1, 3, 2, 8, 7, 10, -4, 2};
 
 
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 
     vector<double> result_matrix(mtx_mult(mtx_A, mtx_B));
 
-    for (auto x : result_matrix) cout << x << " ";
+    // for (auto x : result_matrix) cout << x << " ";
 
     std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
 
