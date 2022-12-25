@@ -43,6 +43,7 @@ struct SVD SingularValueDecomposition(int m, int n, int lda, double *a) {
     dgesdd_(q, &m, &n, a, &lda, &s[0], &u[0], &m, &vt[0], &n, work, &lwork, &iwork[0], &info);
 
     lwork = workSize;
+
     work = (double*) malloc(lwork * sizeof(work[0]));
 
     dgesdd_(q, &m, &n, a, &lda, &s[0], &u[0], &m, &vt[0], &n, work, &lwork, &iwork[0], &info);
@@ -51,23 +52,17 @@ struct SVD SingularValueDecomposition(int m, int n, int lda, double *a) {
 }
 
 int main(int argc, char** argv){
-    std::vector<double> A = {1, 5, -4, -8, -10, 4, 5, 6, 1, 3, 5, 8, 7, 9, -4, 2};
 
-    int m = 4;
-    int n = 4;
-    int lda = 4;
+    int m = std::stoi(argv[1]);
+    int n = m;
+    int lda = m;
 
+    std::vector<double> A(m * n, 1);
+
+    std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
     auto res = SingularValueDecomposition(m, n, lda, &A[0]);
+    std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
 
-    std::cout << "U = ";
-    for (auto x : res.u) std::cout << x << " ";
-    std::cout << std::endl;
-    std::cout << "S = ";
-    for (auto x : res.s) std::cout << x << " ";
-    std::cout << std::endl;
-    std::cout << "V.T = ";
-    for (auto x : res.vt) std::cout << x << " ";
-    std::cout << std::endl;
-
+    std::cout << std::endl << "Time difference = " << std::chrono::duration_cast<std::chrono::milliseconds>(end - begin).count() << "[ms]" << std::endl << std::endl;
     return 0;
 }
