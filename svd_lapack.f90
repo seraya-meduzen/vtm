@@ -1,6 +1,6 @@
 program fcn2
     implicit None
-
+    INTEGER :: t1, t2, count_rate, count_max
     integer :: i, info, lda, ldu, ldvt, lwork, m, n
 
     double precision, allocatable :: a(:, :), a_copy(:, :), b(:), s(:), u(:, :), vt(:, :), work(:)
@@ -8,8 +8,8 @@ program fcn2
 
     double precision, allocatable :: iwork(:)
 
-    m = 4
-    n = 4
+    m = 2048
+    n = m
 
     lda = m
     ldu = m
@@ -20,7 +20,7 @@ program fcn2
     call random_number(a)
 
     lwork = -1
-
+    CALL SYSTEM_CLOCK(t1, count_rate, count_max)
     call dgesdd('A', m, n, a, lda, s, u, ldu, vt, ldvt, dummy, lwork, iwork, info)
 
     lwork = dummy(1,1)
@@ -28,9 +28,10 @@ program fcn2
     allocate (work(lwork))
 
     call dgesdd('A', m, n, a, lda, s, u, ldu, vt, ldvt, work, lwork, iwork, info)
-
-    print *, u
-    print *, s
-    print *, vt
+    call system_clock (t2, count_rate, count_max )
+    write ( *, * ) 'Elapsed real time = ', real ( t2 - t1 ) / real ( count_rate )
+    !print *, u
+    !print *, s
+    !print *, vt
 
 end program fcn2
