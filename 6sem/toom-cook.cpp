@@ -271,7 +271,7 @@ vector<long long int> matmul(vector<double> matrix, vector<string> vector_) {
 
 
 int eval_i(string m, string n) {
-    return std::max(int(int(m.length() / 4) / 3), int(n.length() / 4) / 3) + 1;
+    return std::max(int(int(m.length() / 4) / 3), int(int(n.length() / 4) / 3)) + 1;
 }
 
 string toom_cook(string m, string n){
