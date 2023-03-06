@@ -26,32 +26,17 @@ char decimal_to_digit(unsigned int decimal) {
 
 string trim_leading_zeros(string num) {
 	bool wasNeg = false;
-	string result = "";
 
 	if (num.find("-") != string::npos) {
 		wasNeg = true;
 		num.erase(0,1);
 	}
 
-	size_t i = 0;
-	while (num.at(i) == '0') {
-		i++;
-		if (i == num.length()) {
-			return "0";
-		}
-	}
-
-	while (i != num.length()) {
-		result += num.at(i);
-		i++;
-	}
-
 	if (wasNeg) {
-		result.insert(0,"-");
+		return "-" + num.erase(0, std::min(num.find_first_not_of('0'), num.size()-1));
 	}
 
-    // return result.erase(0, std::min(result.find_first_not_of('0'), result.size()-1));
-    return result;
+    return num.erase(0, std::min(num.find_first_not_of('0'), num.size()-1));
 }
 
 string add(string lhs, string rhs) {
