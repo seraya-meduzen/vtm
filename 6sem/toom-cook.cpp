@@ -317,8 +317,10 @@ string toom_cook(string m, string n){
         k++;
     }
 
-    vector<string> p_p = {p[0], add(add(p[0], p[1]), p[2]), add(subtract(p[0], p[1]), p[2]),  add(subtract(p[0], to_string(2 * stoll(p[1]))), to_string(4 * stoll(p[2]))), p[2]};
-    vector<string> q_q = {q[0], add(add(q[0], q[1]), q[2]), add(subtract(q[0], q[1]), q[2]),  add(subtract(q[0], to_string(2 * stoll(q[1]))), to_string(4 * stoll(q[2]))), q[2]};
+    vector<string> p_p = {p[0], add(add(p[0], p[1]), p[2]), add(subtract(p[0], p[1]), p[2]),  add(subtract(p[0], toom_cook("2", p[1])), toom_cook("4", p[2])), p[2]};
+    vector<string> q_q = {q[0], add(add(q[0], q[1]), q[2]), add(subtract(q[0], q[1]), q[2]),  add(subtract(q[0], toom_cook("2", q[1])), toom_cook("4", q[2])), q[2]};
+    vector<string> r_in_points = {toom_cook(p_p[0], q_q[0]), toom_cook(p_p[1], q_q[1]), toom_cook(p_p[2], q_q[2]), toom_cook(p_p[3], q_q[3]), toom_cook(p_p[4], q_q[4])};
+
     //
     // vector<string> q_q = {q[0], to_string(std::stoll(q[0]) + std::stoll(q[1]) + std::stoll(q[2])), to_string(std::stoll(q[0]) - std::stoll(q[1]) + std::stoll(q[2])),
     // to_string(std::stoll(q[0]) - 2 * std::stoll(q[1]) + 4 * std::stoll(q[2])), q[2]};
@@ -331,8 +333,6 @@ string toom_cook(string m, string n){
     // vector<string> r_in_points = {to_string(std::stoll(p_p[0]) * std::stoll(q_q[0])), to_string(std::stoll(p_p[1]) * std::stoll(q_q[1])), to_string(std::stoll(p_p[2]) * std::stoll(q_q[2])), to_string(std::stoll(p_p[3]) * std::stoll(q_q[3])), to_string(std::stoll(p_p[4]) * std::stoll(q_q[4]))};
 
     // vector<string> r_in_points = {toom_cook(p_p[0], q_q[0]), toom_cook(p_p[1], q_q[1]), toom_cook(p_p[2], q_q[2]), to_string(stoll(p_p[3]) * stoll(q_q[3])), to_string(stoll(p_p[4]) * stoll(q_q[4]))};
-
-    vector<string> r_in_points = {toom_cook(p_p[0], q_q[0]), toom_cook(p_p[1], q_q[1]), toom_cook(p_p[2], q_q[2]), toom_cook(p_p[3], q_q[3]), toom_cook(p_p[4], q_q[4])};
 
     vector<double> matrix = {1, 0, 0, 0, 0, 1.0 / 2, 1.0 / 3, -1, 1.0 / 6, -2, -1, 1.0 / 2, 1.0 / 2, 0, -1, -1.0 / 2, 1.0 / 6, 1.0 / 2, -1.0 / 6, 2, 0, 0, 0, 0, 1};
 
