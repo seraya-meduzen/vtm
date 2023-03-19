@@ -7,14 +7,25 @@
 #include <algorithm>
 #include <bitset>
 #include <vector>
+#include <utility>
 
-using std::string, std::vector, std::to_string;
-using std::cin, std::cout, std::endl, std::stoll;
+using std::string, std::vector, std::to_string, std::pair;
+using std::cin, std::cout, std::endl, std::stoll, std::make_pair, std::stoi;
 
 const int K = 3; //Toom-3
 
 string subtract(string lhs, string rhs);
 string add(string lhs, string rhs);
+string multiply(string lhs, string rhs);
+string division(string number, int divisor);
+bool compare (string lhs, string rhs);
+string toom_cook(string lhs, string rhs);
+char decimal_to_digit(unsigned int decimal);
+unsigned int digit_to_decimal(char digit);
+
+string multiply(string lhs, string rhs) {
+	return toom_cook(lhs, rhs);
+}
 
 unsigned int digit_to_decimal(char digit) {
 	return digit - '0';
@@ -229,27 +240,69 @@ string subtract(string lhs, string rhs) {
 	return finalResult;
 }
 
+string division(string number, int divisor) {
+	bool num_isNeg = false;
+	bool div_isNeg = false;
 
-vector<long long int> matmul(vector<double> matrix, vector<string> vector_) {
-    const int matrix_size = std::sqrt(matrix.size());
-    vector<long long int> results(matrix_size, 0);
+	if (number[0] == '-') {
+		num_isNeg = true;
+		number.erase(0, 1);
+	}
 
-    #pragma omp parallel num_threads(omp_get_num_threads())
-    {
-        int y, i;
-        vector<double> results_private(matrix_size);
+	if (divisor < 0) {
+		div_isNeg = true;
+		divisor = -divisor;
+	}
 
-        for (y = 0; y < matrix_size ; y++) {
-            #pragma omp for
-            for (i = 0; i < matrix_size; i++) {
-                results_private[y] += std::stoll(vector_[i]) * matrix[i + matrix_size * y];
-            }
-        }
-        #pragma omp critical
-        {
-            for (y = 0; y < matrix_size; y++) results[y] += round(results_private[y]);
-        }
+    string ans;
+
+    int idx = 0;
+    int temp = number[idx] - '0';
+
+    while (temp < divisor)
+        temp = temp * 10 + (number[++idx] - '0');
+ 
+    while (number.size() > idx) {
+        ans += (temp / divisor) + '0';
+ 
+        temp = (temp % divisor) * 10 + number[++idx] - '0';
     }
+ 
+    if (ans.length() == 0)
+        return "0";
+ 
+	if (num_isNeg && div_isNeg || !num_isNeg && !div_isNeg) return ans;
+
+    return "-" + ans;
+}
+
+vector<string> matmul(vector<pair<string, string>> matrix, vector<string> vector_) {
+    const int matrix_size = std::sqrt(matrix.size());
+    vector<string> results(matrix_size, "0");
+
+	int y, i;
+	vector<pair<string, string>> results_private(matrix_size, make_pair("0", "1"));
+
+	#pragma omp parallel
+	{
+		#pragma omp single
+		{
+			for (y = 0; y < matrix_size ; y++) {
+				for (i = 0; i < matrix_size; i++) {
+					pair<string, string> tmp = make_pair(toom_cook(vector_[i], matrix[i + matrix_size * y].first), matrix[i + matrix_size * y].second);
+
+					auto num = add(toom_cook(tmp.first, results_private[y].second), toom_cook(tmp.second, results_private[y].first));
+					auto denom = toom_cook(tmp.second, results_private[y].second);
+
+					results_private[y].first = num;
+					results_private[y].second = denom;
+				}
+
+				results[y] = division(results_private[y].first, stoi(results_private[y].second));
+
+			}
+		}
+	}
 
     return results;
 }
@@ -260,7 +313,7 @@ int eval_i(string m, string n) {
 }
 
 string toom_cook(string m, string n){
-    if ((m.size() <= 9 && n.size() <= 9) || (m[0] == '-' && n[0] == '-' && m.size() <= 10 && n.size() <= 10)){
+    if ((m.size() <= 9 && n.size() <= 9) || (m[0] == '-' && n[0] == '-' && m.size() <= 10 && n.size() <= 10)) {
         return to_string(std::stoll(m) * std::stoll(n));
     }
 
@@ -286,44 +339,49 @@ string toom_cook(string m, string n){
     string copy(m);
     std::reverse(copy.begin(), copy.end());
 
-    for (unsigned i = 0; i < copy.size(); i += B) {
-        p[k] = copy.substr(i, B);
-        std::reverse(p[k].begin(), p[k].end());
-        k++;
-    }
+	#pragma omp parallel 
+	{
+		#pragma omp single
+		{
+			for (unsigned i = 0; i < copy.size(); i += B) {
+				p[k] = copy.substr(i, B);
+				std::reverse(p[k].begin(), p[k].end());
+				k++;
+			}
+		}
+	}
 
     copy = n;
     std::reverse(copy.begin(), copy.end());
 
     k = 0;
-    for (unsigned i = 0; i < copy.size(); i += B) {
-        q[k] = copy.substr(i, B);
-        std::reverse(q[k].begin(), q[k].end());
-        k++;
-    }
+
+	#pragma omp parallel 
+	{
+		#pragma omp single
+		{
+			for (unsigned i = 0; i < copy.size(); i += B) {
+				q[k] = copy.substr(i, B);
+				std::reverse(q[k].begin(), q[k].end());
+				k++;
+			}
+		}
+	}
 
     vector<string> p_p = {p[0], add(add(p[0], p[1]), p[2]), add(subtract(p[0], p[1]), p[2]),  add(subtract(p[0], toom_cook("2", p[1])), toom_cook("4", p[2])), p[2]};
     vector<string> q_q = {q[0], add(add(q[0], q[1]), q[2]), add(subtract(q[0], q[1]), q[2]),  add(subtract(q[0], toom_cook("2", q[1])), toom_cook("4", q[2])), q[2]};
     vector<string> r_in_points = {toom_cook(p_p[0], q_q[0]), toom_cook(p_p[1], q_q[1]), toom_cook(p_p[2], q_q[2]), toom_cook(p_p[3], q_q[3]), toom_cook(p_p[4], q_q[4])};
 
-    //
-    // vector<string> q_q = {q[0], to_string(std::stoll(q[0]) + std::stoll(q[1]) + std::stoll(q[2])), to_string(std::stoll(q[0]) - std::stoll(q[1]) + std::stoll(q[2])),
-    // to_string(std::stoll(q[0]) - 2 * std::stoll(q[1]) + 4 * std::stoll(q[2])), q[2]};
+	vector<pair<string, string>> matrix = {make_pair("1", "1"), make_pair("0", "1"), make_pair("0", "1"), make_pair("0", "1"), make_pair("0", "1"), 
+											make_pair("1", "2"), make_pair("1", "3"), make_pair("-1", "1"), make_pair("1", "6"), make_pair("-2", "1"),
+											make_pair("-1", "1"), make_pair("1", "2"), make_pair("1", "2"), make_pair("0", "1"), make_pair("-1", "1"), 
+											make_pair("-1", "2"), make_pair("1", "6"), make_pair("1", "2"), make_pair("-1", "6"), make_pair("2", "1"), 
+											make_pair("0", "1"), make_pair("0", "1"), make_pair("0", "1"), make_pair("0", "1"), make_pair("1", "1")};
 
-    // vector<string> p_p = {p[0], to_string(std::stoll(p[0]) + std::stoll(p[1]) + std::stoll(p[2])), to_string(std::stoll(p[0]) - std::stoll(p[1]) + std::stoll(p[2])),           to_string(std::stoll(p[0]) - 2 * std::stoll(p[1]) + 4 * std::stoll(p[2])), p[2]};
-
-    // vector<string> q_q = {q[0], to_string(std::stoll(q[0]) + std::stoll(q[1]) + std::stoll(q[2])), to_string(std::stoll(q[0]) - std::stoll(q[1]) + std::stoll(q[2])),
-    // to_string(std::stoll(q[0]) - 2 * std::stoll(q[1]) + 4 * std::stoll(q[2])), q[2]};
-
-    // vector<string> r_in_points = {to_string(std::stoll(p_p[0]) * std::stoll(q_q[0])), to_string(std::stoll(p_p[1]) * std::stoll(q_q[1])), to_string(std::stoll(p_p[2]) * std::stoll(q_q[2])), to_string(std::stoll(p_p[3]) * std::stoll(q_q[3])), to_string(std::stoll(p_p[4]) * std::stoll(q_q[4]))};
-
-    // vector<string> r_in_points = {toom_cook(p_p[0], q_q[0]), toom_cook(p_p[1], q_q[1]), toom_cook(p_p[2], q_q[2]), to_string(stoll(p_p[3]) * stoll(q_q[3])), to_string(stoll(p_p[4]) * stoll(q_q[4]))};
-
-    vector<double> matrix = {1, 0, 0, 0, 0, 1.0 / 2, 1.0 / 3, -1, 1.0 / 6, -2, -1, 1.0 / 2, 1.0 / 2, 0, -1, -1.0 / 2, 1.0 / 6, 1.0 / 2, -1.0 / 6, 2, 0, 0, 0, 0, 1};
 
     auto res = matmul(matrix, r_in_points);
 
-    vector<string> recompos = {to_string(res[0]), to_string(res[1]) + string(B, '0'), to_string(res[2]) + string(B * 2, '0'), to_string(res[3]) + string(B * 3, '0'), to_string(res[4]) + string(B * 4, '0')};
+    vector<string> recompos = {res[0], res[1] + string(B, '0'), res[2] + string(B * 2, '0'), res[3] + string(B * 3, '0'), res[4] + string(B * 4, '0')};
 
     if ((m_minus && n_minus) || (!m_minus && !n_minus)) {
         return add(add(add(add(recompos[4], recompos[3]), recompos[2]), recompos[1]), recompos[0]);
@@ -334,14 +392,6 @@ string toom_cook(string m, string n){
 
 
 int main(int argc, char** argv) {
-    // std::cout<<"Hello from "<< omp_get_thread_num() << " of " << omp_get_num_threads() << std::endl;
-    //
-    // #pragma omp parallel
-    // {
-    //     std::ostringstream oss;
-    //     oss << "Hello from "<< omp_get_thread_num() << " of " << omp_get_num_threads() << std::endl;
-    //     std::cout<<oss.str();
-    // }
 
     cout << toom_cook("1234567890123456789012", "987654321987654321098") << endl;
     cout << toom_cook("1234567890123456789012", "-987654321987654321098") << endl;
@@ -351,7 +401,6 @@ int main(int argc, char** argv) {
     cout << toom_cook("2", "-1234567890123456789012123456789456") << endl;
     cout << toom_cook("-118518517008", "2") << endl;
     cout << toom_cook("118518517008", "2") << endl;
-
 
     return 0;
 }
