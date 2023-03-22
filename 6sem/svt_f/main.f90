@@ -1,5 +1,3 @@
-! Created by nebil on 09.03.23.
-
 program main
     implicit none
 
@@ -24,13 +22,11 @@ program main
         stop ierr
     end if
 
-    ! rhs
     allocate(rhs(n))
     do i = 1, n
         rhs(i) = sin(real(i))
     end do
 
-    ! ILU(k)
     iwk = nnz * 100
     allocate(jw(3 * n), w(n), alu(iwk), jlu(iwk), levs(iwk), ju(n))
     lfil = 0
