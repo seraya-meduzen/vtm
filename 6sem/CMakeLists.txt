@@ -9,6 +9,9 @@ find_package(OpenMP REQUIRED)
 find_package(BLAS REQUIRED)
 find_package(LAPACK REQUIRED)
 
+# message("${LAPACK_LIBRIRIES}")
+# message("${LAPACK_FOUND}")
+
 
 add_executable(hello toom-cook.cpp)
 target_link_libraries(hello OpenMP::OpenMP_CXX)
