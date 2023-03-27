@@ -331,9 +331,10 @@ vector<string> matmul(vector<pair<string, string>> matrix, vector<string> vector
 
 #pragma omp parallel
 	{
-#pragma omp single
+#pragma omp for ordered
+		for (y = 0; y < matrix_size; y++)
 		{
-			for (y = 0; y < matrix_size; y++)
+#pragma omp ordered
 			{
 				for (i = 0; i < matrix_size; i++)
 				{
