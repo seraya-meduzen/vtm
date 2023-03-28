@@ -331,10 +331,10 @@ vector<string> matmul(vector<pair<string, string>> matrix, vector<string> vector
 
 #pragma omp parallel
 	{
-#pragma omp for ordered
+#pragma omp single
 		for (y = 0; y < matrix_size; y++)
 		{
-#pragma omp ordered
+#pragma omp task
 			{
 				for (i = 0; i < matrix_size; i++)
 				{
@@ -346,9 +346,9 @@ vector<string> matmul(vector<pair<string, string>> matrix, vector<string> vector
 					results_private[y].first = num;
 					results_private[y].second = denom;
 				}
-
-				results[y] = division(results_private[y].first, stoi(results_private[y].second));
 			}
+#pragma omp taskwait
+			results[y] = division(results_private[y].first, stoi(results_private[y].second));
 		}
 	}
 
@@ -396,9 +396,12 @@ string toom_cook(string m, string n)
 		{
 			for (unsigned i = 0; i < copy.size(); i += B)
 			{
-				p[k] = copy.substr(i, B);
-				std::reverse(p[k].begin(), p[k].end());
-				k++;
+#pragma omp task
+				{
+					p[k] = copy.substr(i, B);
+					std::reverse(p[k].begin(), p[k].end());
+					k++;
+				}
 			}
 		}
 	}
@@ -414,9 +417,12 @@ string toom_cook(string m, string n)
 		{
 			for (unsigned i = 0; i < copy.size(); i += B)
 			{
-				q[k] = copy.substr(i, B);
-				std::reverse(q[k].begin(), q[k].end());
-				k++;
+#pragma omp task
+				{
+					q[k] = copy.substr(i, B);
+					std::reverse(q[k].begin(), q[k].end());
+					k++;
+				}
 			}
 		}
 	}
