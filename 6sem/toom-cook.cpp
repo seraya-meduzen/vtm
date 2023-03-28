@@ -18,7 +18,6 @@ string subtract(string lhs, string rhs);
 string add(string lhs, string rhs);
 string multiply(string lhs, string rhs);
 string division(string number, int divisor);
-bool compare(string lhs, string rhs);
 string toom_cook(string lhs, string rhs);
 char decimal_to_digit(unsigned int decimal);
 unsigned int digit_to_decimal(char digit);
