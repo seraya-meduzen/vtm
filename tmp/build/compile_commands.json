@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/meduzen/Documents/vtm codes/cpp/tmp/build",
+  "command": "/usr/bin/g++    -flto -Ofast -march=native -llapack -fopenmp -lblas -g -fopenmp -o CMakeFiles/hello.dir/toom-cook.cpp.o -c \"/home/meduzen/Documents/vtm codes/cpp/tmp/toom-cook.cpp\"",
+  "file": "/home/meduzen/Documents/vtm codes/cpp/tmp/toom-cook.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++  -flto -Ofast -march=native -llapack -fopenmp -lblas -g CMakeFiles/hello.dir/toom-cook.cpp.o -o hello  /usr/lib/x86_64-linux-gnu/liblapack.so /usr/lib/x86_64-linux-gnu/libblas.so /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 

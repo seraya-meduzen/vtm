@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/meduzen/Documents/vtm codes/cpp/6sem/build",
+  "command": "/usr/bin/mpic++  -I/home/meduzen/anaconda3/include  -flto -Ofast -march=native -llapack -fopenmp -lblas -O3 -DNDEBUG -o CMakeFiles/hello.dir/toom-cook-MPI.cpp.o -c \"/home/meduzen/Documents/vtm codes/cpp/6sem/toom-cook-MPI.cpp\"",
+  "file": "/home/meduzen/Documents/vtm codes/cpp/6sem/toom-cook-MPI.cpp"
+}
+]

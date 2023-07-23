@@ -1,0 +1,1 @@
+/usr/bin/gfortran -g -fsanitize=address -lblas CMakeFiles/sparskit.dir/main.f90.o -o sparskit  ../libskit.a 

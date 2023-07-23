@@ -1,0 +1,3 @@
+/home/meduzen/Documents/vtm codes/cpp/tmp/build/CMakeFiles/hello.dir
+/home/meduzen/Documents/vtm codes/cpp/tmp/build/CMakeFiles/edit_cache.dir
+/home/meduzen/Documents/vtm codes/cpp/tmp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3172 @@
+   its =   0 res. norm =        0.363835D+03
+   its =   1 res. norm =        0.709691D+02
+   its =   2 res. norm =        0.371819D+02
+   its =   3 res. norm =        0.231484D+02
+   its =   4 res. norm =        0.167765D+02
+   its =   5 res. norm =        0.133390D+02
+   its =   6 res. norm =        0.108960D+02
+   its =   7 res. norm =        0.917521D+01
+   its =   8 res. norm =        0.792845D+01
+   its =   9 res. norm =        0.696071D+01
+   its =  10 res. norm =        0.624800D+01
+   its =  11 res. norm =        0.593135D+01
+   its =  12 res. norm =        0.559745D+01
+   its =  13 res. norm =        0.524646D+01
+   its =  14 res. norm =        0.484978D+01
+   its =  15 res. norm =        0.444605D+01
+   its =  16 res. norm =        0.408795D+01
+   its =  17 res. norm =        0.378477D+01
+   its =  18 res. norm =        0.353822D+01
+   its =  19 res. norm =        0.334838D+01
+   its =  20 res. norm =        0.321227D+01
+   its =  21 res. norm =        0.316105D+01
+   its =  22 res. norm =        0.306458D+01
+   its =  23 res. norm =        0.293878D+01
+   its =  24 res. norm =        0.280015D+01
+   its =  25 res. norm =        0.268677D+01
+   its =  26 res. norm =        0.260283D+01
+   its =  27 res. norm =        0.253075D+01
+   its =  28 res. norm =        0.245295D+01
+   its =  29 res. norm =        0.236294D+01
+   its =  30 res. norm =        0.227855D+01
+   its =  31 res. norm =        0.221684D+01
+   its =  32 res. norm =        0.214547D+01
+   its =  33 res. norm =        0.207806D+01
+   its =  34 res. norm =        0.200968D+01
+   its =  35 res. norm =        0.194969D+01
+   its =  36 res. norm =        0.189682D+01
+   its =  37 res. norm =        0.184976D+01
+   its =  38 res. norm =        0.181098D+01
+   its =  39 res. norm =        0.177331D+01
+   its =  40 res. norm =        0.174472D+01
+   its =  41 res. norm =        0.172078D+01
+   its =  42 res. norm =        0.168270D+01
+   its =  43 res. norm =        0.163533D+01
+   its =  44 res. norm =        0.157539D+01
+   its =  45 res. norm =        0.152430D+01
+   its =  46 res. norm =        0.149106D+01
+   its =  47 res. norm =        0.146277D+01
+   its =  48 res. norm =        0.142670D+01
+   its =  49 res. norm =        0.137790D+01
+   its =  50 res. norm =        0.133664D+01
+   its =  51 res. norm =        0.130086D+01
+   its =  52 res. norm =        0.125820D+01
+   its =  53 res. norm =        0.122308D+01
+   its =  54 res. norm =        0.119395D+01
+   its =  55 res. norm =        0.116784D+01
+   its =  56 res. norm =        0.114033D+01
+   its =  57 res. norm =        0.111516D+01
+   its =  58 res. norm =        0.109667D+01
+   its =  59 res. norm =        0.108095D+01
+   its =  60 res. norm =        0.106835D+01
+   its =  61 res. norm =        0.105695D+01
+   its =  62 res. norm =        0.104157D+01
+   its =  63 res. norm =        0.102098D+01
+   its =  64 res. norm =        0.990229D+00
+   its =  65 res. norm =        0.961392D+00
+   its =  66 res. norm =        0.943656D+00
+   its =  67 res. norm =        0.928459D+00
+   its =  68 res. norm =        0.906370D+00
+   its =  69 res. norm =        0.870695D+00
+   its =  70 res. norm =        0.843593D+00
+   its =  71 res. norm =        0.819782D+00
+   its =  72 res. norm =        0.790645D+00
+   its =  73 res. norm =        0.771084D+00
+   its =  74 res. norm =        0.757586D+00
+   its =  75 res. norm =        0.745038D+00
+   its =  76 res. norm =        0.729174D+00
+   its =  77 res. norm =        0.714990D+00
+   its =  78 res. norm =        0.705717D+00
+   its =  79 res. norm =        0.698781D+00
+   its =  80 res. norm =        0.692554D+00
+   its =  81 res. norm =        0.686819D+00
+   its =  82 res. norm =        0.680236D+00
+   its =  83 res. norm =        0.670755D+00
+   its =  84 res. norm =        0.654407D+00
+   its =  85 res. norm =        0.637143D+00
+   its =  86 res. norm =        0.626685D+00
+   its =  87 res. norm =        0.617669D+00
+   its =  88 res. norm =        0.603418D+00
+   its =  89 res. norm =        0.576923D+00
+   its =  90 res. norm =        0.557639D+00
+   its =  91 res. norm =        0.540716D+00
+   its =  92 res. norm =        0.519772D+00
+   its =  93 res. norm =        0.507885D+00
+   its =  94 res. norm =        0.500511D+00
+   its =  95 res. norm =        0.493489D+00
+   its =  96 res. norm =        0.483635D+00
+   its =  97 res. norm =        0.475404D+00
+   its =  98 res. norm =        0.470556D+00
+   its =  99 res. norm =        0.467279D+00
+   its = 100 res. norm =        0.463840D+00
+   its = 101 res. norm =        0.460664D+00
+   its = 102 res. norm =        0.457538D+00
+   its = 103 res. norm =        0.452640D+00
+   its = 104 res. norm =        0.443360D+00
+   its = 105 res. norm =        0.432356D+00
+   its = 106 res. norm =        0.425527D+00
+   its = 107 res. norm =        0.419498D+00
+   its = 108 res. norm =        0.409756D+00
+   its = 109 res. norm =        0.390746D+00
+   its = 110 res. norm =        0.376874D+00
+   its = 111 res. norm =        0.364562D+00
+   its = 112 res. norm =        0.349266D+00
+   its = 113 res. norm =        0.341206D+00
+   its = 114 res. norm =        0.336324D+00
+   its = 115 res. norm =        0.331667D+00
+   its = 116 res. norm =        0.325010D+00
+   its = 117 res. norm =        0.319955D+00
+   its = 118 res. norm =        0.317228D+00
+   its = 119 res. norm =        0.315530D+00
+   its = 120 res. norm =        0.313443D+00
+   its = 121 res. norm =        0.311502D+00
+   its = 122 res. norm =        0.309825D+00
+   its = 123 res. norm =        0.307000D+00
+   its = 124 res. norm =        0.301357D+00
+   its = 125 res. norm =        0.293949D+00
+   its = 126 res. norm =        0.289093D+00
+   its = 127 res. norm =        0.284613D+00
+   its = 128 res. norm =        0.277605D+00
+   its = 129 res. norm =        0.264000D+00
+   its = 130 res. norm =        0.254084D+00
+   its = 131 res. norm =        0.245248D+00
+   its = 132 res. norm =        0.234082D+00
+   its = 133 res. norm =        0.228253D+00
+   its = 134 res. norm =        0.224680D+00
+   its = 135 res. norm =        0.221334D+00
+   its = 136 res. norm =        0.216714D+00
+   its = 137 res. norm =        0.213544D+00
+   its = 138 res. norm =        0.211905D+00
+   its = 139 res. norm =        0.210956D+00
+   its = 140 res. norm =        0.209684D+00
+   its = 141 res. norm =        0.208479D+00
+   its = 142 res. norm =        0.207528D+00
+   its = 143 res. norm =        0.205821D+00
+   its = 144 res. norm =        0.202262D+00
+   its = 145 res. norm =        0.197150D+00
+   its = 146 res. norm =        0.193585D+00
+   its = 147 res. norm =        0.190104D+00
+   its = 148 res. norm =        0.184930D+00
+   its = 149 res. norm =        0.175180D+00
+   its = 150 res. norm =        0.168246D+00
+   its = 151 res. norm =        0.162088D+00
+   its = 152 res. norm =        0.154069D+00
+   its = 153 res. norm =        0.149826D+00
+   its = 154 res. norm =        0.147154D+00
+   its = 155 res. norm =        0.144733D+00
+   its = 156 res. norm =        0.141608D+00
+   its = 157 res. norm =        0.139664D+00
+   its = 158 res. norm =        0.138673D+00
+   its = 159 res. norm =        0.138147D+00
+   its = 160 res. norm =        0.137420D+00
+   its = 161 res. norm =        0.136715D+00
+   its = 162 res. norm =        0.136177D+00
+   its = 163 res. norm =        0.135139D+00
+   its = 164 res. norm =        0.132917D+00
+   its = 165 res. norm =        0.129474D+00
+   its = 166 res. norm =        0.126929D+00
+   its = 167 res. norm =        0.124277D+00
+   its = 168 res. norm =        0.120504D+00
+   its = 169 res. norm =        0.113659D+00
+   its = 170 res. norm =        0.108992D+00
+   its = 171 res. norm =        0.104839D+00
+   its = 172 res. norm =        0.993402D-01
+   its = 173 res. norm =        0.963827D-01
+   its = 174 res. norm =        0.944577D-01
+   its = 175 res. norm =        0.928042D-01
+   its = 176 res. norm =        0.908386D-01
+   its = 177 res. norm =        0.896975D-01
+   its = 178 res. norm =        0.891225D-01
+   its = 179 res. norm =        0.888473D-01
+   its = 180 res. norm =        0.884628D-01
+   its = 181 res. norm =        0.880841D-01
+   its = 182 res. norm =        0.877956D-01
+   its = 183 res. norm =        0.871851D-01
+   its = 184 res. norm =        0.858672D-01
+   its = 185 res. norm =        0.837166D-01
+   its = 186 res. norm =        0.820237D-01
+   its = 187 res. norm =        0.801136D-01
+   its = 188 res. norm =        0.775381D-01
+   its = 189 res. norm =        0.731185D-01
+   its = 190 res. norm =        0.702151D-01
+   its = 191 res. norm =        0.676334D-01
+   its = 192 res. norm =        0.642478D-01
+   its = 193 res. norm =        0.623775D-01
+   its = 194 res. norm =        0.610999D-01
+   its = 195 res. norm =        0.600919D-01
+   its = 196 res. norm =        0.590129D-01
+   its = 197 res. norm =        0.584020D-01
+   its = 198 res. norm =        0.580996D-01
+   its = 199 res. norm =        0.579715D-01
+   its = 200 res. norm =        0.577871D-01
+   its = 201 res. norm =        0.576071D-01
+   its = 202 res. norm =        0.574678D-01
+   its = 203 res. norm =        0.571385D-01
+   its = 204 res. norm =        0.564341D-01
+   its = 205 res. norm =        0.552657D-01
+   its = 206 res. norm =        0.542523D-01
+   its = 207 res. norm =        0.529767D-01
+   its = 208 res. norm =        0.514111D-01
+   its = 209 res. norm =        0.489436D-01
+   its = 210 res. norm =        0.473560D-01
+   its = 211 res. norm =        0.459684D-01
+   its = 212 res. norm =        0.442251D-01
+   its = 213 res. norm =        0.431973D-01
+   its = 214 res. norm =        0.424328D-01
+   its = 215 res. norm =        0.419089D-01
+   its = 216 res. norm =        0.414236D-01
+   its = 217 res. norm =        0.411446D-01
+   its = 218 res. norm =        0.410052D-01
+   its = 219 res. norm =        0.409530D-01
+   its = 220 res. norm =        0.408785D-01
+   its = 221 res. norm =        0.408049D-01
+   its = 222 res. norm =        0.407452D-01
+   its = 223 res. norm =        0.405879D-01
+   its = 224 res. norm =        0.402619D-01
+   its = 225 res. norm =        0.397469D-01
+   its = 226 res. norm =        0.392111D-01
+   its = 227 res. norm =        0.383715D-01
+   its = 228 res. norm =        0.374914D-01
+   its = 229 res. norm =        0.362775D-01
+   its = 230 res. norm =        0.354809D-01
+   its = 231 res. norm =        0.348199D-01
+   its = 232 res. norm =        0.339967D-01
+   its = 233 res. norm =        0.334736D-01
+   its = 234 res. norm =        0.330166D-01
+   its = 235 res. norm =        0.327540D-01
+   its = 236 res. norm =        0.325744D-01
+   its = 237 res. norm =        0.324565D-01
+   its = 238 res. norm =        0.323935D-01
+   its = 239 res. norm =        0.323748D-01
+   its = 240 res. norm =        0.323440D-01
+   its = 241 res. norm =        0.323150D-01
+   its = 242 res. norm =        0.322909D-01
+   its = 243 res. norm =        0.322161D-01
+   its = 244 res. norm =        0.320814D-01
+   its = 245 res. norm =        0.318848D-01
+   its = 246 res. norm =        0.315890D-01
+   its = 247 res. norm =        0.309621D-01
+   its = 248 res. norm =        0.303711D-01
+   its = 249 res. norm =        0.296308D-01
+   its = 250 res. norm =        0.290805D-01
+   its = 251 res. norm =        0.286391D-01
+   its = 252 res. norm =        0.280955D-01
+   its = 253 res. norm =        0.277059D-01
+   its = 254 res. norm =        0.273248D-01
+   its = 255 res. norm =        0.271293D-01
+   its = 256 res. norm =        0.270405D-01
+   its = 257 res. norm =        0.269760D-01
+   its = 258 res. norm =        0.269391D-01
+   its = 259 res. norm =        0.269264D-01
+   its = 260 res. norm =        0.269093D-01
+   its = 261 res. norm =        0.268921D-01
+   its = 262 res. norm =        0.268783D-01
+   its = 263 res. norm =        0.268386D-01
+   its = 264 res. norm =        0.267626D-01
+   its = 265 res. norm =        0.266773D-01
+   its = 266 res. norm =        0.264620D-01
+   its = 267 res. norm =        0.259229D-01
+   its = 268 res. norm =        0.254205D-01
+   its = 269 res. norm =        0.248558D-01
+   its = 270 res. norm =        0.242205D-01
+   its = 271 res. norm =        0.237366D-01
+   its = 272 res. norm =        0.232206D-01
+   its = 273 res. norm =        0.227822D-01
+   its = 274 res. norm =        0.223767D-01
+   its = 275 res. norm =        0.220434D-01
+   its = 276 res. norm =        0.219805D-01
+   its = 277 res. norm =        0.219279D-01
+   its = 278 res. norm =        0.218894D-01
+   its = 279 res. norm =        0.218774D-01
+   its = 280 res. norm =        0.218669D-01
+   its = 281 res. norm =        0.218572D-01
+   its = 282 res. norm =        0.218427D-01
+   its = 283 res. norm =        0.218108D-01
+   its = 284 res. norm =        0.217518D-01
+   its = 285 res. norm =        0.216930D-01
+   its = 286 res. norm =        0.213966D-01
+   its = 287 res. norm =        0.209383D-01
+   its = 288 res. norm =        0.206205D-01
+   its = 289 res. norm =        0.201836D-01
+   its = 290 res. norm =        0.194339D-01
+   its = 291 res. norm =        0.187694D-01
+   its = 292 res. norm =        0.183856D-01
+   its = 293 res. norm =        0.180957D-01
+   its = 294 res. norm =        0.177521D-01
+   its = 295 res. norm =        0.174976D-01
+   its = 296 res. norm =        0.174028D-01
+   its = 297 res. norm =        0.173536D-01
+   its = 298 res. norm =        0.173281D-01
+   its = 299 res. norm =        0.173030D-01
+   its = 300 res. norm =        0.172921D-01
+   its = 301 res. norm =        0.172842D-01
+   its = 302 res. norm =        0.172594D-01
+   its = 303 res. norm =        0.172335D-01
+   its = 304 res. norm =        0.172057D-01
+   its = 305 res. norm =        0.171517D-01
+   its = 306 res. norm =        0.169799D-01
+   its = 307 res. norm =        0.168730D-01
+   its = 308 res. norm =        0.167775D-01
+   its = 309 res. norm =        0.166284D-01
+   its = 310 res. norm =        0.164309D-01
+   its = 311 res. norm =        0.162719D-01
+   its = 312 res. norm =        0.161840D-01
+   its = 313 res. norm =        0.161304D-01
+   its = 314 res. norm =        0.160615D-01
+   its = 315 res. norm =        0.159426D-01
+   its = 316 res. norm =        0.158894D-01
+   its = 317 res. norm =        0.158488D-01
+   its = 318 res. norm =        0.158007D-01
+   its = 319 res. norm =        0.157456D-01
+   its = 320 res. norm =        0.157153D-01
+   its = 321 res. norm =        0.156920D-01
+   its = 322 res. norm =        0.156541D-01
+   its = 323 res. norm =        0.156297D-01
+   its = 324 res. norm =        0.156124D-01
+   its = 325 res. norm =        0.155912D-01
+   its = 326 res. norm =        0.155569D-01
+   its = 327 res. norm =        0.155336D-01
+   its = 328 res. norm =        0.154950D-01
+   its = 329 res. norm =        0.154553D-01
+   its = 330 res. norm =        0.154060D-01
+   its = 331 res. norm =        0.153597D-01
+   its = 332 res. norm =        0.153241D-01
+   its = 333 res. norm =        0.152896D-01
+   its = 334 res. norm =        0.152660D-01
+   its = 335 res. norm =        0.152315D-01
+   its = 336 res. norm =        0.152102D-01
+   its = 337 res. norm =        0.151897D-01
+   its = 338 res. norm =        0.151654D-01
+   its = 339 res. norm =        0.151337D-01
+   its = 340 res. norm =        0.151028D-01
+   its = 341 res. norm =        0.150759D-01
+   its = 342 res. norm =        0.150442D-01
+   its = 343 res. norm =        0.150170D-01
+   its = 344 res. norm =        0.149968D-01
+   its = 345 res. norm =        0.149793D-01
+   its = 346 res. norm =        0.149511D-01
+   its = 347 res. norm =        0.149278D-01
+   its = 348 res. norm =        0.148916D-01
+   its = 349 res. norm =        0.148583D-01
+   its = 350 res. norm =        0.148121D-01
+   its = 351 res. norm =        0.147672D-01
+   its = 352 res. norm =        0.147372D-01
+   its = 353 res. norm =        0.147072D-01
+   its = 354 res. norm =        0.146824D-01
+   its = 355 res. norm =        0.146502D-01
+   its = 356 res. norm =        0.146318D-01
+   its = 357 res. norm =        0.146096D-01
+   its = 358 res. norm =        0.145827D-01
+   its = 359 res. norm =        0.145550D-01
+   its = 360 res. norm =        0.145266D-01
+   its = 361 res. norm =        0.144997D-01
+   its = 362 res. norm =        0.144703D-01
+   its = 363 res. norm =        0.144421D-01
+   its = 364 res. norm =        0.144220D-01
+   its = 365 res. norm =        0.144059D-01
+   its = 366 res. norm =        0.143773D-01
+   its = 367 res. norm =        0.143540D-01
+   its = 368 res. norm =        0.143225D-01
+   its = 369 res. norm =        0.142864D-01
+   its = 370 res. norm =        0.142366D-01
+   its = 371 res. norm =        0.141879D-01
+   its = 372 res. norm =        0.141557D-01
+   its = 373 res. norm =        0.141308D-01
+   its = 374 res. norm =        0.141062D-01
+   its = 375 res. norm =        0.140733D-01
+   its = 376 res. norm =        0.140566D-01
+   its = 377 res. norm =        0.140351D-01
+   its = 378 res. norm =        0.140066D-01
+   its = 379 res. norm =        0.139796D-01
+   its = 380 res. norm =        0.139529D-01
+   its = 381 res. norm =        0.139268D-01
+   its = 382 res. norm =        0.138982D-01
+   its = 383 res. norm =        0.138697D-01
+   its = 384 res. norm =        0.138510D-01
+   its = 385 res. norm =        0.138357D-01
+   its = 386 res. norm =        0.138048D-01
+   its = 387 res. norm =        0.137813D-01
+   its = 388 res. norm =        0.137555D-01
+   its = 389 res. norm =        0.137108D-01
+   its = 390 res. norm =        0.136503D-01
+   its = 391 res. norm =        0.135915D-01
+   its = 392 res. norm =        0.135517D-01
+   its = 393 res. norm =        0.135313D-01
+   its = 394 res. norm =        0.135076D-01
+   its = 395 res. norm =        0.134736D-01
+   its = 396 res. norm =        0.134581D-01
+   its = 397 res. norm =        0.134382D-01
+   its = 398 res. norm =        0.134095D-01
+   its = 399 res. norm =        0.133832D-01
+   its = 400 res. norm =        0.133570D-01
+   its = 401 res. norm =        0.133318D-01
+   its = 402 res. norm =        0.133043D-01
+   its = 403 res. norm =        0.132764D-01
+   its = 404 res. norm =        0.132592D-01
+   its = 405 res. norm =        0.132443D-01
+   its = 406 res. norm =        0.132114D-01
+   its = 407 res. norm =        0.131879D-01
+   its = 408 res. norm =        0.131668D-01
+   its = 409 res. norm =        0.131046D-01
+   its = 410 res. norm =        0.130216D-01
+   its = 411 res. norm =        0.129422D-01
+   its = 412 res. norm =        0.128875D-01
+   its = 413 res. norm =        0.128704D-01
+   its = 414 res. norm =        0.128479D-01
+   its = 415 res. norm =        0.128151D-01
+   its = 416 res. norm =        0.128001D-01
+   its = 417 res. norm =        0.127804D-01
+   its = 418 res. norm =        0.127539D-01
+   its = 419 res. norm =        0.127318D-01
+   its = 420 res. norm =        0.127031D-01
+   its = 421 res. norm =        0.126772D-01
+   its = 422 res. norm =        0.126549D-01
+   its = 423 res. norm =        0.126292D-01
+   its = 424 res. norm =        0.126119D-01
+   its = 425 res. norm =        0.125972D-01
+   its = 426 res. norm =        0.125656D-01
+   its = 427 res. norm =        0.125419D-01
+   its = 428 res. norm =        0.125217D-01
+   its = 429 res. norm =        0.124583D-01
+   its = 430 res. norm =        0.123914D-01
+   its = 431 res. norm =        0.123290D-01
+   its = 432 res. norm =        0.122734D-01
+   its = 433 res. norm =        0.122531D-01
+   its = 434 res. norm =        0.122304D-01
+   its = 435 res. norm =        0.122070D-01
+   its = 436 res. norm =        0.121894D-01
+   its = 437 res. norm =        0.121670D-01
+   its = 438 res. norm =        0.121502D-01
+   its = 439 res. norm =        0.121337D-01
+   its = 440 res. norm =        0.120929D-01
+   its = 441 res. norm =        0.120672D-01
+   its = 442 res. norm =        0.120479D-01
+   its = 443 res. norm =        0.120248D-01
+   its = 444 res. norm =        0.120070D-01
+   its = 445 res. norm =        0.119924D-01
+   its = 446 res. norm =        0.119644D-01
+   its = 447 res. norm =        0.119382D-01
+   its = 448 res. norm =        0.119194D-01
+   its = 449 res. norm =        0.118793D-01
+   its = 450 res. norm =        0.118135D-01
+   its = 451 res. norm =        0.117550D-01
+   its = 452 res. norm =        0.117171D-01
+   its = 453 res. norm =        0.116932D-01
+   its = 454 res. norm =        0.116745D-01
+   its = 455 res. norm =        0.116553D-01
+   its = 456 res. norm =        0.116342D-01
+   its = 457 res. norm =        0.116161D-01
+   its = 458 res. norm =        0.115977D-01
+   its = 459 res. norm =        0.115787D-01
+   its = 460 res. norm =        0.115518D-01
+   its = 461 res. norm =        0.115343D-01
+   its = 462 res. norm =        0.115117D-01
+   its = 463 res. norm =        0.114958D-01
+   its = 464 res. norm =        0.114762D-01
+   its = 465 res. norm =        0.114580D-01
+   its = 466 res. norm =        0.114413D-01
+   its = 467 res. norm =        0.114160D-01
+   its = 468 res. norm =        0.113889D-01
+   its = 469 res. norm =        0.113575D-01
+   its = 470 res. norm =        0.113193D-01
+   its = 471 res. norm =        0.112828D-01
+   its = 472 res. norm =        0.112535D-01
+   its = 473 res. norm =        0.112303D-01
+   its = 474 res. norm =        0.112083D-01
+   its = 475 res. norm =        0.111911D-01
+   its = 476 res. norm =        0.111729D-01
+   its = 477 res. norm =        0.111519D-01
+   its = 478 res. norm =        0.111349D-01
+   its = 479 res. norm =        0.111156D-01
+   its = 480 res. norm =        0.110962D-01
+   its = 481 res. norm =        0.110798D-01
+   its = 482 res. norm =        0.110582D-01
+   its = 483 res. norm =        0.110432D-01
+   its = 484 res. norm =        0.110246D-01
+   its = 485 res. norm =        0.110083D-01
+   its = 486 res. norm =        0.109912D-01
+   its = 487 res. norm =        0.109655D-01
+   its = 488 res. norm =        0.109396D-01
+   its = 489 res. norm =        0.109106D-01
+   its = 490 res. norm =        0.108770D-01
+   its = 491 res. norm =        0.108439D-01
+   its = 492 res. norm =        0.108163D-01
+   its = 493 res. norm =        0.107952D-01
+   its = 494 res. norm =        0.107729D-01
+   its = 495 res. norm =        0.107554D-01
+   its = 496 res. norm =        0.107384D-01
+   its = 497 res. norm =        0.107190D-01
+   its = 498 res. norm =        0.107033D-01
+   its = 499 res. norm =        0.106829D-01
+   its = 500 res. norm =        0.106662D-01
+   its = 501 res. norm =        0.106503D-01
+   its = 502 res. norm =        0.106296D-01
+   its = 503 res. norm =        0.106149D-01
+   its = 504 res. norm =        0.105987D-01
+   its = 505 res. norm =        0.105830D-01
+   its = 506 res. norm =        0.105662D-01
+   its = 507 res. norm =        0.105399D-01
+   its = 508 res. norm =        0.105159D-01
+   its = 509 res. norm =        0.104882D-01
+   its = 510 res. norm =        0.104552D-01
+   its = 511 res. norm =        0.104229D-01
+   its = 512 res. norm =        0.103966D-01
+   its = 513 res. norm =        0.103771D-01
+   its = 514 res. norm =        0.103543D-01
+   its = 515 res. norm =        0.103371D-01
+   its = 516 res. norm =        0.103206D-01
+   its = 517 res. norm =        0.103035D-01
+   its = 518 res. norm =        0.102881D-01
+   its = 519 res. norm =        0.102686D-01
+   its = 520 res. norm =        0.102524D-01
+   its = 521 res. norm =        0.102371D-01
+   its = 522 res. norm =        0.102177D-01
+   its = 523 res. norm =        0.102031D-01
+   its = 524 res. norm =        0.101888D-01
+   its = 525 res. norm =        0.101738D-01
+   its = 526 res. norm =        0.101572D-01
+   its = 527 res. norm =        0.101303D-01
+   its = 528 res. norm =        0.101078D-01
+   its = 529 res. norm =        0.100811D-01
+   its = 530 res. norm =        0.100477D-01
+   its = 531 res. norm =        0.100150D-01
+   its = 532 res. norm =        0.998974D-02
+   its = 533 res. norm =        0.997150D-02
+   its = 534 res. norm =        0.994825D-02
+   its = 535 res. norm =        0.993118D-02
+   its = 536 res. norm =        0.991498D-02
+   its = 537 res. norm =        0.990033D-02
+   its = 538 res. norm =        0.988506D-02
+   its = 539 res. norm =        0.986639D-02
+   its = 540 res. norm =        0.985106D-02
+   its = 541 res. norm =        0.983632D-02
+   its = 542 res. norm =        0.981813D-02
+   its = 543 res. norm =        0.980387D-02
+   its = 544 res. norm =        0.979144D-02
+   its = 545 res. norm =        0.977689D-02
+   its = 546 res. norm =        0.976059D-02
+   its = 547 res. norm =        0.973332D-02
+   its = 548 res. norm =        0.971201D-02
+   its = 549 res. norm =        0.968601D-02
+   its = 550 res. norm =        0.965254D-02
+   its = 551 res. norm =        0.962105D-02
+   its = 552 res. norm =        0.959519D-02
+   its = 553 res. norm =        0.957838D-02
+   its = 554 res. norm =        0.955489D-02
+   its = 555 res. norm =        0.953704D-02
+   its = 556 res. norm =        0.952258D-02
+   its = 557 res. norm =        0.950930D-02
+   its = 558 res. norm =        0.949364D-02
+   its = 559 res. norm =        0.947755D-02
+   its = 560 res. norm =        0.946295D-02
+   its = 561 res. norm =        0.945008D-02
+   its = 562 res. norm =        0.943383D-02
+   its = 563 res. norm =        0.941898D-02
+   its = 564 res. norm =        0.940834D-02
+   its = 565 res. norm =        0.939520D-02
+   its = 566 res. norm =        0.937778D-02
+   its = 567 res. norm =        0.935058D-02
+   its = 568 res. norm =        0.933086D-02
+   its = 569 res. norm =        0.930326D-02
+   its = 570 res. norm =        0.926988D-02
+   its = 571 res. norm =        0.923860D-02
+   its = 572 res. norm =        0.921226D-02
+   its = 573 res. norm =        0.919560D-02
+   its = 574 res. norm =        0.917182D-02
+   its = 575 res. norm =        0.915440D-02
+   its = 576 res. norm =        0.914001D-02
+   its = 577 res. norm =        0.912890D-02
+   its = 578 res. norm =        0.911342D-02
+   its = 579 res. norm =        0.909771D-02
+   its = 580 res. norm =        0.908471D-02
+   its = 581 res. norm =        0.907215D-02
+   its = 582 res. norm =        0.905723D-02
+   its = 583 res. norm =        0.904264D-02
+   its = 584 res. norm =        0.903336D-02
+   its = 585 res. norm =        0.902077D-02
+   its = 586 res. norm =        0.900335D-02
+   its = 587 res. norm =        0.897560D-02
+   its = 588 res. norm =        0.895649D-02
+   its = 589 res. norm =        0.892874D-02
+   its = 590 res. norm =        0.889411D-02
+   its = 591 res. norm =        0.886098D-02
+   its = 592 res. norm =        0.883474D-02
+   its = 593 res. norm =        0.881901D-02
+   its = 594 res. norm =        0.879539D-02
+   its = 595 res. norm =        0.877668D-02
+   its = 596 res. norm =        0.876388D-02
+   its = 597 res. norm =        0.875339D-02
+   its = 598 res. norm =        0.873899D-02
+   its = 599 res. norm =        0.872420D-02
+   its = 600 res. norm =        0.871152D-02
+   its = 601 res. norm =        0.870006D-02
+   its = 602 res. norm =        0.868556D-02
+   its = 603 res. norm =        0.867242D-02
+   its = 604 res. norm =        0.866339D-02
+   its = 605 res. norm =        0.865209D-02
+   its = 606 res. norm =        0.863391D-02
+   its = 607 res. norm =        0.860714D-02
+   its = 608 res. norm =        0.858764D-02
+   its = 609 res. norm =        0.856265D-02
+   its = 610 res. norm =        0.852693D-02
+   its = 611 res. norm =        0.849590D-02
+   its = 612 res. norm =        0.847115D-02
+   its = 613 res. norm =        0.845515D-02
+   its = 614 res. norm =        0.843531D-02
+   its = 615 res. norm =        0.841104D-02
+   its = 616 res. norm =        0.840115D-02
+   its = 617 res. norm =        0.839010D-02
+   its = 618 res. norm =        0.837724D-02
+   its = 619 res. norm =        0.836290D-02
+   its = 620 res. norm =        0.835036D-02
+   its = 621 res. norm =        0.833986D-02
+   its = 622 res. norm =        0.832456D-02
+   its = 623 res. norm =        0.831395D-02
+   its = 624 res. norm =        0.830475D-02
+   its = 625 res. norm =        0.829524D-02
+   its = 626 res. norm =        0.827440D-02
+   its = 627 res. norm =        0.824709D-02
+   its = 628 res. norm =        0.823040D-02
+   its = 629 res. norm =        0.820207D-02
+   its = 630 res. norm =        0.816848D-02
+   its = 631 res. norm =        0.813670D-02
+   its = 632 res. norm =        0.811024D-02
+   its = 633 res. norm =        0.809623D-02
+   its = 634 res. norm =        0.807286D-02
+   its = 635 res. norm =        0.805126D-02
+   its = 636 res. norm =        0.804170D-02
+   its = 637 res. norm =        0.803162D-02
+   its = 638 res. norm =        0.801989D-02
+   its = 639 res. norm =        0.800508D-02
+   its = 640 res. norm =        0.799442D-02
+   its = 641 res. norm =        0.798454D-02
+   its = 642 res. norm =        0.797019D-02
+   its = 643 res. norm =        0.796014D-02
+   its = 644 res. norm =        0.795182D-02
+   its = 645 res. norm =        0.794265D-02
+   its = 646 res. norm =        0.792162D-02
+   its = 647 res. norm =        0.789408D-02
+   its = 648 res. norm =        0.787777D-02
+   its = 649 res. norm =        0.785044D-02
+   its = 650 res. norm =        0.781515D-02
+   its = 651 res. norm =        0.778227D-02
+   its = 652 res. norm =        0.775686D-02
+   its = 653 res. norm =        0.774226D-02
+   its = 654 res. norm =        0.772080D-02
+   its = 655 res. norm =        0.769850D-02
+   its = 656 res. norm =        0.768786D-02
+   its = 657 res. norm =        0.768023D-02
+   its = 658 res. norm =        0.766785D-02
+   its = 659 res. norm =        0.765409D-02
+   its = 660 res. norm =        0.764414D-02
+   its = 661 res. norm =        0.763501D-02
+   its = 662 res. norm =        0.762248D-02
+   its = 663 res. norm =        0.761168D-02
+   its = 664 res. norm =        0.760514D-02
+   its = 665 res. norm =        0.759448D-02
+   its = 666 res. norm =        0.757226D-02
+   its = 667 res. norm =        0.754735D-02
+   its = 668 res. norm =        0.753053D-02
+   its = 669 res. norm =        0.750416D-02
+   its = 670 res. norm =        0.746843D-02
+   its = 671 res. norm =        0.743469D-02
+   its = 672 res. norm =        0.741026D-02
+   its = 673 res. norm =        0.739497D-02
+   its = 674 res. norm =        0.737441D-02
+   its = 675 res. norm =        0.735241D-02
+   its = 676 res. norm =        0.734095D-02
+   its = 677 res. norm =        0.733456D-02
+   its = 678 res. norm =        0.732254D-02
+   its = 679 res. norm =        0.730906D-02
+   its = 680 res. norm =        0.730020D-02
+   its = 681 res. norm =        0.729176D-02
+   its = 682 res. norm =        0.727987D-02
+   its = 683 res. norm =        0.726962D-02
+   its = 684 res. norm =        0.726397D-02
+   its = 685 res. norm =        0.725243D-02
+   its = 686 res. norm =        0.722942D-02
+   its = 687 res. norm =        0.720581D-02
+   its = 688 res. norm =        0.718911D-02
+   its = 689 res. norm =        0.716206D-02
+   its = 690 res. norm =        0.712679D-02
+   its = 691 res. norm =        0.709246D-02
+   its = 692 res. norm =        0.706719D-02
+   its = 693 res. norm =        0.705231D-02
+   its = 694 res. norm =        0.703084D-02
+   its = 695 res. norm =        0.700929D-02
+   its = 696 res. norm =        0.699865D-02
+   its = 697 res. norm =        0.699266D-02
+   its = 698 res. norm =        0.698088D-02
+   its = 699 res. norm =        0.696880D-02
+   its = 700 res. norm =        0.696040D-02
+   its = 701 res. norm =        0.695230D-02
+   its = 702 res. norm =        0.694171D-02
+   its = 703 res. norm =        0.693179D-02
+   its = 704 res. norm =        0.692650D-02
+   its = 705 res. norm =        0.691573D-02
+   its = 706 res. norm =        0.689334D-02
+   its = 707 res. norm =        0.686867D-02
+   its = 708 res. norm =        0.685233D-02
+   its = 709 res. norm =        0.682502D-02
+   its = 710 res. norm =        0.679055D-02
+   its = 711 res. norm =        0.675697D-02
+   its = 712 res. norm =        0.673132D-02
+   its = 713 res. norm =        0.671647D-02
+   its = 714 res. norm =        0.669389D-02
+   its = 715 res. norm =        0.667342D-02
+   its = 716 res. norm =        0.666361D-02
+   its = 717 res. norm =        0.665772D-02
+   its = 718 res. norm =        0.664640D-02
+   its = 719 res. norm =        0.663617D-02
+   its = 720 res. norm =        0.662786D-02
+   its = 721 res. norm =        0.661993D-02
+   its = 722 res. norm =        0.661108D-02
+   its = 723 res. norm =        0.660167D-02
+   its = 724 res. norm =        0.659647D-02
+   its = 725 res. norm =        0.658655D-02
+   its = 726 res. norm =        0.656684D-02
+   its = 727 res. norm =        0.654234D-02
+   its = 728 res. norm =        0.652430D-02
+   its = 729 res. norm =        0.649600D-02
+   its = 730 res. norm =        0.646883D-02
+   its = 731 res. norm =        0.644311D-02
+   its = 732 res. norm =        0.641702D-02
+   its = 733 res. norm =        0.639939D-02
+   its = 734 res. norm =        0.637635D-02
+   its = 735 res. norm =        0.635964D-02
+   its = 736 res. norm =        0.635042D-02
+   its = 737 res. norm =        0.634359D-02
+   its = 738 res. norm =        0.633408D-02
+   its = 739 res. norm =        0.632701D-02
+   its = 740 res. norm =        0.631728D-02
+   its = 741 res. norm =        0.630855D-02
+   its = 742 res. norm =        0.630256D-02
+   its = 743 res. norm =        0.629394D-02
+   its = 744 res. norm =        0.628768D-02
+   its = 745 res. norm =        0.627907D-02
+   its = 746 res. norm =        0.626463D-02
+   its = 747 res. norm =        0.624066D-02
+   its = 748 res. norm =        0.621842D-02
+   its = 749 res. norm =        0.618819D-02
+   its = 750 res. norm =        0.616619D-02
+   its = 751 res. norm =        0.614546D-02
+   its = 752 res. norm =        0.611880D-02
+   its = 753 res. norm =        0.609842D-02
+   its = 754 res. norm =        0.607523D-02
+   its = 755 res. norm =        0.606133D-02
+   its = 756 res. norm =        0.605296D-02
+   its = 757 res. norm =        0.604569D-02
+   its = 758 res. norm =        0.603591D-02
+   its = 759 res. norm =        0.603001D-02
+   its = 760 res. norm =        0.602110D-02
+   its = 761 res. norm =        0.601243D-02
+   its = 762 res. norm =        0.600703D-02
+   its = 763 res. norm =        0.599885D-02
+   its = 764 res. norm =        0.599301D-02
+   its = 765 res. norm =        0.598513D-02
+   its = 766 res. norm =        0.597129D-02
+   its = 767 res. norm =        0.594488D-02
+   its = 768 res. norm =        0.592177D-02
+   its = 769 res. norm =        0.589293D-02
+   its = 770 res. norm =        0.587209D-02
+   its = 771 res. norm =        0.585186D-02
+   its = 772 res. norm =        0.582493D-02
+   its = 773 res. norm =        0.580431D-02
+   its = 774 res. norm =        0.578040D-02
+   its = 775 res. norm =        0.576697D-02
+   its = 776 res. norm =        0.575903D-02
+   its = 777 res. norm =        0.575239D-02
+   its = 778 res. norm =        0.574307D-02
+   its = 779 res. norm =        0.573754D-02
+   its = 780 res. norm =        0.572871D-02
+   its = 781 res. norm =        0.572009D-02
+   its = 782 res. norm =        0.571497D-02
+   its = 783 res. norm =        0.570719D-02
+   its = 784 res. norm =        0.570194D-02
+   its = 785 res. norm =        0.569457D-02
+   its = 786 res. norm =        0.568149D-02
+   its = 787 res. norm =        0.565444D-02
+   its = 788 res. norm =        0.563077D-02
+   its = 789 res. norm =        0.560158D-02
+   its = 790 res. norm =        0.558100D-02
+   its = 791 res. norm =        0.556118D-02
+   its = 792 res. norm =        0.553425D-02
+   its = 793 res. norm =        0.551307D-02
+   its = 794 res. norm =        0.548861D-02
+   its = 795 res. norm =        0.547555D-02
+   its = 796 res. norm =        0.546793D-02
+   its = 797 res. norm =        0.546197D-02
+   its = 798 res. norm =        0.545304D-02
+   its = 799 res. norm =        0.544779D-02
+   its = 800 res. norm =        0.543919D-02
+   its = 801 res. norm =        0.543081D-02
+   its = 802 res. norm =        0.542587D-02
+   its = 803 res. norm =        0.541854D-02
+   its = 804 res. norm =        0.541387D-02
+   its = 805 res. norm =        0.540680D-02
+   its = 806 res. norm =        0.539449D-02
+   its = 807 res. norm =        0.536681D-02
+   its = 808 res. norm =        0.534249D-02
+   its = 809 res. norm =        0.531349D-02
+   its = 810 res. norm =        0.529269D-02
+   its = 811 res. norm =        0.527315D-02
+   its = 812 res. norm =        0.524643D-02
+   its = 813 res. norm =        0.522420D-02
+   its = 814 res. norm =        0.519988D-02
+   its = 815 res. norm =        0.518701D-02
+   its = 816 res. norm =        0.517931D-02
+   its = 817 res. norm =        0.517410D-02
+   its = 818 res. norm =        0.516562D-02
+   its = 819 res. norm =        0.516045D-02
+   its = 820 res. norm =        0.515251D-02
+   its = 821 res. norm =        0.514484D-02
+   its = 822 res. norm =        0.513996D-02
+   its = 823 res. norm =        0.513295D-02
+   its = 824 res. norm =        0.512888D-02
+   its = 825 res. norm =        0.512201D-02
+   its = 826 res. norm =        0.511028D-02
+   its = 827 res. norm =        0.508270D-02
+   its = 828 res. norm =        0.505668D-02
+   its = 829 res. norm =        0.502792D-02
+   its = 830 res. norm =        0.500715D-02
+   its = 831 res. norm =        0.498792D-02
+   its = 832 res. norm =        0.496152D-02
+   its = 833 res. norm =        0.493809D-02
+   its = 834 res. norm =        0.491356D-02
+   its = 835 res. norm =        0.490080D-02
+   its = 836 res. norm =        0.489339D-02
+   its = 837 res. norm =        0.488873D-02
+   its = 838 res. norm =        0.488076D-02
+   its = 839 res. norm =        0.487560D-02
+   its = 840 res. norm =        0.486861D-02
+   its = 841 res. norm =        0.486175D-02
+   its = 842 res. norm =        0.485665D-02
+   its = 843 res. norm =        0.485032D-02
+   its = 844 res. norm =        0.484667D-02
+   its = 845 res. norm =        0.484037D-02
+   its = 846 res. norm =        0.482751D-02
+   its = 847 res. norm =        0.480097D-02
+   its = 848 res. norm =        0.477374D-02
+   its = 849 res. norm =        0.474501D-02
+   its = 850 res. norm =        0.472428D-02
+   its = 851 res. norm =        0.470544D-02
+   its = 852 res. norm =        0.467774D-02
+   its = 853 res. norm =        0.465410D-02
+   its = 854 res. norm =        0.462967D-02
+   its = 855 res. norm =        0.461628D-02
+   its = 856 res. norm =        0.460967D-02
+   its = 857 res. norm =        0.460528D-02
+   its = 858 res. norm =        0.459848D-02
+   its = 859 res. norm =        0.459294D-02
+   its = 860 res. norm =        0.458640D-02
+   its = 861 res. norm =        0.458007D-02
+   its = 862 res. norm =        0.457497D-02
+   its = 863 res. norm =        0.456926D-02
+   its = 864 res. norm =        0.456575D-02
+   its = 865 res. norm =        0.456003D-02
+   its = 866 res. norm =        0.454706D-02
+   its = 867 res. norm =        0.452008D-02
+   its = 868 res. norm =        0.449206D-02
+   its = 869 res. norm =        0.446156D-02
+   its = 870 res. norm =        0.444172D-02
+   its = 871 res. norm =        0.442288D-02
+   its = 872 res. norm =        0.439436D-02
+   its = 873 res. norm =        0.437030D-02
+   its = 874 res. norm =        0.434470D-02
+   its = 875 res. norm =        0.433151D-02
+   its = 876 res. norm =        0.432550D-02
+   its = 877 res. norm =        0.432156D-02
+   its = 878 res. norm =        0.431515D-02
+   its = 879 res. norm =        0.430988D-02
+   its = 880 res. norm =        0.430243D-02
+   its = 881 res. norm =        0.429510D-02
+   its = 882 res. norm =        0.429021D-02
+   its = 883 res. norm =        0.428483D-02
+   its = 884 res. norm =        0.428170D-02
+   its = 885 res. norm =        0.427636D-02
+   its = 886 res. norm =        0.426361D-02
+   its = 887 res. norm =        0.423502D-02
+   its = 888 res. norm =        0.420735D-02
+   its = 889 res. norm =        0.417557D-02
+   its = 890 res. norm =        0.415541D-02
+   its = 891 res. norm =        0.413629D-02
+   its = 892 res. norm =        0.410709D-02
+   its = 893 res. norm =        0.408251D-02
+   its = 894 res. norm =        0.405576D-02
+   its = 895 res. norm =        0.404284D-02
+   its = 896 res. norm =        0.403710D-02
+   its = 897 res. norm =        0.403364D-02
+   its = 898 res. norm =        0.402770D-02
+   its = 899 res. norm =        0.402277D-02
+   its = 900 res. norm =        0.401378D-02
+   its = 901 res. norm =        0.400499D-02
+   its = 902 res. norm =        0.400038D-02
+   its = 903 res. norm =        0.399530D-02
+   its = 904 res. norm =        0.399249D-02
+   its = 905 res. norm =        0.398774D-02
+   its = 906 res. norm =        0.397628D-02
+   its = 907 res. norm =        0.394562D-02
+   its = 908 res. norm =        0.391722D-02
+   its = 909 res. norm =        0.388525D-02
+   its = 910 res. norm =        0.386376D-02
+   its = 911 res. norm =        0.384420D-02
+   its = 912 res. norm =        0.381559D-02
+   its = 913 res. norm =        0.378955D-02
+   its = 914 res. norm =        0.376147D-02
+   its = 915 res. norm =        0.374910D-02
+   its = 916 res. norm =        0.374334D-02
+   its = 917 res. norm =        0.374053D-02
+   its = 918 res. norm =        0.373519D-02
+   its = 919 res. norm =        0.373050D-02
+   its = 920 res. norm =        0.372267D-02
+   its = 921 res. norm =        0.371520D-02
+   its = 922 res. norm =        0.371068D-02
+   its = 923 res. norm =        0.370615D-02
+   its = 924 res. norm =        0.370362D-02
+   its = 925 res. norm =        0.369912D-02
+   its = 926 res. norm =        0.368873D-02
+   its = 927 res. norm =        0.365515D-02
+   its = 928 res. norm =        0.362591D-02
+   its = 929 res. norm =        0.359408D-02
+   its = 930 res. norm =        0.356984D-02
+   its = 931 res. norm =        0.354926D-02
+   its = 932 res. norm =        0.352063D-02
+   its = 933 res. norm =        0.349240D-02
+   its = 934 res. norm =        0.346345D-02
+   its = 935 res. norm =        0.345076D-02
+   its = 936 res. norm =        0.344490D-02
+   its = 937 res. norm =        0.344263D-02
+   its = 938 res. norm =        0.343793D-02
+   its = 939 res. norm =        0.343347D-02
+   its = 940 res. norm =        0.342717D-02
+   its = 941 res. norm =        0.342104D-02
+   its = 942 res. norm =        0.341694D-02
+   its = 943 res. norm =        0.341252D-02
+   its = 944 res. norm =        0.341042D-02
+   its = 945 res. norm =        0.340567D-02
+   its = 946 res. norm =        0.339240D-02
+   its = 947 res. norm =        0.336072D-02
+   its = 948 res. norm =        0.332606D-02
+   its = 949 res. norm =        0.329233D-02
+   its = 950 res. norm =        0.326851D-02
+   its = 951 res. norm =        0.324720D-02
+   its = 952 res. norm =        0.321565D-02
+   its = 953 res. norm =        0.318614D-02
+   its = 954 res. norm =        0.315525D-02
+   its = 955 res. norm =        0.314110D-02
+   its = 956 res. norm =        0.313643D-02
+   its = 957 res. norm =        0.313440D-02
+   its = 958 res. norm =        0.313052D-02
+   its = 959 res. norm =        0.312628D-02
+   its = 960 res. norm =        0.312131D-02
+   its = 961 res. norm =        0.311652D-02
+   its = 962 res. norm =        0.311230D-02
+   its = 963 res. norm =        0.310862D-02
+   its = 964 res. norm =        0.310665D-02
+   its = 965 res. norm =        0.310269D-02
+   its = 966 res. norm =        0.308754D-02
+   its = 967 res. norm =        0.305180D-02
+   its = 968 res. norm =        0.301475D-02
+   its = 969 res. norm =        0.297779D-02
+   its = 970 res. norm =        0.295118D-02
+   its = 971 res. norm =        0.292795D-02
+   its = 972 res. norm =        0.289311D-02
+   its = 973 res. norm =        0.286137D-02
+   its = 974 res. norm =        0.282693D-02
+   its = 975 res. norm =        0.281137D-02
+   its = 976 res. norm =        0.280729D-02
+   its = 977 res. norm =        0.280560D-02
+   its = 978 res. norm =        0.280263D-02
+   its = 979 res. norm =        0.279848D-02
+   its = 980 res. norm =        0.279410D-02
+   its = 981 res. norm =        0.278999D-02
+   its = 982 res. norm =        0.278575D-02
+   its = 983 res. norm =        0.278269D-02
+   its = 984 res. norm =        0.278095D-02
+   its = 985 res. norm =        0.277697D-02
+   its = 986 res. norm =        0.276280D-02
+   its = 987 res. norm =        0.271831D-02
+   its = 988 res. norm =        0.267644D-02
+   its = 989 res. norm =        0.263650D-02
+   its = 990 res. norm =        0.260628D-02
+   its = 991 res. norm =        0.258000D-02
+   its = 992 res. norm =        0.254377D-02
+   its = 993 res. norm =        0.250503D-02
+   its = 994 res. norm =        0.246667D-02
+   its = 995 res. norm =        0.245142D-02
+   its = 996 res. norm =        0.244638D-02
+   its = 997 res. norm =        0.244513D-02
+   its = 998 res. norm =        0.244286D-02
+   its = 999 res. norm =        0.243886D-02
+   its =1000 res. norm =        0.243521D-02
+   its =1001 res. norm =        0.243191D-02
+   its =1002 res. norm =        0.242759D-02
+   its =1003 res. norm =        0.242502D-02
+   its =1004 res. norm =        0.242372D-02
+   its =1005 res. norm =        0.241859D-02
+   its =1006 res. norm =        0.240367D-02
+   its =1007 res. norm =        0.234937D-02
+   its =1008 res. norm =        0.229766D-02
+   its =1009 res. norm =        0.225275D-02
+   its =1010 res. norm =        0.222064D-02
+   its =1011 res. norm =        0.219124D-02
+   its =1012 res. norm =        0.215021D-02
+   its =1013 res. norm =        0.210555D-02
+   its =1014 res. norm =        0.206000D-02
+   its =1015 res. norm =        0.204439D-02
+   its =1016 res. norm =        0.203901D-02
+   its =1017 res. norm =        0.203806D-02
+   its =1018 res. norm =        0.203595D-02
+   its =1019 res. norm =        0.203248D-02
+   its =1020 res. norm =        0.202944D-02
+   its =1021 res. norm =        0.202658D-02
+   its =1022 res. norm =        0.202342D-02
+   its =1023 res. norm =        0.202093D-02
+   its =1024 res. norm =        0.201989D-02
+   its =1025 res. norm =        0.201344D-02
+   its =1026 res. norm =        0.199493D-02
+   its =1027 res. norm =        0.192911D-02
+   its =1028 res. norm =        0.187769D-02
+   its =1029 res. norm =        0.183525D-02
+   its =1030 res. norm =        0.180580D-02
+   its =1031 res. norm =        0.177605D-02
+   its =1032 res. norm =        0.173697D-02
+   its =1033 res. norm =        0.169543D-02
+   its =1034 res. norm =        0.163951D-02
+   its =1035 res. norm =        0.162394D-02
+   its =1036 res. norm =        0.161865D-02
+   its =1037 res. norm =        0.161779D-02
+   its =1038 res. norm =        0.161559D-02
+   its =1039 res. norm =        0.161267D-02
+   its =1040 res. norm =        0.161006D-02
+   its =1041 res. norm =        0.160782D-02
+   its =1042 res. norm =        0.160574D-02
+   its =1043 res. norm =        0.160352D-02
+   its =1044 res. norm =        0.160270D-02
+   its =1045 res. norm =        0.159845D-02
+   its =1046 res. norm =        0.158180D-02
+   its =1047 res. norm =        0.153786D-02
+   its =1048 res. norm =        0.151817D-02
+   its =1049 res. norm =        0.149777D-02
+   its =1050 res. norm =        0.147179D-02
+   its =1051 res. norm =        0.144930D-02
+   its =1052 res. norm =        0.142979D-02
+   its =1053 res. norm =        0.140984D-02
+   its =1054 res. norm =        0.137633D-02
+   its =1055 res. norm =        0.135803D-02
+   its =1056 res. norm =        0.135153D-02
+   its =1057 res. norm =        0.135060D-02
+   its =1058 res. norm =        0.134978D-02
+   its =1059 res. norm =        0.134739D-02
+   its =1060 res. norm =        0.134531D-02
+   its =1061 res. norm =        0.134401D-02
+   its =1062 res. norm =        0.134163D-02
+   its =1063 res. norm =        0.134014D-02
+   its =1064 res. norm =        0.133933D-02
+   its =1065 res. norm =        0.133677D-02
+   its =1066 res. norm =        0.131541D-02
+   its =1067 res. norm =        0.129684D-02
+   its =1068 res. norm =        0.128341D-02
+   its =1069 res. norm =        0.126700D-02
+   its =1070 res. norm =        0.124538D-02
+   its =1071 res. norm =        0.122534D-02
+   its =1072 res. norm =        0.120908D-02
+   its =1073 res. norm =        0.119673D-02
+   its =1074 res. norm =        0.118116D-02
+   its =1075 res. norm =        0.116062D-02
+   its =1076 res. norm =        0.115775D-02
+   its =1077 res. norm =        0.115701D-02
+   its =1078 res. norm =        0.115603D-02
+   its =1079 res. norm =        0.115420D-02
+   its =1080 res. norm =        0.115309D-02
+   its =1081 res. norm =        0.115209D-02
+   its =1082 res. norm =        0.115019D-02
+   its =1083 res. norm =        0.114899D-02
+   its =1084 res. norm =        0.114827D-02
+   its =1085 res. norm =        0.114601D-02
+   its =1086 res. norm =        0.112905D-02
+   its =1087 res. norm =        0.111420D-02
+   its =1088 res. norm =        0.110212D-02
+   its =1089 res. norm =        0.108979D-02
+   its =1090 res. norm =        0.107232D-02
+   its =1091 res. norm =        0.105663D-02
+   its =1092 res. norm =        0.104317D-02
+   its =1093 res. norm =        0.103271D-02
+   its =1094 res. norm =        0.101916D-02
+   its =1095 res. norm =        0.100429D-02
+   its =1096 res. norm =        0.100080D-02
+   its =1097 res. norm =        0.100013D-02
+   its =1098 res. norm =        0.999316D-03
+   its =1099 res. norm =        0.997732D-03
+   its =1100 res. norm =        0.996707D-03
+   its =1101 res. norm =        0.995867D-03
+   its =1102 res. norm =        0.994300D-03
+   its =1103 res. norm =        0.993272D-03
+   its =1104 res. norm =        0.992600D-03
+   its =1105 res. norm =        0.990505D-03
+   its =1106 res. norm =        0.981445D-03
+   its =1107 res. norm =        0.967621D-03
+   its =1108 res. norm =        0.954887D-03
+   its =1109 res. norm =        0.945639D-03
+   its =1110 res. norm =        0.935938D-03
+   its =1111 res. norm =        0.927019D-03
+   its =1112 res. norm =        0.917093D-03
+   its =1113 res. norm =        0.905471D-03
+   its =1114 res. norm =        0.892989D-03
+   its =1115 res. norm =        0.884191D-03
+   its =1116 res. norm =        0.882045D-03
+   its =1117 res. norm =        0.881481D-03
+   its =1118 res. norm =        0.880790D-03
+   its =1119 res. norm =        0.879310D-03
+   its =1120 res. norm =        0.878449D-03
+   its =1121 res. norm =        0.877694D-03
+   its =1122 res. norm =        0.876422D-03
+   its =1123 res. norm =        0.875422D-03
+   its =1124 res. norm =        0.874832D-03
+   its =1125 res. norm =        0.873140D-03
+   its =1126 res. norm =        0.866885D-03
+   its =1127 res. norm =        0.855639D-03
+   its =1128 res. norm =        0.843562D-03
+   its =1129 res. norm =        0.835469D-03
+   its =1130 res. norm =        0.829126D-03
+   its =1131 res. norm =        0.823047D-03
+   its =1132 res. norm =        0.814881D-03
+   its =1133 res. norm =        0.803484D-03
+   its =1134 res. norm =        0.793219D-03
+   its =1135 res. norm =        0.787308D-03
+   its =1136 res. norm =        0.785517D-03
+   its =1137 res. norm =        0.784990D-03
+   its =1138 res. norm =        0.784454D-03
+   its =1139 res. norm =        0.783141D-03
+   its =1140 res. norm =        0.782264D-03
+   its =1141 res. norm =        0.781533D-03
+   its =1142 res. norm =        0.780346D-03
+   its =1143 res. norm =        0.779504D-03
+   its =1144 res. norm =        0.779016D-03
+   its =1145 res. norm =        0.777668D-03
+   its =1146 res. norm =        0.773165D-03
+   its =1147 res. norm =        0.764130D-03
+   its =1148 res. norm =        0.752677D-03
+   its =1149 res. norm =        0.745724D-03
+   its =1150 res. norm =        0.740830D-03
+   its =1151 res. norm =        0.736086D-03
+   its =1152 res. norm =        0.729004D-03
+   its =1153 res. norm =        0.718055D-03
+   its =1154 res. norm =        0.709521D-03
+   its =1155 res. norm =        0.705491D-03
+   its =1156 res. norm =        0.704161D-03
+   its =1157 res. norm =        0.703777D-03
+   its =1158 res. norm =        0.703249D-03
+   its =1159 res. norm =        0.702091D-03
+   its =1160 res. norm =        0.701260D-03
+   its =1161 res. norm =        0.700548D-03
+   its =1162 res. norm =        0.699432D-03
+   its =1163 res. norm =        0.698672D-03
+   its =1164 res. norm =        0.698247D-03
+   its =1165 res. norm =        0.697061D-03
+   its =1166 res. norm =        0.693541D-03
+   its =1167 res. norm =        0.686036D-03
+   its =1168 res. norm =        0.675669D-03
+   its =1169 res. norm =        0.669543D-03
+   its =1170 res. norm =        0.665314D-03
+   its =1171 res. norm =        0.661201D-03
+   its =1172 res. norm =        0.655038D-03
+   its =1173 res. norm =        0.645123D-03
+   its =1174 res. norm =        0.637906D-03
+   its =1175 res. norm =        0.634813D-03
+   its =1176 res. norm =        0.633636D-03
+   its =1177 res. norm =        0.633308D-03
+   its =1178 res. norm =        0.632836D-03
+   its =1179 res. norm =        0.631722D-03
+   its =1180 res. norm =        0.630877D-03
+   its =1181 res. norm =        0.630160D-03
+   its =1182 res. norm =        0.629095D-03
+   its =1183 res. norm =        0.628381D-03
+   its =1184 res. norm =        0.628019D-03
+   its =1185 res. norm =        0.627009D-03
+   its =1186 res. norm =        0.624253D-03
+   its =1187 res. norm =        0.617961D-03
+   its =1188 res. norm =        0.608713D-03
+   its =1189 res. norm =        0.603523D-03
+   its =1190 res. norm =        0.600141D-03
+   its =1191 res. norm =        0.596850D-03
+   its =1192 res. norm =        0.591696D-03
+   its =1193 res. norm =        0.583009D-03
+   its =1194 res. norm =        0.576796D-03
+   its =1195 res. norm =        0.574258D-03
+   its =1196 res. norm =        0.573168D-03
+   its =1197 res. norm =        0.572881D-03
+   its =1198 res. norm =        0.572439D-03
+   its =1199 res. norm =        0.571401D-03
+   its =1200 res. norm =        0.570590D-03
+   its =1201 res. norm =        0.569901D-03
+   its =1202 res. norm =        0.568939D-03
+   its =1203 res. norm =        0.568197D-03
+   its =1204 res. norm =        0.567852D-03
+   its =1205 res. norm =        0.566855D-03
+   its =1206 res. norm =        0.564574D-03
+   its =1207 res. norm =        0.559358D-03
+   its =1208 res. norm =        0.551255D-03
+   its =1209 res. norm =        0.547056D-03
+   its =1210 res. norm =        0.544109D-03
+   its =1211 res. norm =        0.541282D-03
+   its =1212 res. norm =        0.537216D-03
+   its =1213 res. norm =        0.529616D-03
+   its =1214 res. norm =        0.524531D-03
+   its =1215 res. norm =        0.522622D-03
+   its =1216 res. norm =        0.521651D-03
+   its =1217 res. norm =        0.521359D-03
+   its =1218 res. norm =        0.520747D-03
+   its =1219 res. norm =        0.519473D-03
+   its =1220 res. norm =        0.518402D-03
+   its =1221 res. norm =        0.517488D-03
+   its =1222 res. norm =        0.516461D-03
+   its =1223 res. norm =        0.515822D-03
+   its =1224 res. norm =        0.515607D-03
+   its =1225 res. norm =        0.515172D-03
+   its =1226 res. norm =        0.514286D-03
+   its =1227 res. norm =        0.511453D-03
+   its =1228 res. norm =        0.504972D-03
+   its =1229 res. norm =        0.500512D-03
+   its =1230 res. norm =        0.497478D-03
+   its =1231 res. norm =        0.494746D-03
+   its =1232 res. norm =        0.490725D-03
+   its =1233 res. norm =        0.482405D-03
+   its =1234 res. norm =        0.476731D-03
+   its =1235 res. norm =        0.474867D-03
+   its =1236 res. norm =        0.473971D-03
+   its =1237 res. norm =        0.473896D-03
+   its =1238 res. norm =        0.473891D-03
+   its =1239 res. norm =        0.473889D-03
+   its =1240 res. norm =        0.473866D-03
+   its =1241 res. norm =        0.473849D-03
+   its =1242 res. norm =        0.473849D-03
+   its =1243 res. norm =        0.473845D-03
+   its =1244 res. norm =        0.473776D-03
+   its =1245 res. norm =        0.473296D-03
+   its =1246 res. norm =        0.472597D-03
+   its =1247 res. norm =        0.470672D-03
+   its =1248 res. norm =        0.466337D-03
+   its =1249 res. norm =        0.457149D-03
+   its =1250 res. norm =        0.451663D-03
+   its =1251 res. norm =        0.447965D-03
+   its =1252 res. norm =        0.444682D-03
+   its =1253 res. norm =        0.442977D-03
+   its =1254 res. norm =        0.442301D-03
+   its =1255 res. norm =        0.441881D-03
+   its =1256 res. norm =        0.441424D-03
+   its =1257 res. norm =        0.440829D-03
+   its =1258 res. norm =        0.439514D-03
+   its =1259 res. norm =        0.437234D-03
+   its =1260 res. norm =        0.435955D-03
+   its =1261 res. norm =        0.435560D-03
+   its =1262 res. norm =        0.435249D-03
+   its =1263 res. norm =        0.435105D-03
+   its =1264 res. norm =        0.435075D-03
+   its =1265 res. norm =        0.435027D-03
+   its =1266 res. norm =        0.434831D-03
+   its =1267 res. norm =        0.434174D-03
+   its =1268 res. norm =        0.432070D-03
+   its =1269 res. norm =        0.427283D-03
+   its =1270 res. norm =        0.423295D-03
+   its =1271 res. norm =        0.420154D-03
+   its =1272 res. norm =        0.416583D-03
+   its =1273 res. norm =        0.414069D-03
+   its =1274 res. norm =        0.412466D-03
+   its =1275 res. norm =        0.411072D-03
+   its =1276 res. norm =        0.409707D-03
+   its =1277 res. norm =        0.408569D-03
+   its =1278 res. norm =        0.407682D-03
+   its =1279 res. norm =        0.407209D-03
+   its =1280 res. norm =        0.406978D-03
+   its =1281 res. norm =        0.406813D-03
+   its =1282 res. norm =        0.406519D-03
+   its =1283 res. norm =        0.406115D-03
+   its =1284 res. norm =        0.405830D-03
+   its =1285 res. norm =        0.405432D-03
+   its =1286 res. norm =        0.404627D-03
+   its =1287 res. norm =        0.403252D-03
+   its =1288 res. norm =        0.400803D-03
+   its =1289 res. norm =        0.398236D-03
+   its =1290 res. norm =        0.396126D-03
+   its =1291 res. norm =        0.394339D-03
+   its =1292 res. norm =        0.392588D-03
+   its =1293 res. norm =        0.391084D-03
+   its =1294 res. norm =        0.390155D-03
+   its =1295 res. norm =        0.389486D-03
+   its =1296 res. norm =        0.388845D-03
+   its =1297 res. norm =        0.388208D-03
+   its =1298 res. norm =        0.387440D-03
+   its =1299 res. norm =        0.386729D-03
+   its =1300 res. norm =        0.386181D-03
+   its =1301 res. norm =        0.385765D-03
+   its =1302 res. norm =        0.385371D-03
+   its =1303 res. norm =        0.384912D-03
+   its =1304 res. norm =        0.384515D-03
+   its =1305 res. norm =        0.383843D-03
+   its =1306 res. norm =        0.382652D-03
+   its =1307 res. norm =        0.380796D-03
+   its =1308 res. norm =        0.378330D-03
+   its =1309 res. norm =        0.376513D-03
+   its =1310 res. norm =        0.375257D-03
+   its =1311 res. norm =        0.374042D-03
+   its =1312 res. norm =        0.372287D-03
+   its =1313 res. norm =        0.369939D-03
+   its =1314 res. norm =        0.368187D-03
+   its =1315 res. norm =        0.367091D-03
+   its =1316 res. norm =        0.366295D-03
+   its =1317 res. norm =        0.365850D-03
+   its =1318 res. norm =        0.365448D-03
+   its =1319 res. norm =        0.365035D-03
+   its =1320 res. norm =        0.364587D-03
+   its =1321 res. norm =        0.364196D-03
+   its =1322 res. norm =        0.363860D-03
+   its =1323 res. norm =        0.363437D-03
+   its =1324 res. norm =        0.363024D-03
+   its =1325 res. norm =        0.362308D-03
+   its =1326 res. norm =        0.361245D-03
+   its =1327 res. norm =        0.359629D-03
+   its =1328 res. norm =        0.357576D-03
+   its =1329 res. norm =        0.356044D-03
+   its =1330 res. norm =        0.354842D-03
+   its =1331 res. norm =        0.353674D-03
+   its =1332 res. norm =        0.352182D-03
+   its =1333 res. norm =        0.350206D-03
+   its =1334 res. norm =        0.348608D-03
+   its =1335 res. norm =        0.347570D-03
+   its =1336 res. norm =        0.346725D-03
+   its =1337 res. norm =        0.346298D-03
+   its =1338 res. norm =        0.345939D-03
+   its =1339 res. norm =        0.345584D-03
+   its =1340 res. norm =        0.345204D-03
+   its =1341 res. norm =        0.344864D-03
+   its =1342 res. norm =        0.344573D-03
+   its =1343 res. norm =        0.344132D-03
+   its =1344 res. norm =        0.343692D-03
+   its =1345 res. norm =        0.342929D-03
+   its =1346 res. norm =        0.341929D-03
+   its =1347 res. norm =        0.340473D-03
+   its =1348 res. norm =        0.338794D-03
+   its =1349 res. norm =        0.337668D-03
+   its =1350 res. norm =        0.336424D-03
+   its =1351 res. norm =        0.335276D-03
+   its =1352 res. norm =        0.334120D-03
+   its =1353 res. norm =        0.332478D-03
+   its =1354 res. norm =        0.330985D-03
+   its =1355 res. norm =        0.330018D-03
+   its =1356 res. norm =        0.329201D-03
+   its =1357 res. norm =        0.328791D-03
+   its =1358 res. norm =        0.328424D-03
+   its =1359 res. norm =        0.328093D-03
+   its =1360 res. norm =        0.327736D-03
+   its =1361 res. norm =        0.327409D-03
+   its =1362 res. norm =        0.327141D-03
+   its =1363 res. norm =        0.326707D-03
+   its =1364 res. norm =        0.326291D-03
+   its =1365 res. norm =        0.325564D-03
+   its =1366 res. norm =        0.324655D-03
+   its =1367 res. norm =        0.323309D-03
+   its =1368 res. norm =        0.321742D-03
+   its =1369 res. norm =        0.320750D-03
+   its =1370 res. norm =        0.319620D-03
+   its =1371 res. norm =        0.318541D-03
+   its =1372 res. norm =        0.317498D-03
+   its =1373 res. norm =        0.315928D-03
+   its =1374 res. norm =        0.314585D-03
+   its =1375 res. norm =        0.313745D-03
+   its =1376 res. norm =        0.312962D-03
+   its =1377 res. norm =        0.312557D-03
+   its =1378 res. norm =        0.312200D-03
+   its =1379 res. norm =        0.311903D-03
+   its =1380 res. norm =        0.311558D-03
+   its =1381 res. norm =        0.311237D-03
+   its =1382 res. norm =        0.310985D-03
+   its =1383 res. norm =        0.310575D-03
+   its =1384 res. norm =        0.310165D-03
+   its =1385 res. norm =        0.309434D-03
+   its =1386 res. norm =        0.308616D-03
+   its =1387 res. norm =        0.307413D-03
+   its =1388 res. norm =        0.305975D-03
+   its =1389 res. norm =        0.305096D-03
+   its =1390 res. norm =        0.304029D-03
+   its =1391 res. norm =        0.302987D-03
+   its =1392 res. norm =        0.302066D-03
+   its =1393 res. norm =        0.300631D-03
+   its =1394 res. norm =        0.299426D-03
+   its =1395 res. norm =        0.298683D-03
+   its =1396 res. norm =        0.297897D-03
+   its =1397 res. norm =        0.297488D-03
+   its =1398 res. norm =        0.297154D-03
+   its =1399 res. norm =        0.296873D-03
+   its =1400 res. norm =        0.296530D-03
+   its =1401 res. norm =        0.296217D-03
+   its =1402 res. norm =        0.295971D-03
+   its =1403 res. norm =        0.295605D-03
+   its =1404 res. norm =        0.295181D-03
+   its =1405 res. norm =        0.294476D-03
+   its =1406 res. norm =        0.293711D-03
+   its =1407 res. norm =        0.292699D-03
+   its =1408 res. norm =        0.291368D-03
+   its =1409 res. norm =        0.290555D-03
+   its =1410 res. norm =        0.289624D-03
+   its =1411 res. norm =        0.288737D-03
+   its =1412 res. norm =        0.287879D-03
+   its =1413 res. norm =        0.286557D-03
+   its =1414 res. norm =        0.285523D-03
+   its =1415 res. norm =        0.284829D-03
+   its =1416 res. norm =        0.284102D-03
+   its =1417 res. norm =        0.283647D-03
+   its =1418 res. norm =        0.283354D-03
+   its =1419 res. norm =        0.283069D-03
+   its =1420 res. norm =        0.282748D-03
+   its =1421 res. norm =        0.282460D-03
+   its =1422 res. norm =        0.282192D-03
+   its =1423 res. norm =        0.281882D-03
+   its =1424 res. norm =        0.281421D-03
+   its =1425 res. norm =        0.280772D-03
+   its =1426 res. norm =        0.280034D-03
+   its =1427 res. norm =        0.279165D-03
+   its =1428 res. norm =        0.277951D-03
+   its =1429 res. norm =        0.277189D-03
+   its =1430 res. norm =        0.276360D-03
+   its =1431 res. norm =        0.275568D-03
+   its =1432 res. norm =        0.274758D-03
+   its =1433 res. norm =        0.273537D-03
+   its =1434 res. norm =        0.272650D-03
+   its =1435 res. norm =        0.272003D-03
+   its =1436 res. norm =        0.271303D-03
+   its =1437 res. norm =        0.270835D-03
+   its =1438 res. norm =        0.270562D-03
+   its =1439 res. norm =        0.270283D-03
+   its =1440 res. norm =        0.269931D-03
+   its =1441 res. norm =        0.269600D-03
+   its =1442 res. norm =        0.269356D-03
+   its =1443 res. norm =        0.269050D-03
+   its =1444 res. norm =        0.268590D-03
+   its =1445 res. norm =        0.267917D-03
+   its =1446 res. norm =        0.267270D-03
+   its =1447 res. norm =        0.266456D-03
+   its =1448 res. norm =        0.265416D-03
+   its =1449 res. norm =        0.264659D-03
+   its =1450 res. norm =        0.263928D-03
+   its =1451 res. norm =        0.263210D-03
+   its =1452 res. norm =        0.262425D-03
+   its =1453 res. norm =        0.261340D-03
+   its =1454 res. norm =        0.260543D-03
+   its =1455 res. norm =        0.259961D-03
+   its =1456 res. norm =        0.259245D-03
+   its =1457 res. norm =        0.258795D-03
+   its =1458 res. norm =        0.258512D-03
+   its =1459 res. norm =        0.258256D-03
+   its =1460 res. norm =        0.257762D-03
+   its =1461 res. norm =        0.257291D-03
+   its =1462 res. norm =        0.257067D-03
+   its =1463 res. norm =        0.256772D-03
+   its =1464 res. norm =        0.256315D-03
+   its =1465 res. norm =        0.255642D-03
+   its =1466 res. norm =        0.255032D-03
+   its =1467 res. norm =        0.254330D-03
+   its =1468 res. norm =        0.253432D-03
+   its =1469 res. norm =        0.252645D-03
+   its =1470 res. norm =        0.251997D-03
+   its =1471 res. norm =        0.251354D-03
+   its =1472 res. norm =        0.250559D-03
+   its =1473 res. norm =        0.249632D-03
+   its =1474 res. norm =        0.248931D-03
+   its =1475 res. norm =        0.248373D-03
+   its =1476 res. norm =        0.247654D-03
+   its =1477 res. norm =        0.247228D-03
+   its =1478 res. norm =        0.246958D-03
+   its =1479 res. norm =        0.246701D-03
+   its =1480 res. norm =        0.245908D-03
+   its =1481 res. norm =        0.245143D-03
+   its =1482 res. norm =        0.244926D-03
+   its =1483 res. norm =        0.244660D-03
+   its =1484 res. norm =        0.244224D-03
+   its =1485 res. norm =        0.243597D-03
+   its =1486 res. norm =        0.243123D-03
+   its =1487 res. norm =        0.242503D-03
+   its =1488 res. norm =        0.241670D-03
+   its =1489 res. norm =        0.240944D-03
+   its =1490 res. norm =        0.240367D-03
+   its =1491 res. norm =        0.239797D-03
+   its =1492 res. norm =        0.239069D-03
+   its =1493 res. norm =        0.238235D-03
+   its =1494 res. norm =        0.237629D-03
+   its =1495 res. norm =        0.237152D-03
+   its =1496 res. norm =        0.236475D-03
+   its =1497 res. norm =        0.236097D-03
+   its =1498 res. norm =        0.235853D-03
+   its =1499 res. norm =        0.235595D-03
+   its =1500 res. norm =        0.235042D-03
+   its =1501 res. norm =        0.234506D-03
+   its =1502 res. norm =        0.234298D-03
+   its =1503 res. norm =        0.234054D-03
+   its =1504 res. norm =        0.233649D-03
+   its =1505 res. norm =        0.233003D-03
+   its =1506 res. norm =        0.232556D-03
+   its =1507 res. norm =        0.232006D-03
+   its =1508 res. norm =        0.231277D-03
+   its =1509 res. norm =        0.230595D-03
+   its =1510 res. norm =        0.230064D-03
+   its =1511 res. norm =        0.229540D-03
+   its =1512 res. norm =        0.228852D-03
+   its =1513 res. norm =        0.228118D-03
+   its =1514 res. norm =        0.227556D-03
+   its =1515 res. norm =        0.227115D-03
+   its =1516 res. norm =        0.226439D-03
+   its =1517 res. norm =        0.226093D-03
+   its =1518 res. norm =        0.225875D-03
+   its =1519 res. norm =        0.225609D-03
+   its =1520 res. norm =        0.225022D-03
+   its =1521 res. norm =        0.224453D-03
+   its =1522 res. norm =        0.224247D-03
+   its =1523 res. norm =        0.224019D-03
+   its =1524 res. norm =        0.223651D-03
+   its =1525 res. norm =        0.223021D-03
+   its =1526 res. norm =        0.222591D-03
+   its =1527 res. norm =        0.222079D-03
+   its =1528 res. norm =        0.221438D-03
+   its =1529 res. norm =        0.220824D-03
+   its =1530 res. norm =        0.220299D-03
+   its =1531 res. norm =        0.219790D-03
+   its =1532 res. norm =        0.219161D-03
+   its =1533 res. norm =        0.218495D-03
+   its =1534 res. norm =        0.217971D-03
+   its =1535 res. norm =        0.217563D-03
+   its =1536 res. norm =        0.216899D-03
+   its =1537 res. norm =        0.216569D-03
+   its =1538 res. norm =        0.216353D-03
+   its =1539 res. norm =        0.216116D-03
+   its =1540 res. norm =        0.215346D-03
+   its =1541 res. norm =        0.214608D-03
+   its =1542 res. norm =        0.214405D-03
+   its =1543 res. norm =        0.214195D-03
+   its =1544 res. norm =        0.213847D-03
+   its =1545 res. norm =        0.213245D-03
+   its =1546 res. norm =        0.212808D-03
+   its =1547 res. norm =        0.212372D-03
+   its =1548 res. norm =        0.211799D-03
+   its =1549 res. norm =        0.211223D-03
+   its =1550 res. norm =        0.210721D-03
+   its =1551 res. norm =        0.210282D-03
+   its =1552 res. norm =        0.209677D-03
+   its =1553 res. norm =        0.209058D-03
+   its =1554 res. norm =        0.208610D-03
+   its =1555 res. norm =        0.208194D-03
+   its =1556 res. norm =        0.207608D-03
+   its =1557 res. norm =        0.207233D-03
+   its =1558 res. norm =        0.207050D-03
+   its =1559 res. norm =        0.206798D-03
+   its =1560 res. norm =        0.205935D-03
+   its =1561 res. norm =        0.205188D-03
+   its =1562 res. norm =        0.204895D-03
+   its =1563 res. norm =        0.204722D-03
+   its =1564 res. norm =        0.204416D-03
+   its =1565 res. norm =        0.203840D-03
+   its =1566 res. norm =        0.203384D-03
+   its =1567 res. norm =        0.202962D-03
+   its =1568 res. norm =        0.202538D-03
+   its =1569 res. norm =        0.201888D-03
+   its =1570 res. norm =        0.201466D-03
+   its =1571 res. norm =        0.201087D-03
+   its =1572 res. norm =        0.200458D-03
+   its =1573 res. norm =        0.199959D-03
+   its =1574 res. norm =        0.199521D-03
+   its =1575 res. norm =        0.199149D-03
+   its =1576 res. norm =        0.198522D-03
+   its =1577 res. norm =        0.198205D-03
+   its =1578 res. norm =        0.198024D-03
+   its =1579 res. norm =        0.197757D-03
+   its =1580 res. norm =        0.196926D-03
+   its =1581 res. norm =        0.196163D-03
+   its =1582 res. norm =        0.195874D-03
+   its =1583 res. norm =        0.195697D-03
+   its =1584 res. norm =        0.195390D-03
+   its =1585 res. norm =        0.194950D-03
+   its =1586 res. norm =        0.194403D-03
+   its =1587 res. norm =        0.194056D-03
+   its =1588 res. norm =        0.193680D-03
+   its =1589 res. norm =        0.193054D-03
+   its =1590 res. norm =        0.192653D-03
+   its =1591 res. norm =        0.192373D-03
+   its =1592 res. norm =        0.191737D-03
+   its =1593 res. norm =        0.191251D-03
+   its =1594 res. norm =        0.190880D-03
+   its =1595 res. norm =        0.190500D-03
+   its =1596 res. norm =        0.189926D-03
+   its =1597 res. norm =        0.189621D-03
+   its =1598 res. norm =        0.189448D-03
+   its =1599 res. norm =        0.189184D-03
+   its =1600 res. norm =        0.188590D-03
+   its =1601 res. norm =        0.188033D-03
+   its =1602 res. norm =        0.187768D-03
+   its =1603 res. norm =        0.187584D-03
+   its =1604 res. norm =        0.187298D-03
+   its =1605 res. norm =        0.186862D-03
+   its =1606 res. norm =        0.186332D-03
+   its =1607 res. norm =        0.186066D-03
+   its =1608 res. norm =        0.185670D-03
+   its =1609 res. norm =        0.185150D-03
+   its =1610 res. norm =        0.184724D-03
+   its =1611 res. norm =        0.184427D-03
+   its =1612 res. norm =        0.183896D-03
+   its =1613 res. norm =        0.183390D-03
+   its =1614 res. norm =        0.183107D-03
+   its =1615 res. norm =        0.182696D-03
+   its =1616 res. norm =        0.182198D-03
+   its =1617 res. norm =        0.181886D-03
+   its =1618 res. norm =        0.181701D-03
+   its =1619 res. norm =        0.181454D-03
+   its =1620 res. norm =        0.181008D-03
+   its =1621 res. norm =        0.180576D-03
+   its =1622 res. norm =        0.180338D-03
+   its =1623 res. norm =        0.180158D-03
+   its =1624 res. norm =        0.179820D-03
+   its =1625 res. norm =        0.179374D-03
+   its =1626 res. norm =        0.178925D-03
+   its =1627 res. norm =        0.178676D-03
+   its =1628 res. norm =        0.178295D-03
+   its =1629 res. norm =        0.177777D-03
+   its =1630 res. norm =        0.177454D-03
+   its =1631 res. norm =        0.177166D-03
+   its =1632 res. norm =        0.176687D-03
+   its =1633 res. norm =        0.176210D-03
+   its =1634 res. norm =        0.175958D-03
+   its =1635 res. norm =        0.175534D-03
+   its =1636 res. norm =        0.175085D-03
+   its =1637 res. norm =        0.174744D-03
+   its =1638 res. norm =        0.174569D-03
+   its =1639 res. norm =        0.174309D-03
+   its =1640 res. norm =        0.173932D-03
+   its =1641 res. norm =        0.173555D-03
+   its =1642 res. norm =        0.173315D-03
+   its =1643 res. norm =        0.173138D-03
+   its =1644 res. norm =        0.172769D-03
+   its =1645 res. norm =        0.172345D-03
+   its =1646 res. norm =        0.171919D-03
+   its =1647 res. norm =        0.171703D-03
+   its =1648 res. norm =        0.171322D-03
+   its =1649 res. norm =        0.170858D-03
+   its =1650 res. norm =        0.170542D-03
+   its =1651 res. norm =        0.170253D-03
+   its =1652 res. norm =        0.169826D-03
+   its =1653 res. norm =        0.169363D-03
+   its =1654 res. norm =        0.169142D-03
+   its =1655 res. norm =        0.168735D-03
+   its =1656 res. norm =        0.168297D-03
+   its =1657 res. norm =        0.167940D-03
+   its =1658 res. norm =        0.167772D-03
+   its =1659 res. norm =        0.167509D-03
+   its =1660 res. norm =        0.167166D-03
+   its =1661 res. norm =        0.166825D-03
+   its =1662 res. norm =        0.166585D-03
+   its =1663 res. norm =        0.166407D-03
+   its =1664 res. norm =        0.166023D-03
+   its =1665 res. norm =        0.165617D-03
+   its =1666 res. norm =        0.165209D-03
+   its =1667 res. norm =        0.165021D-03
+   its =1668 res. norm =        0.164648D-03
+   its =1669 res. norm =        0.164227D-03
+   its =1670 res. norm =        0.163898D-03
+   its =1671 res. norm =        0.163601D-03
+   its =1672 res. norm =        0.163218D-03
+   its =1673 res. norm =        0.162766D-03
+   its =1674 res. norm =        0.162571D-03
+   its =1675 res. norm =        0.162185D-03
+   its =1676 res. norm =        0.161757D-03
+   its =1677 res. norm =        0.161386D-03
+   its =1678 res. norm =        0.161222D-03
+   its =1679 res. norm =        0.160956D-03
+   its =1680 res. norm =        0.160641D-03
+   its =1681 res. norm =        0.160331D-03
+   its =1682 res. norm =        0.160090D-03
+   its =1683 res. norm =        0.159909D-03
+   its =1684 res. norm =        0.159515D-03
+   its =1685 res. norm =        0.159126D-03
+   its =1686 res. norm =        0.158736D-03
+   its =1687 res. norm =        0.158570D-03
+   its =1688 res. norm =        0.158199D-03
+   its =1689 res. norm =        0.157817D-03
+   its =1690 res. norm =        0.157465D-03
+   its =1691 res. norm =        0.157148D-03
+   its =1692 res. norm =        0.156800D-03
+   its =1693 res. norm =        0.156358D-03
+   its =1694 res. norm =        0.156184D-03
+   its =1695 res. norm =        0.155823D-03
+   its =1696 res. norm =        0.155407D-03
+   its =1697 res. norm =        0.155021D-03
+   its =1698 res. norm =        0.154857D-03
+   its =1699 res. norm =        0.154591D-03
+   its =1700 res. norm =        0.154302D-03
+   its =1701 res. norm =        0.154020D-03
+   its =1702 res. norm =        0.153783D-03
+   its =1703 res. norm =        0.153597D-03
+   its =1704 res. norm =        0.153194D-03
+   its =1705 res. norm =        0.152824D-03
+   its =1706 res. norm =        0.152453D-03
+   its =1707 res. norm =        0.152303D-03
+   its =1708 res. norm =        0.151932D-03
+   its =1709 res. norm =        0.151583D-03
+   its =1710 res. norm =        0.151185D-03
+   its =1711 res. norm =        0.150827D-03
+   its =1712 res. norm =        0.150507D-03
+   its =1713 res. norm =        0.150075D-03
+   its =1714 res. norm =        0.149918D-03
+   its =1715 res. norm =        0.149583D-03
+   its =1716 res. norm =        0.149178D-03
+   its =1717 res. norm =        0.148780D-03
+   its =1718 res. norm =        0.148616D-03
+   its =1719 res. norm =        0.148356D-03
+   its =1720 res. norm =        0.148087D-03
+   its =1721 res. norm =        0.147829D-03
+   its =1722 res. norm =        0.147599D-03
+   its =1723 res. norm =        0.147408D-03
+   its =1724 res. norm =        0.146994D-03
+   its =1725 res. norm =        0.146646D-03
+   its =1726 res. norm =        0.146300D-03
+   its =1727 res. norm =        0.146171D-03
+   its =1728 res. norm =        0.145782D-03
+   its =1729 res. norm =        0.145463D-03
+   its =1730 res. norm =        0.145014D-03
+   its =1731 res. norm =        0.144609D-03
+   its =1732 res. norm =        0.144323D-03
+   its =1733 res. norm =        0.143873D-03
+   its =1734 res. norm =        0.143735D-03
+   its =1735 res. norm =        0.143458D-03
+   its =1736 res. norm =        0.143057D-03
+   its =1737 res. norm =        0.142635D-03
+   its =1738 res. norm =        0.142468D-03
+   its =1739 res. norm =        0.142243D-03
+   its =1740 res. norm =        0.141970D-03
+   its =1741 res. norm =        0.141731D-03
+   its =1742 res. norm =        0.141523D-03
+   its =1743 res. norm =        0.141331D-03
+   its =1744 res. norm =        0.140878D-03
+   its =1745 res. norm =        0.140569D-03
+   its =1746 res. norm =        0.140266D-03
+   its =1747 res. norm =        0.140145D-03
+   its =1748 res. norm =        0.139718D-03
+   its =1749 res. norm =        0.139447D-03
+   its =1750 res. norm =        0.138912D-03
+   its =1751 res. norm =        0.138423D-03
+   its =1752 res. norm =        0.138161D-03
+   its =1753 res. norm =        0.137699D-03
+   its =1754 res. norm =        0.137579D-03
+   its =1755 res. norm =        0.137345D-03
+   its =1756 res. norm =        0.136959D-03
+   its =1757 res. norm =        0.136531D-03
+   its =1758 res. norm =        0.136340D-03
+   its =1759 res. norm =        0.136131D-03
+   its =1760 res. norm =        0.135889D-03
+   its =1761 res. norm =        0.135672D-03
+   its =1762 res. norm =        0.135467D-03
+   its =1763 res. norm =        0.135267D-03
+   its =1764 res. norm =        0.134849D-03
+   its =1765 res. norm =        0.134519D-03
+   its =1766 res. norm =        0.134257D-03
+   its =1767 res. norm =        0.134131D-03
+   its =1768 res. norm =        0.133867D-03
+   its =1769 res. norm =        0.133465D-03
+   its =1770 res. norm =        0.133072D-03
+   its =1771 res. norm =        0.132738D-03
+   its =1772 res. norm =        0.132368D-03
+   its =1773 res. norm =        0.132032D-03
+   its =1774 res. norm =        0.131895D-03
+   its =1775 res. norm =        0.131709D-03
+   its =1776 res. norm =        0.131329D-03
+   its =1777 res. norm =        0.130919D-03
+   its =1778 res. norm =        0.130708D-03
+   its =1779 res. norm =        0.130505D-03
+   its =1780 res. norm =        0.130284D-03
+   its =1781 res. norm =        0.130098D-03
+   its =1782 res. norm =        0.129902D-03
+   its =1783 res. norm =        0.129693D-03
+   its =1784 res. norm =        0.129269D-03
+   its =1785 res. norm =        0.128932D-03
+   its =1786 res. norm =        0.128728D-03
+   its =1787 res. norm =        0.128603D-03
+   its =1788 res. norm =        0.128389D-03
+   its =1789 res. norm =        0.127923D-03
+   its =1790 res. norm =        0.127563D-03
+   its =1791 res. norm =        0.127244D-03
+   its =1792 res. norm =        0.126802D-03
+   its =1793 res. norm =        0.126534D-03
+   its =1794 res. norm =        0.126406D-03
+   its =1795 res. norm =        0.126238D-03
+   its =1796 res. norm =        0.125863D-03
+   its =1797 res. norm =        0.125444D-03
+   its =1798 res. norm =        0.125255D-03
+   its =1799 res. norm =        0.125031D-03
+   its =1800 res. norm =        0.124848D-03
+   its =1801 res. norm =        0.124677D-03
+   its =1802 res. norm =        0.124479D-03
+   its =1803 res. norm =        0.124261D-03
+   its =1804 res. norm =        0.123834D-03
+   its =1805 res. norm =        0.123527D-03
+   its =1806 res. norm =        0.123336D-03
+   its =1807 res. norm =        0.123220D-03
+   its =1808 res. norm =        0.123019D-03
+   its =1809 res. norm =        0.122549D-03
+   its =1810 res. norm =        0.122170D-03
+   its =1811 res. norm =        0.121831D-03
+   its =1812 res. norm =        0.121390D-03
+   its =1813 res. norm =        0.121135D-03
+   its =1814 res. norm =        0.121011D-03
+   its =1815 res. norm =        0.120856D-03
+   its =1816 res. norm =        0.120542D-03
+   its =1817 res. norm =        0.120136D-03
+   its =1818 res. norm =        0.119909D-03
+   its =1819 res. norm =        0.119670D-03
+   its =1820 res. norm =        0.119516D-03
+   its =1821 res. norm =        0.119377D-03
+   its =1822 res. norm =        0.119176D-03
+   its =1823 res. norm =        0.118916D-03
+   its =1824 res. norm =        0.118501D-03
+   its =1825 res. norm =        0.118250D-03
+   its =1826 res. norm =        0.118070D-03
+   its =1827 res. norm =        0.117956D-03
+   its =1828 res. norm =        0.117771D-03
+   its =1829 res. norm =        0.117349D-03
+   its =1830 res. norm =        0.116920D-03
+   its =1831 res. norm =        0.116540D-03
+   its =1832 res. norm =        0.116160D-03
+   its =1833 res. norm =        0.115921D-03
+   its =1834 res. norm =        0.115785D-03
+   its =1835 res. norm =        0.115646D-03
+   its =1836 res. norm =        0.115421D-03
+   its =1837 res. norm =        0.115040D-03
+   its =1838 res. norm =        0.114751D-03
+   its =1839 res. norm =        0.114484D-03
+   its =1840 res. norm =        0.114349D-03
+   its =1841 res. norm =        0.114236D-03
+   its =1842 res. norm =        0.114022D-03
+   its =1843 res. norm =        0.113692D-03
+   its =1844 res. norm =        0.113282D-03
+   its =1845 res. norm =        0.113112D-03
+   its =1846 res. norm =        0.112963D-03
+   its =1847 res. norm =        0.112846D-03
+   its =1848 res. norm =        0.112651D-03
+   its =1849 res. norm =        0.112251D-03
+   its =1850 res. norm =        0.111838D-03
+   its =1851 res. norm =        0.111458D-03
+   its =1852 res. norm =        0.111096D-03
+   its =1853 res. norm =        0.110851D-03
+   its =1854 res. norm =        0.110725D-03
+   its =1855 res. norm =        0.110604D-03
+   its =1856 res. norm =        0.110419D-03
+   its =1857 res. norm =        0.110017D-03
+   its =1858 res. norm =        0.109717D-03
+   its =1859 res. norm =        0.109466D-03
+   its =1860 res. norm =        0.109327D-03
+   its =1861 res. norm =        0.109218D-03
+   its =1862 res. norm =        0.109001D-03
+   its =1863 res. norm =        0.108661D-03
+   its =1864 res. norm =        0.108250D-03
+   its =1865 res. norm =        0.108107D-03
+   its =1866 res. norm =        0.107973D-03
+   its =1867 res. norm =        0.107857D-03
+   its =1868 res. norm =        0.107652D-03
+   its =1869 res. norm =        0.107251D-03
+   its =1870 res. norm =        0.106756D-03
+   its =1871 res. norm =        0.106292D-03
+   its =1872 res. norm =        0.105923D-03
+   its =1873 res. norm =        0.105681D-03
+   its =1874 res. norm =        0.105556D-03
+   its =1875 res. norm =        0.105443D-03
+   its =1876 res. norm =        0.105282D-03
+   its =1877 res. norm =        0.104890D-03
+   its =1878 res. norm =        0.104578D-03
+   its =1879 res. norm =        0.104331D-03
+   its =1880 res. norm =        0.104192D-03
+   its =1881 res. norm =        0.104084D-03
+   its =1882 res. norm =        0.103866D-03
+   its =1883 res. norm =        0.103523D-03
+   its =1884 res. norm =        0.103123D-03
+   its =1885 res. norm =        0.102993D-03
+   its =1886 res. norm =        0.102869D-03
+   its =1887 res. norm =        0.102759D-03
+   its =1888 res. norm =        0.102546D-03
+   its =1889 res. norm =        0.102135D-03
+   its =1890 res. norm =        0.101310D-03
+   its =1891 res. norm =        0.100528D-03
+   its =1892 res. norm =        0.100162D-03
+   its =1893 res. norm =        0.999021D-04
+   its =1894 res. norm =        0.997877D-04
+   its =1895 res. norm =        0.996809D-04
+   its =1896 res. norm =        0.995300D-04
+   its =1897 res. norm =        0.992561D-04
+   its =1898 res. norm =        0.988508D-04
+   its =1899 res. norm =        0.986007D-04
+   its =1900 res. norm =        0.984696D-04
+   its =1901 res. norm =        0.983476D-04
+   its =1902 res. norm =        0.981151D-04
+   its =1903 res. norm =        0.977166D-04
+   its =1904 res. norm =        0.974310D-04
+   its =1905 res. norm =        0.972907D-04
+   its =1906 res. norm =        0.971938D-04
+   its =1907 res. norm =        0.970986D-04
+   its =1908 res. norm =        0.968693D-04
+   its =1909 res. norm =        0.964791D-04
+   its =1910 res. norm =        0.957094D-04
+   its =1911 res. norm =        0.949744D-04
+   its =1912 res. norm =        0.946063D-04
+   its =1913 res. norm =        0.943539D-04
+   its =1914 res. norm =        0.942452D-04
+   its =1915 res. norm =        0.941487D-04
+   its =1916 res. norm =        0.940150D-04
+   its =1917 res. norm =        0.937584D-04
+   its =1918 res. norm =        0.933902D-04
+   its =1919 res. norm =        0.931319D-04
+   its =1920 res. norm =        0.929785D-04
+   its =1921 res. norm =        0.928601D-04
+   its =1922 res. norm =        0.926484D-04
+   its =1923 res. norm =        0.922955D-04
+   its =1924 res. norm =        0.920096D-04
+   its =1925 res. norm =        0.918591D-04
+   its =1926 res. norm =        0.917512D-04
+   its =1927 res. norm =        0.916727D-04
+   its =1928 res. norm =        0.914978D-04
+   its =1929 res. norm =        0.911970D-04
+   its =1930 res. norm =        0.905033D-04
+   its =1931 res. norm =        0.898365D-04
+   its =1932 res. norm =        0.895554D-04
+   its =1933 res. norm =        0.893664D-04
+   its =1934 res. norm =        0.892712D-04
+   its =1935 res. norm =        0.891690D-04
+   its =1936 res. norm =        0.890356D-04
+   its =1937 res. norm =        0.887909D-04
+   its =1938 res. norm =        0.884844D-04
+   its =1939 res. norm =        0.882358D-04
+   its =1940 res. norm =        0.880560D-04
+   its =1941 res. norm =        0.879373D-04
+   its =1942 res. norm =        0.877513D-04
+   its =1943 res. norm =        0.874865D-04
+   its =1944 res. norm =        0.872121D-04
+   its =1945 res. norm =        0.870191D-04
+   its =1946 res. norm =        0.868888D-04
+   its =1947 res. norm =        0.868119D-04
+   its =1948 res. norm =        0.867052D-04
+   its =1949 res. norm =        0.865029D-04
+   its =1950 res. norm =        0.860754D-04
+   its =1951 res. norm =        0.856675D-04
+   its =1952 res. norm =        0.854680D-04
+   its =1953 res. norm =        0.853654D-04
+   its =1954 res. norm =        0.852805D-04
+   its =1955 res. norm =        0.851750D-04
+   its =1956 res. norm =        0.849849D-04
+   its =1957 res. norm =        0.847024D-04
+   its =1958 res. norm =        0.844409D-04
+   its =1959 res. norm =        0.842517D-04
+   its =1960 res. norm =        0.841144D-04
+   its =1961 res. norm =        0.840055D-04
+   its =1962 res. norm =        0.838234D-04
+   its =1963 res. norm =        0.835776D-04
+   its =1964 res. norm =        0.833093D-04
+   its =1965 res. norm =        0.831058D-04
+   its =1966 res. norm =        0.829931D-04
+   its =1967 res. norm =        0.829142D-04
+   its =1968 res. norm =        0.828221D-04
+   its =1969 res. norm =        0.826284D-04
+   its =1970 res. norm =        0.823091D-04
+   its =1971 res. norm =        0.819940D-04
+   its =1972 res. norm =        0.818112D-04
+   its =1973 res. norm =        0.817220D-04
+   its =1974 res. norm =        0.816372D-04
+   its =1975 res. norm =        0.815357D-04
+   its =1976 res. norm =        0.813388D-04
+   its =1977 res. norm =        0.810538D-04
+   its =1978 res. norm =        0.808154D-04
+   its =1979 res. norm =        0.806242D-04
+   its =1980 res. norm =        0.805103D-04
+   its =1981 res. norm =        0.804032D-04
+   its =1982 res. norm =        0.802204D-04
+   its =1983 res. norm =        0.799886D-04
+   its =1984 res. norm =        0.797231D-04
+   its =1985 res. norm =        0.795269D-04
+   its =1986 res. norm =        0.794179D-04
+   its =1987 res. norm =        0.793445D-04
+   its =1988 res. norm =        0.792567D-04
+   its =1989 res. norm =        0.790754D-04
+   its =1990 res. norm =        0.787920D-04
+   its =1991 res. norm =        0.785098D-04
+   its =1992 res. norm =        0.783414D-04
+   its =1993 res. norm =        0.782558D-04
+   its =1994 res. norm =        0.781782D-04
+   its =1995 res. norm =        0.780791D-04
+   its =1996 res. norm =        0.778863D-04
+   its =1997 res. norm =        0.776095D-04
+   its =1998 res. norm =        0.773846D-04
+   its =1999 res. norm =        0.771949D-04
+   its =2000 res. norm =        0.770815D-04
+   its =2001 res. norm =        0.769758D-04
+   its =2002 res. norm =        0.767950D-04
+   its =2003 res. norm =        0.765769D-04
+   its =2004 res. norm =        0.763184D-04
+   its =2005 res. norm =        0.761257D-04
+   its =2006 res. norm =        0.760179D-04
+   its =2007 res. norm =        0.759491D-04
+   its =2008 res. norm =        0.758657D-04
+   its =2009 res. norm =        0.757004D-04
+   its =2010 res. norm =        0.754462D-04
+   its =2011 res. norm =        0.751945D-04
+   its =2012 res. norm =        0.750413D-04
+   its =2013 res. norm =        0.749591D-04
+   its =2014 res. norm =        0.748864D-04
+   its =2015 res. norm =        0.747874D-04
+   its =2016 res. norm =        0.745990D-04
+   its =2017 res. norm =        0.743355D-04
+   its =2018 res. norm =        0.741260D-04
+   its =2019 res. norm =        0.739351D-04
+   its =2020 res. norm =        0.738203D-04
+   its =2021 res. norm =        0.737147D-04
+   its =2022 res. norm =        0.735373D-04
+   its =2023 res. norm =        0.733368D-04
+   its =2024 res. norm =        0.730878D-04
+   its =2025 res. norm =        0.728960D-04
+   its =2026 res. norm =        0.727863D-04
+   its =2027 res. norm =        0.727204D-04
+   its =2028 res. norm =        0.726419D-04
+   its =2029 res. norm =        0.724950D-04
+   its =2030 res. norm =        0.722711D-04
+   its =2031 res. norm =        0.720502D-04
+   its =2032 res. norm =        0.719149D-04
+   its =2033 res. norm =        0.718369D-04
+   its =2034 res. norm =        0.717670D-04
+   its =2035 res. norm =        0.716652D-04
+   its =2036 res. norm =        0.714787D-04
+   its =2037 res. norm =        0.712300D-04
+   its =2038 res. norm =        0.710398D-04
+   its =2039 res. norm =        0.708495D-04
+   its =2040 res. norm =        0.707316D-04
+   its =2041 res. norm =        0.706249D-04
+   its =2042 res. norm =        0.704520D-04
+   its =2043 res. norm =        0.702719D-04
+   its =2044 res. norm =        0.700349D-04
+   its =2045 res. norm =        0.698424D-04
+   its =2046 res. norm =        0.697280D-04
+   its =2047 res. norm =        0.696637D-04
+   its =2048 res. norm =        0.695898D-04
+   its =2049 res. norm =        0.694608D-04
+   its =2050 res. norm =        0.692632D-04
+   its =2051 res. norm =        0.690684D-04
+   its =2052 res. norm =        0.689500D-04
+   its =2053 res. norm =        0.688767D-04
+   its =2054 res. norm =        0.688097D-04
+   its =2055 res. norm =        0.687038D-04
+   its =2056 res. norm =        0.685157D-04
+   its =2057 res. norm =        0.682771D-04
+   its =2058 res. norm =        0.681056D-04
+   its =2059 res. norm =        0.679195D-04
+   its =2060 res. norm =        0.678008D-04
+   its =2061 res. norm =        0.676932D-04
+   its =2062 res. norm =        0.675222D-04
+   its =2063 res. norm =        0.673573D-04
+   its =2064 res. norm =        0.671294D-04
+   its =2065 res. norm =        0.669385D-04
+   its =2066 res. norm =        0.668220D-04
+   its =2067 res. norm =        0.667605D-04
+   its =2068 res. norm =        0.666908D-04
+   its =2069 res. norm =        0.665741D-04
+   its =2070 res. norm =        0.663918D-04
+   its =2071 res. norm =        0.662117D-04
+   its =2072 res. norm =        0.661040D-04
+   its =2073 res. norm =        0.660346D-04
+   its =2074 res. norm =        0.659713D-04
+   its =2075 res. norm =        0.658624D-04
+   its =2076 res. norm =        0.656703D-04
+   its =2077 res. norm =        0.654354D-04
+   its =2078 res. norm =        0.652804D-04
+   its =2079 res. norm =        0.651016D-04
+   its =2080 res. norm =        0.649837D-04
+   its =2081 res. norm =        0.648753D-04
+   its =2082 res. norm =        0.647040D-04
+   its =2083 res. norm =        0.645493D-04
+   its =2084 res. norm =        0.643266D-04
+   its =2085 res. norm =        0.641410D-04
+   its =2086 res. norm =        0.640261D-04
+   its =2087 res. norm =        0.639684D-04
+   its =2088 res. norm =        0.639015D-04
+   its =2089 res. norm =        0.637914D-04
+   its =2090 res. norm =        0.636162D-04
+   its =2091 res. norm =        0.634436D-04
+   its =2092 res. norm =        0.633421D-04
+   its =2093 res. norm =        0.632756D-04
+   its =2094 res. norm =        0.632173D-04
+   its =2095 res. norm =        0.631108D-04
+   its =2096 res. norm =        0.629229D-04
+   its =2097 res. norm =        0.626918D-04
+   its =2098 res. norm =        0.625462D-04
+   its =2099 res. norm =        0.623666D-04
+   its =2100 res. norm =        0.622421D-04
+   its =2101 res. norm =        0.621271D-04
+   its =2102 res. norm =        0.619544D-04
+   its =2103 res. norm =        0.618085D-04
+   its =2104 res. norm =        0.615899D-04
+   its =2105 res. norm =        0.614105D-04
+   its =2106 res. norm =        0.612978D-04
+   its =2107 res. norm =        0.612437D-04
+   its =2108 res. norm =        0.611797D-04
+   its =2109 res. norm =        0.610762D-04
+   its =2110 res. norm =        0.609067D-04
+   its =2111 res. norm =        0.607411D-04
+   its =2112 res. norm =        0.606455D-04
+   its =2113 res. norm =        0.605810D-04
+   its =2114 res. norm =        0.605275D-04
+   its =2115 res. norm =        0.604231D-04
+   its =2116 res. norm =        0.602412D-04
+   its =2117 res. norm =        0.600180D-04
+   its =2118 res. norm =        0.598768D-04
+   its =2119 res. norm =        0.596964D-04
+   its =2120 res. norm =        0.595684D-04
+   its =2121 res. norm =        0.594457D-04
+   its =2122 res. norm =        0.592791D-04
+   its =2123 res. norm =        0.591350D-04
+   its =2124 res. norm =        0.589209D-04
+   its =2125 res. norm =        0.587581D-04
+   its =2126 res. norm =        0.586449D-04
+   its =2127 res. norm =        0.585885D-04
+   its =2128 res. norm =        0.585317D-04
+   its =2129 res. norm =        0.584490D-04
+   its =2130 res. norm =        0.582786D-04
+   its =2131 res. norm =        0.581175D-04
+   its =2132 res. norm =        0.580425D-04
+   its =2133 res. norm =        0.579800D-04
+   its =2134 res. norm =        0.579201D-04
+   its =2135 res. norm =        0.578239D-04
+   its =2136 res. norm =        0.576638D-04
+   its =2137 res. norm =        0.574397D-04
+   its =2138 res. norm =        0.572979D-04
+   its =2139 res. norm =        0.571250D-04
+   its =2140 res. norm =        0.570170D-04
+   its =2141 res. norm =        0.569168D-04
+   its =2142 res. norm =        0.567590D-04
+   its =2143 res. norm =        0.566092D-04
+   its =2144 res. norm =        0.563982D-04
+   its =2145 res. norm =        0.562491D-04
+   its =2146 res. norm =        0.561442D-04
+   its =2147 res. norm =        0.560870D-04
+   its =2148 res. norm =        0.560274D-04
+   its =2149 res. norm =        0.559541D-04
+   its =2150 res. norm =        0.557898D-04
+   its =2151 res. norm =        0.556355D-04
+   its =2152 res. norm =        0.555644D-04
+   its =2153 res. norm =        0.555032D-04
+   its =2154 res. norm =        0.554471D-04
+   its =2155 res. norm =        0.553545D-04
+   its =2156 res. norm =        0.552002D-04
+   its =2157 res. norm =        0.549765D-04
+   its =2158 res. norm =        0.548416D-04
+   its =2159 res. norm =        0.546739D-04
+   its =2160 res. norm =        0.545483D-04
+   its =2161 res. norm =        0.544323D-04
+   its =2162 res. norm =        0.542797D-04
+   its =2163 res. norm =        0.541365D-04
+   its =2164 res. norm =        0.539291D-04
+   its =2165 res. norm =        0.537857D-04
+   its =2166 res. norm =        0.536828D-04
+   its =2167 res. norm =        0.536275D-04
+   its =2168 res. norm =        0.535727D-04
+   its =2169 res. norm =        0.535051D-04
+   its =2170 res. norm =        0.533403D-04
+   its =2171 res. norm =        0.531931D-04
+   its =2172 res. norm =        0.531237D-04
+   its =2173 res. norm =        0.530638D-04
+   its =2174 res. norm =        0.530136D-04
+   its =2175 res. norm =        0.529225D-04
+   its =2176 res. norm =        0.527718D-04
+   its =2177 res. norm =        0.525564D-04
+   its =2178 res. norm =        0.524274D-04
+   its =2179 res. norm =        0.522596D-04
+   its =2180 res. norm =        0.521014D-04
+   its =2181 res. norm =        0.519528D-04
+   its =2182 res. norm =        0.517979D-04
+   its =2183 res. norm =        0.516639D-04
+   its =2184 res. norm =        0.514665D-04
+   its =2185 res. norm =        0.513251D-04
+   its =2186 res. norm =        0.512226D-04
+   its =2187 res. norm =        0.511736D-04
+   its =2188 res. norm =        0.511214D-04
+   its =2189 res. norm =        0.510539D-04
+   its =2190 res. norm =        0.508922D-04
+   its =2191 res. norm =        0.507491D-04
+   its =2192 res. norm =        0.506813D-04
+   its =2193 res. norm =        0.506222D-04
+   its =2194 res. norm =        0.505786D-04
+   its =2195 res. norm =        0.504862D-04
+   its =2196 res. norm =        0.503417D-04
+   its =2197 res. norm =        0.501427D-04
+   its =2198 res. norm =        0.500115D-04
+   its =2199 res. norm =        0.498492D-04
+   its =2200 res. norm =        0.497384D-04
+   its =2201 res. norm =        0.496294D-04
+   its =2202 res. norm =        0.494783D-04
+   its =2203 res. norm =        0.493498D-04
+   its =2204 res. norm =        0.491603D-04
+   its =2205 res. norm =        0.490258D-04
+   its =2206 res. norm =        0.489271D-04
+   its =2207 res. norm =        0.488800D-04
+   its =2208 res. norm =        0.488267D-04
+   its =2209 res. norm =        0.487694D-04
+   its =2210 res. norm =        0.485927D-04
+   its =2211 res. norm =        0.484397D-04
+   its =2212 res. norm =        0.483779D-04
+   its =2213 res. norm =        0.483188D-04
+   its =2214 res. norm =        0.482800D-04
+   its =2215 res. norm =        0.481892D-04
+   its =2216 res. norm =        0.480581D-04
+   its =2217 res. norm =        0.478680D-04
+   its =2218 res. norm =        0.477337D-04
+   its =2219 res. norm =        0.475781D-04
+   its =2220 res. norm =        0.474914D-04
+   its =2221 res. norm =        0.474027D-04
+   its =2222 res. norm =        0.472588D-04
+   its =2223 res. norm =        0.471308D-04
+   its =2224 res. norm =        0.469434D-04
+   its =2225 res. norm =        0.468233D-04
+   its =2226 res. norm =        0.467248D-04
+   its =2227 res. norm =        0.466837D-04
+   its =2228 res. norm =        0.466273D-04
+   its =2229 res. norm =        0.465724D-04
+   its =2230 res. norm =        0.463744D-04
+   its =2231 res. norm =        0.461953D-04
+   its =2232 res. norm =        0.461386D-04
+   its =2233 res. norm =        0.460796D-04
+   its =2234 res. norm =        0.460457D-04
+   its =2235 res. norm =        0.459533D-04
+   its =2236 res. norm =        0.458333D-04
+   its =2237 res. norm =        0.456518D-04
+   its =2238 res. norm =        0.455196D-04
+   its =2239 res. norm =        0.453695D-04
+   its =2240 res. norm =        0.452900D-04
+   its =2241 res. norm =        0.452112D-04
+   its =2242 res. norm =        0.450733D-04
+   its =2243 res. norm =        0.449450D-04
+   its =2244 res. norm =        0.447687D-04
+   its =2245 res. norm =        0.446595D-04
+   its =2246 res. norm =        0.445595D-04
+   its =2247 res. norm =        0.445244D-04
+   its =2248 res. norm =        0.444647D-04
+   its =2249 res. norm =        0.444136D-04
+   its =2250 res. norm =        0.441325D-04
+   its =2251 res. norm =        0.438764D-04
+   its =2252 res. norm =        0.438198D-04
+   its =2253 res. norm =        0.437640D-04
+   its =2254 res. norm =        0.437362D-04
+   its =2255 res. norm =        0.436480D-04
+   its =2256 res. norm =        0.435498D-04
+   its =2257 res. norm =        0.433784D-04
+   its =2258 res. norm =        0.432462D-04
+   its =2259 res. norm =        0.431035D-04
+   its =2260 res. norm =        0.430251D-04
+   its =2261 res. norm =        0.429509D-04
+   its =2262 res. norm =        0.428217D-04
+   its =2263 res. norm =        0.426907D-04
+   its =2264 res. norm =        0.425199D-04
+   its =2265 res. norm =        0.424197D-04
+   its =2266 res. norm =        0.423119D-04
+   its =2267 res. norm =        0.422836D-04
+   its =2268 res. norm =        0.422266D-04
+   its =2269 res. norm =        0.421743D-04
+   its =2270 res. norm =        0.416612D-04
+   its =2271 res. norm =        0.411774D-04
+   its =2272 res. norm =        0.411205D-04
+   its =2273 res. norm =        0.410495D-04
+   its =2274 res. norm =        0.410037D-04
+   its =2275 res. norm =        0.408817D-04
+   its =2276 res. norm =        0.407576D-04
+   its =2277 res. norm =        0.405962D-04
+   its =2278 res. norm =        0.404779D-04
+   its =2279 res. norm =        0.403637D-04
+   its =2280 res. norm =        0.402907D-04
+   its =2281 res. norm =        0.402289D-04
+   its =2282 res. norm =        0.401313D-04
+   its =2283 res. norm =        0.400408D-04
+   its =2284 res. norm =        0.399463D-04
+   its =2285 res. norm =        0.398826D-04
+   its =2286 res. norm =        0.398001D-04
+   its =2287 res. norm =        0.397505D-04
+   its =2288 res. norm =        0.396331D-04
+   its =2289 res. norm =        0.395233D-04
+   its =2290 res. norm =        0.389802D-04
+   its =2291 res. norm =        0.388151D-04
+   its =2292 res. norm =        0.387192D-04
+   its =2293 res. norm =        0.386016D-04
+   its =2294 res. norm =        0.385827D-04
+   its =2295 res. norm =        0.385674D-04
+   its =2296 res. norm =        0.385244D-04
+   its =2297 res. norm =        0.384353D-04
+   its =2298 res. norm =        0.383495D-04
+   its =2299 res. norm =        0.382062D-04
+   its =2300 res. norm =        0.380515D-04
+   its =2301 res. norm =        0.379619D-04
+   its =2302 res. norm =        0.378524D-04
+   its =2303 res. norm =        0.377762D-04
+   its =2304 res. norm =        0.376925D-04
+   its =2305 res. norm =        0.376337D-04
+   its =2306 res. norm =        0.375885D-04
+   its =2307 res. norm =        0.375253D-04
+   its =2308 res. norm =        0.374062D-04
+   its =2309 res. norm =        0.373405D-04
+   its =2310 res. norm =        0.372357D-04
+   its =2311 res. norm =        0.371676D-04
+   its =2312 res. norm =        0.371310D-04
+   its =2313 res. norm =        0.370275D-04
+   its =2314 res. norm =        0.369504D-04
+   its =2315 res. norm =        0.368816D-04
+   its =2316 res. norm =        0.368169D-04
+   its =2317 res. norm =        0.367525D-04
+   its =2318 res. norm =        0.366933D-04
+   its =2319 res. norm =        0.365619D-04
+   its =2320 res. norm =        0.364693D-04
+   its =2321 res. norm =        0.363924D-04
+   its =2322 res. norm =        0.363028D-04
+   its =2323 res. norm =        0.362329D-04
+   its =2324 res. norm =        0.361368D-04
+   its =2325 res. norm =        0.360559D-04
+   its =2326 res. norm =        0.360031D-04
+   its =2327 res. norm =        0.359441D-04
+   its =2328 res. norm =        0.358491D-04
+   its =2329 res. norm =        0.357992D-04
+   its =2330 res. norm =        0.357093D-04
+   its =2331 res. norm =        0.356420D-04
+   its =2332 res. norm =        0.356057D-04
+   its =2333 res. norm =        0.355087D-04
+   its =2334 res. norm =        0.354335D-04
+   its =2335 res. norm =        0.353695D-04
+   its =2336 res. norm =        0.353042D-04
+   its =2337 res. norm =        0.352386D-04
+   its =2338 res. norm =        0.351839D-04
+   its =2339 res. norm =        0.350696D-04
+   its =2340 res. norm =        0.349892D-04
+   its =2341 res. norm =        0.349215D-04
+   its =2342 res. norm =        0.348380D-04
+   its =2343 res. norm =        0.347736D-04
+   its =2344 res. norm =        0.346843D-04
+   its =2345 res. norm =        0.346117D-04
+   its =2346 res. norm =        0.345639D-04
+   its =2347 res. norm =        0.344980D-04
+   its =2348 res. norm =        0.343950D-04
+   its =2349 res. norm =        0.343493D-04
+   its =2350 res. norm =        0.342757D-04
+   its =2351 res. norm =        0.342159D-04
+   its =2352 res. norm =        0.341779D-04
+   its =2353 res. norm =        0.340770D-04
+   its =2354 res. norm =        0.340010D-04
+   its =2355 res. norm =        0.339483D-04
+   its =2356 res. norm =        0.338887D-04
+   its =2357 res. norm =        0.338192D-04
+   its =2358 res. norm =        0.337619D-04
+   its =2359 res. norm =        0.336619D-04
+   its =2360 res. norm =        0.335945D-04
+   its =2361 res. norm =        0.335364D-04
+   its =2362 res. norm =        0.334567D-04
+   its =2363 res. norm =        0.333939D-04
+   its =2364 res. norm =        0.333103D-04
+   its =2365 res. norm =        0.332474D-04
+   its =2366 res. norm =        0.332050D-04
+   its =2367 res. norm =        0.331289D-04
+   its =2368 res. norm =        0.330134D-04
+   its =2369 res. norm =        0.329745D-04
+   its =2370 res. norm =        0.329072D-04
+   its =2371 res. norm =        0.328446D-04
+   its =2372 res. norm =        0.328057D-04
+   its =2373 res. norm =        0.326967D-04
+   its =2374 res. norm =        0.326221D-04
+   its =2375 res. norm =        0.325794D-04
+   its =2376 res. norm =        0.325241D-04
+   its =2377 res. norm =        0.324468D-04
+   its =2378 res. norm =        0.323813D-04
+   its =2379 res. norm =        0.323102D-04
+   its =2380 res. norm =        0.322471D-04
+   its =2381 res. norm =        0.321924D-04
+   its =2382 res. norm =        0.321212D-04
+   its =2383 res. norm =        0.320615D-04
+   its =2384 res. norm =        0.319841D-04
+   its =2385 res. norm =        0.319275D-04
+   its =2386 res. norm =        0.318870D-04
+   its =2387 res. norm =        0.318067D-04
+   its =2388 res. norm =        0.316889D-04
+   its =2389 res. norm =        0.316462D-04
+   its =2390 res. norm =        0.315896D-04
+   its =2391 res. norm =        0.315290D-04
+   its =2392 res. norm =        0.314840D-04
+   its =2393 res. norm =        0.313807D-04
+   its =2394 res. norm =        0.313134D-04
+   its =2395 res. norm =        0.312684D-04
+   its =2396 res. norm =        0.312149D-04
+   its =2397 res. norm =        0.311430D-04
+   its =2398 res. norm =        0.310756D-04
+   its =2399 res. norm =        0.310171D-04
+   its =2400 res. norm =        0.309523D-04
+   its =2401 res. norm =        0.308952D-04
+   its =2402 res. norm =        0.308350D-04
+   its =2403 res. norm =        0.307755D-04
+   its =2404 res. norm =        0.307072D-04
+   its =2405 res. norm =        0.306533D-04
+   its =2406 res. norm =        0.306095D-04
+   its =2407 res. norm =        0.305360D-04
+   its =2408 res. norm =        0.304167D-04
+   its =2409 res. norm =        0.303735D-04
+   its =2410 res. norm =        0.303257D-04
+   its =2411 res. norm =        0.302774D-04
+   its =2412 res. norm =        0.302331D-04
+   its =2413 res. norm =        0.301287D-04
+   its =2414 res. norm =        0.300641D-04
+   its =2415 res. norm =        0.300243D-04
+   its =2416 res. norm =        0.299667D-04
+   its =2417 res. norm =        0.298943D-04
+   its =2418 res. norm =        0.298367D-04
+   its =2419 res. norm =        0.297794D-04
+   its =2420 res. norm =        0.297200D-04
+   its =2421 res. norm =        0.296657D-04
+   its =2422 res. norm =        0.296115D-04
+   its =2423 res. norm =        0.295618D-04
+   its =2424 res. norm =        0.294998D-04
+   its =2425 res. norm =        0.294380D-04
+   its =2426 res. norm =        0.294019D-04
+   its =2427 res. norm =        0.293254D-04
+   its =2428 res. norm =        0.292107D-04
+   its =2429 res. norm =        0.291628D-04
+   its =2430 res. norm =        0.291206D-04
+   its =2431 res. norm =        0.290810D-04
+   its =2432 res. norm =        0.290271D-04
+   its =2433 res. norm =        0.289450D-04
+   its =2434 res. norm =        0.288676D-04
+   its =2435 res. norm =        0.288352D-04
+   its =2436 res. norm =        0.287613D-04
+   its =2437 res. norm =        0.286970D-04
+   its =2438 res. norm =        0.286477D-04
+   its =2439 res. norm =        0.285983D-04
+   its =2440 res. norm =        0.285372D-04
+   its =2441 res. norm =        0.284827D-04
+   its =2442 res. norm =        0.284326D-04
+   its =2443 res. norm =        0.283917D-04
+   its =2444 res. norm =        0.283349D-04
+   its =2445 res. norm =        0.282669D-04
+   its =2446 res. norm =        0.282375D-04
+   its =2447 res. norm =        0.281502D-04
+   its =2448 res. norm =        0.280504D-04
+   its =2449 res. norm =        0.279921D-04
+   its =2450 res. norm =        0.279583D-04
+   its =2451 res. norm =        0.279227D-04
+   its =2452 res. norm =        0.278598D-04
+   its =2453 res. norm =        0.277848D-04
+   its =2454 res. norm =        0.277128D-04
+   its =2455 res. norm =        0.276817D-04
+   its =2456 res. norm =        0.276005D-04
+   its =2457 res. norm =        0.275412D-04
+   its =2458 res. norm =        0.274998D-04
+   its =2459 res. norm =        0.274493D-04
+   its =2460 res. norm =        0.273885D-04
+   its =2461 res. norm =        0.273283D-04
+   its =2462 res. norm =        0.272817D-04
+   its =2463 res. norm =        0.272456D-04
+   its =2464 res. norm =        0.271936D-04
+   its =2465 res. norm =        0.271251D-04
+   its =2466 res. norm =        0.270964D-04
+   its =2467 res. norm =        0.270083D-04
+   its =2468 res. norm =        0.269080D-04
+   its =2469 res. norm =        0.268523D-04
+   its =2470 res. norm =        0.268166D-04
+   its =2471 res. norm =        0.267783D-04
+   its =2472 res. norm =        0.267197D-04
+   its =2473 res. norm =        0.266441D-04
+   its =2474 res. norm =        0.265751D-04
+   its =2475 res. norm =        0.265453D-04
+   its =2476 res. norm =        0.264601D-04
+   its =2477 res. norm =        0.264027D-04
+   its =2478 res. norm =        0.263696D-04
+   its =2479 res. norm =        0.263191D-04
+   its =2480 res. norm =        0.262509D-04
+   its =2481 res. norm =        0.261884D-04
+   its =2482 res. norm =        0.261404D-04
+   its =2483 res. norm =        0.261093D-04
+   its =2484 res. norm =        0.260624D-04
+   its =2485 res. norm =        0.259973D-04
+   its =2486 res. norm =        0.259698D-04
+   its =2487 res. norm =        0.258937D-04
+   its =2488 res. norm =        0.257955D-04
+   its =2489 res. norm =        0.257300D-04
+   its =2490 res. norm =        0.256932D-04
+   its =2491 res. norm =        0.256628D-04
+   its =2492 res. norm =        0.256015D-04
+   its =2493 res. norm =        0.255231D-04
+   its =2494 res. norm =        0.254596D-04
+   its =2495 res. norm =        0.254352D-04
+   its =2496 res. norm =        0.253517D-04
+   its =2497 res. norm =        0.252944D-04
+   its =2498 res. norm =        0.252684D-04
+   its =2499 res. norm =        0.252160D-04
+   its =2500 res. norm =        0.251396D-04
+   its =2501 res. norm =        0.250710D-04
+   its =2502 res. norm =        0.250177D-04
+   its =2503 res. norm =        0.249937D-04
+   its =2504 res. norm =        0.249478D-04
+   its =2505 res. norm =        0.248875D-04
+   its =2506 res. norm =        0.248613D-04
+   its =2507 res. norm =        0.247887D-04
+   its =2508 res. norm =        0.246893D-04
+   its =2509 res. norm =        0.246210D-04
+   its =2510 res. norm =        0.245865D-04
+   its =2511 res. norm =        0.245572D-04
+   its =2512 res. norm =        0.244945D-04
+   its =2513 res. norm =        0.244186D-04
+   its =2514 res. norm =        0.243588D-04
+   its =2515 res. norm =        0.243341D-04
+   its =2516 res. norm =        0.242473D-04
+   its =2517 res. norm =        0.241977D-04
+   its =2518 res. norm =        0.241749D-04
+   its =2519 res. norm =        0.241185D-04
+   its =2520 res. norm =        0.240374D-04
+   its =2521 res. norm =        0.239636D-04
+   its =2522 res. norm =        0.239071D-04
+   its =2523 res. norm =        0.238830D-04
+   its =2524 res. norm =        0.238405D-04
+   its =2525 res. norm =        0.237891D-04
+   its =2526 res. norm =        0.237640D-04
+   its =2527 res. norm =        0.236891D-04
+   its =2528 res. norm =        0.236190D-04
+   its =2529 res. norm =        0.235583D-04
+   its =2530 res. norm =        0.235078D-04
+   its =2531 res. norm =        0.234694D-04
+   its =2532 res. norm =        0.234275D-04
+   its =2533 res. norm =        0.233693D-04
+   its =2534 res. norm =        0.232878D-04
+   its =2535 res. norm =        0.232569D-04
+   its =2536 res. norm =        0.231996D-04
+   its =2537 res. norm =        0.231692D-04
+   its =2538 res. norm =        0.231443D-04
+   its =2539 res. norm =        0.230705D-04
+   its =2540 res. norm =        0.230053D-04
+   its =2541 res. norm =        0.229529D-04
+   its =2542 res. norm =        0.229034D-04
+   its =2543 res. norm =        0.228751D-04
+   its =2544 res. norm =        0.228347D-04
+   its =2545 res. norm =        0.227985D-04
+   its =2546 res. norm =        0.227765D-04
+   its =2547 res. norm =        0.226774D-04
+   its =2548 res. norm =        0.226019D-04
+   its =2549 res. norm =        0.225501D-04
+   its =2550 res. norm =        0.225133D-04
+   its =2551 res. norm =        0.224803D-04
+   its =2552 res. norm =        0.224383D-04
+   its =2553 res. norm =        0.223757D-04
+   its =2554 res. norm =        0.222916D-04
+   its =2555 res. norm =        0.222697D-04
+   its =2556 res. norm =        0.222198D-04
+   its =2557 res. norm =        0.221789D-04
+   its =2558 res. norm =        0.221493D-04
+   its =2559 res. norm =        0.220937D-04
+   its =2560 res. norm =        0.220373D-04
+   its =2561 res. norm =        0.219893D-04
+   its =2562 res. norm =        0.219481D-04
+   its =2563 res. norm =        0.219226D-04
+   its =2564 res. norm =        0.218876D-04
+   its =2565 res. norm =        0.218522D-04
+   its =2566 res. norm =        0.218307D-04
+   its =2567 res. norm =        0.217306D-04
+   its =2568 res. norm =        0.216525D-04
+   its =2569 res. norm =        0.216012D-04
+   its =2570 res. norm =        0.215682D-04
+   its =2571 res. norm =        0.215380D-04
+   its =2572 res. norm =        0.214949D-04
+   its =2573 res. norm =        0.214354D-04
+   its =2574 res. norm =        0.213675D-04
+   its =2575 res. norm =        0.213446D-04
+   its =2576 res. norm =        0.212854D-04
+   its =2577 res. norm =        0.212381D-04
+   its =2578 res. norm =        0.212092D-04
+   its =2579 res. norm =        0.211721D-04
+   its =2580 res. norm =        0.211169D-04
+   its =2581 res. norm =        0.210728D-04
+   its =2582 res. norm =        0.210376D-04
+   its =2583 res. norm =        0.210095D-04
+   its =2584 res. norm =        0.209803D-04
+   its =2585 res. norm =        0.209459D-04
+   its =2586 res. norm =        0.209236D-04
+   its =2587 res. norm =        0.208523D-04
+   its =2588 res. norm =        0.207801D-04
+   its =2589 res. norm =        0.207142D-04
+   its =2590 res. norm =        0.206781D-04
+   its =2591 res. norm =        0.206510D-04
+   its =2592 res. norm =        0.205983D-04
+   its =2593 res. norm =        0.205413D-04
+   its =2594 res. norm =        0.204870D-04
+   its =2595 res. norm =        0.204564D-04
+   its =2596 res. norm =        0.204173D-04
+   its =2597 res. norm =        0.203837D-04
+   its =2598 res. norm =        0.203477D-04
+   its =2599 res. norm =        0.203143D-04
+   its =2600 res. norm =        0.202666D-04
+   its =2601 res. norm =        0.202320D-04
+   its =2602 res. norm =        0.202064D-04
+   its =2603 res. norm =        0.201779D-04
+   its =2604 res. norm =        0.201502D-04
+   its =2605 res. norm =        0.201200D-04
+   its =2606 res. norm =        0.200902D-04
+   its =2607 res. norm =        0.200372D-04
+   its =2608 res. norm =        0.199674D-04
+   its =2609 res. norm =        0.198881D-04
+   its =2610 res. norm =        0.198582D-04
+   its =2611 res. norm =        0.198349D-04
+   its =2612 res. norm =        0.197719D-04
+   its =2613 res. norm =        0.197109D-04
+   its =2614 res. norm =        0.196692D-04
+   its =2615 res. norm =        0.196405D-04
+   its =2616 res. norm =        0.195969D-04
+   its =2617 res. norm =        0.195615D-04
+   its =2618 res. norm =        0.195329D-04
+   its =2619 res. norm =        0.194988D-04
+   its =2620 res. norm =        0.194624D-04
+   its =2621 res. norm =        0.194314D-04
+   its =2622 res. norm =        0.194057D-04
+   its =2623 res. norm =        0.193818D-04
+   its =2624 res. norm =        0.193548D-04
+   its =2625 res. norm =        0.193228D-04
+   its =2626 res. norm =        0.192931D-04
+   its =2627 res. norm =        0.192417D-04
+   its =2628 res. norm =        0.191697D-04
+   its =2629 res. norm =        0.190916D-04
+   its =2630 res. norm =        0.190656D-04
+   its =2631 res. norm =        0.190432D-04
+   its =2632 res. norm =        0.189798D-04
+   its =2633 res. norm =        0.189185D-04
+   its =2634 res. norm =        0.188801D-04
+   its =2635 res. norm =        0.188537D-04
+   its =2636 res. norm =        0.187994D-04
+   its =2637 res. norm =        0.187660D-04
+   its =2638 res. norm =        0.187427D-04
+   its =2639 res. norm =        0.187121D-04
+   its =2640 res. norm =        0.186767D-04
+   its =2641 res. norm =        0.186443D-04
+   its =2642 res. norm =        0.186182D-04
+   its =2643 res. norm =        0.185961D-04
+   its =2644 res. norm =        0.185716D-04
+   its =2645 res. norm =        0.185361D-04
+   its =2646 res. norm =        0.185084D-04
+   its =2647 res. norm =        0.184597D-04
+   its =2648 res. norm =        0.183896D-04
+   its =2649 res. norm =        0.183138D-04
+   its =2650 res. norm =        0.182883D-04
+   its =2651 res. norm =        0.182654D-04
+   its =2652 res. norm =        0.182042D-04
+   its =2653 res. norm =        0.181399D-04
+   its =2654 res. norm =        0.181000D-04
+   its =2655 res. norm =        0.180762D-04
+   its =2656 res. norm =        0.180247D-04
+   its =2657 res. norm =        0.179966D-04
+   its =2658 res. norm =        0.179753D-04
+   its =2659 res. norm =        0.179431D-04
+   its =2660 res. norm =        0.179050D-04
+   its =2661 res. norm =        0.178709D-04
+   its =2662 res. norm =        0.178451D-04
+   its =2663 res. norm =        0.178250D-04
+   its =2664 res. norm =        0.178029D-04
+   its =2665 res. norm =        0.177674D-04
+   its =2666 res. norm =        0.177413D-04
+   its =2667 res. norm =        0.176905D-04
+   its =2668 res. norm =        0.176214D-04
+   its =2669 res. norm =        0.175517D-04
+   its =2670 res. norm =        0.175250D-04
+   its =2671 res. norm =        0.175013D-04
+   its =2672 res. norm =        0.174483D-04
+   its =2673 res. norm =        0.173908D-04
+   its =2674 res. norm =        0.173491D-04
+   its =2675 res. norm =        0.173214D-04
+   its =2676 res. norm =        0.172686D-04
+   its =2677 res. norm =        0.172456D-04
+   its =2678 res. norm =        0.172242D-04
+   its =2679 res. norm =        0.171907D-04
+   its =2680 res. norm =        0.171581D-04
+   its =2681 res. norm =        0.171309D-04
+   its =2682 res. norm =        0.171047D-04
+   its =2683 res. norm =        0.170800D-04
+   its =2684 res. norm =        0.170588D-04
+   its =2685 res. norm =        0.170311D-04
+   its =2686 res. norm =        0.170071D-04
+   its =2687 res. norm =        0.169435D-04
+   its =2688 res. norm =        0.168800D-04
+   its =2689 res. norm =        0.168291D-04
+   its =2690 res. norm =        0.167992D-04
+   its =2691 res. norm =        0.167722D-04
+   its =2692 res. norm =        0.167307D-04
+   its =2693 res. norm =        0.166702D-04
+   its =2694 res. norm =        0.166129D-04
+   its =2695 res. norm =        0.165908D-04
+   its =2696 res. norm =        0.165564D-04
+   its =2697 res. norm =        0.165332D-04
+   its =2698 res. norm =        0.165108D-04
+   its =2699 res. norm =        0.164809D-04
+   its =2700 res. norm =        0.164522D-04
+   its =2701 res. norm =        0.164276D-04
+   its =2702 res. norm =        0.164038D-04
+   its =2703 res. norm =        0.163811D-04
+   its =2704 res. norm =        0.163591D-04
+   its =2705 res. norm =        0.163313D-04
+   its =2706 res. norm =        0.163078D-04
+   its =2707 res. norm =        0.162462D-04
+   its =2708 res. norm =        0.161818D-04
+   its =2709 res. norm =        0.161339D-04
+   its =2710 res. norm =        0.161063D-04
+   its =2711 res. norm =        0.160811D-04
+   its =2712 res. norm =        0.160396D-04
+   its =2713 res. norm =        0.159775D-04
+   its =2714 res. norm =        0.159223D-04
+   its =2715 res. norm =        0.159013D-04
+   its =2716 res. norm =        0.158681D-04
+   its =2717 res. norm =        0.158423D-04
+   its =2718 res. norm =        0.158247D-04
+   its =2719 res. norm =        0.157975D-04
+   its =2720 res. norm =        0.157704D-04
+   its =2721 res. norm =        0.157469D-04
+   its =2722 res. norm =        0.157234D-04
+   its =2723 res. norm =        0.157043D-04
+   its =2724 res. norm =        0.156815D-04
+   its =2725 res. norm =        0.156543D-04
+   its =2726 res. norm =        0.156306D-04
+   its =2727 res. norm =        0.155723D-04
+   its =2728 res. norm =        0.155071D-04
+   its =2729 res. norm =        0.154602D-04
+   its =2730 res. norm =        0.154355D-04
+   its =2731 res. norm =        0.154120D-04
+   its =2732 res. norm =        0.153674D-04
+   its =2733 res. norm =        0.153062D-04
+   its =2734 res. norm =        0.152563D-04
+   its =2735 res. norm =        0.152361D-04
+   its =2736 res. norm =        0.152008D-04
+   its =2737 res. norm =        0.151773D-04
+   its =2738 res. norm =        0.151612D-04
+   its =2739 res. norm =        0.151356D-04
+   its =2740 res. norm =        0.151093D-04
+   its =2741 res. norm =        0.150858D-04
+   its =2742 res. norm =        0.150645D-04
+   its =2743 res. norm =        0.150474D-04
+   its =2744 res. norm =        0.150265D-04
+   its =2745 res. norm =        0.149968D-04
+   its =2746 res. norm =        0.149735D-04
+   its =2747 res. norm =        0.149230D-04
+   its =2748 res. norm =        0.148615D-04
+   its =2749 res. norm =        0.148098D-04
+   its =2750 res. norm =        0.147847D-04
+   its =2751 res. norm =        0.147618D-04
+   its =2752 res. norm =        0.147181D-04
+   its =2753 res. norm =        0.146586D-04
+   its =2754 res. norm =        0.146116D-04
+   its =2755 res. norm =        0.145914D-04
+   its =2756 res. norm =        0.145528D-04
+   its =2757 res. norm =        0.145320D-04
+   its =2758 res. norm =        0.145186D-04
+   its =2759 res. norm =        0.144954D-04
+   its =2760 res. norm =        0.144673D-04
+   its =2761 res. norm =        0.144421D-04
+   its =2762 res. norm =        0.144215D-04
+   its =2763 res. norm =        0.144052D-04
+   its =2764 res. norm =        0.143876D-04
+   its =2765 res. norm =        0.143576D-04
+   its =2766 res. norm =        0.143343D-04
+   its =2767 res. norm =        0.142884D-04
+   its =2768 res. norm =        0.142301D-04
+   its =2769 res. norm =        0.141741D-04
+   its =2770 res. norm =        0.141505D-04
+   its =2771 res. norm =        0.141292D-04
+   its =2772 res. norm =        0.140796D-04
+   its =2773 res. norm =        0.140225D-04
+   its =2774 res. norm =        0.139832D-04
+   its =2775 res. norm =        0.139619D-04
+   its =2776 res. norm =        0.139226D-04
+   its =2777 res. norm =        0.139059D-04
+   its =2778 res. norm =        0.138920D-04
+   its =2779 res. norm =        0.138708D-04
+   its =2780 res. norm =        0.138429D-04
+   its =2781 res. norm =        0.138178D-04
+   its =2782 res. norm =        0.137997D-04
+   its =2783 res. norm =        0.137840D-04
+   its =2784 res. norm =        0.137691D-04
+   its =2785 res. norm =        0.137374D-04
+   its =2786 res. norm =        0.137141D-04
+   its =2787 res. norm =        0.136739D-04
+   its =2788 res. norm =        0.136144D-04
+   its =2789 res. norm =        0.135592D-04
+   its =2790 res. norm =        0.135371D-04
+   its =2791 res. norm =        0.135160D-04
+   its =2792 res. norm =        0.134681D-04
+   its =2793 res. norm =        0.134132D-04
+   its =2794 res. norm =        0.133756D-04
+   its =2795 res. norm =        0.133542D-04
+   its =2796 res. norm =        0.133143D-04
+   its =2797 res. norm =        0.132999D-04
+   its =2798 res. norm =        0.132867D-04
+   its =2799 res. norm =        0.132664D-04
+   its =2800 res. norm =        0.132384D-04
+   its =2801 res. norm =        0.132138D-04
+   its =2802 res. norm =        0.131966D-04
+   its =2803 res. norm =        0.131812D-04
+   its =2804 res. norm =        0.131681D-04
+   its =2805 res. norm =        0.131383D-04
+   its =2806 res. norm =        0.131163D-04
+   its =2807 res. norm =        0.130754D-04
+   its =2808 res. norm =        0.130188D-04
+   its =2809 res. norm =        0.129696D-04
+   its =2810 res. norm =        0.129464D-04
+   its =2811 res. norm =        0.129250D-04
+   its =2812 res. norm =        0.128852D-04
+   its =2813 res. norm =        0.128342D-04
+   its =2814 res. norm =        0.127943D-04
+   its =2815 res. norm =        0.127719D-04
+   its =2816 res. norm =        0.127339D-04
+   its =2817 res. norm =        0.127215D-04
+   its =2818 res. norm =        0.127082D-04
+   its =2819 res. norm =        0.126889D-04
+   its =2820 res. norm =        0.126632D-04
+   its =2821 res. norm =        0.126412D-04
+   its =2822 res. norm =        0.126251D-04
+   its =2823 res. norm =        0.126092D-04
+   its =2824 res. norm =        0.125974D-04
+   its =2825 res. norm =        0.125711D-04
+   its =2826 res. norm =        0.125500D-04
+   its =2827 res. norm =        0.125041D-04
+   its =2828 res. norm =        0.124493D-04
+   its =2829 res. norm =        0.124099D-04
+   its =2830 res. norm =        0.123876D-04
+   its =2831 res. norm =        0.123667D-04
+   its =2832 res. norm =        0.123331D-04
+   its =2833 res. norm =        0.122810D-04
+   its =2834 res. norm =        0.122368D-04
+   its =2835 res. norm =        0.122182D-04
+   its =2836 res. norm =        0.121852D-04
+   its =2837 res. norm =        0.121728D-04
+   its =2838 res. norm =        0.121597D-04
+   its =2839 res. norm =        0.121438D-04
+   its =2840 res. norm =        0.121196D-04
+   its =2841 res. norm =        0.120977D-04
+   its =2842 res. norm =        0.120836D-04
+   its =2843 res. norm =        0.120691D-04
+   its =2844 res. norm =        0.120581D-04
+   its =2845 res. norm =        0.120303D-04
+   its =2846 res. norm =        0.120086D-04
+   its =2847 res. norm =        0.119643D-04
+   its =2848 res. norm =        0.119105D-04
+   its =2849 res. norm =        0.118739D-04
+   its =2850 res. norm =        0.118534D-04
+   its =2851 res. norm =        0.118337D-04
+   its =2852 res. norm =        0.118002D-04
+   its =2853 res. norm =        0.117467D-04
+   its =2854 res. norm =        0.117042D-04
+   its =2855 res. norm =        0.116873D-04
+   its =2856 res. norm =        0.116551D-04
+   its =2857 res. norm =        0.116435D-04
+   its =2858 res. norm =        0.116312D-04
+   its =2859 res. norm =        0.116166D-04
+   its =2860 res. norm =        0.115911D-04
+   its =2861 res. norm =        0.115676D-04
+   its =2862 res. norm =        0.115542D-04
+   its =2863 res. norm =        0.115407D-04
+   its =2864 res. norm =        0.115307D-04
+   its =2865 res. norm =        0.115028D-04
+   its =2866 res. norm =        0.114822D-04
+   its =2867 res. norm =        0.114410D-04
+   its =2868 res. norm =        0.113870D-04
+   its =2869 res. norm =        0.113498D-04
+   its =2870 res. norm =        0.113302D-04
+   its =2871 res. norm =        0.113114D-04
+   its =2872 res. norm =        0.112775D-04
+   its =2873 res. norm =        0.112233D-04
+   its =2874 res. norm =        0.111830D-04
+   its =2875 res. norm =        0.111671D-04
+   its =2876 res. norm =        0.111356D-04
+   its =2877 res. norm =        0.111253D-04
+   its =2878 res. norm =        0.111138D-04
+   its =2879 res. norm =        0.110999D-04
+   its =2880 res. norm =        0.110717D-04
+   its =2881 res. norm =        0.110455D-04
+   its =2882 res. norm =        0.110326D-04
+   its =2883 res. norm =        0.110202D-04
+   its =2884 res. norm =        0.110112D-04
+   its =2885 res. norm =        0.109836D-04
+   its =2886 res. norm =        0.109642D-04
+   its =2887 res. norm =        0.109258D-04
+   its =2888 res. norm =        0.108718D-04
+   its =2889 res. norm =        0.108334D-04
+   its =2890 res. norm =        0.108146D-04
+   its =2891 res. norm =        0.107968D-04
+   its =2892 res. norm =        0.107624D-04
+   its =2893 res. norm =        0.107082D-04
+   its =2894 res. norm =        0.106704D-04
+   its =2895 res. norm =        0.106551D-04
+   its =2896 res. norm =        0.106240D-04
+   its =2897 res. norm =        0.106146D-04
+   its =2898 res. norm =        0.106040D-04
+   its =2899 res. norm =        0.105906D-04
+   its =2900 res. norm =        0.105578D-04
+   its =2901 res. norm =        0.105272D-04
+   its =2902 res. norm =        0.105145D-04
+   its =2903 res. norm =        0.105030D-04
+   its =2904 res. norm =        0.104948D-04
+   its =2905 res. norm =        0.104679D-04
+   its =2906 res. norm =        0.104496D-04
+   its =2907 res. norm =        0.104134D-04
+   its =2908 res. norm =        0.103601D-04
+   its =2909 res. norm =        0.103208D-04
+   its =2910 res. norm =        0.103027D-04
+   its =2911 res. norm =        0.102856D-04
+   its =2912 res. norm =        0.102511D-04
+   its =2913 res. norm =        0.101972D-04
+   its =2914 res. norm =        0.101609D-04
+   its =2915 res. norm =        0.101462D-04
+   its =2916 res. norm =        0.101167D-04
+   its =2917 res. norm =        0.101081D-04
+   its =2918 res. norm =        0.100982D-04
+   its =2919 res. norm =        0.100848D-04
+   its =2920 res. norm =        0.100431D-04
+   its =2921 res. norm =        0.100043D-04
+   its =2922 res. norm =        0.999157D-05
+   its =2923 res. norm =        0.998088D-05
+   its =2924 res. norm =        0.997311D-05
+   its =2925 res. norm =        0.994871D-05
+   its =2926 res. norm =        0.993211D-05
+   its =2927 res. norm =        0.989576D-05
+   its =2928 res. norm =        0.984312D-05
+   its =2929 res. norm =        0.980480D-05
+   its =2930 res. norm =        0.978686D-05
+   its =2931 res. norm =        0.977039D-05
+   its =2932 res. norm =        0.973814D-05
+   its =2933 res. norm =        0.968672D-05
+   its =2934 res. norm =        0.964996D-05
+   its =2935 res. norm =        0.963497D-05
+   its =2936 res. norm =        0.960785D-05
+   its =2937 res. norm =        0.959977D-05
+   its =2938 res. norm =        0.958995D-05
+   its =2939 res. norm =        0.957564D-05
+   its =2940 res. norm =        0.951725D-05
+   its =2941 res. norm =        0.946767D-05
+   its =2942 res. norm =        0.945149D-05
+   its =2943 res. norm =        0.943745D-05
+   its =2944 res. norm =        0.942999D-05
+   its =2945 res. norm =        0.941370D-05
+   its =2946 res. norm =        0.939888D-05
+   its =2947 res. norm =        0.935626D-05
+   its =2948 res. norm =        0.931155D-05
+   its =2949 res. norm =        0.927764D-05
+   its =2950 res. norm =        0.925634D-05
+   its =2951 res. norm =        0.923842D-05
+   its =2952 res. norm =        0.921399D-05
+   its =2953 res. norm =        0.916945D-05
+   its =2954 res. norm =        0.912232D-05
+   its =2955 res. norm =        0.910749D-05
+   its =2956 res. norm =        0.908966D-05
+   its =2957 res. norm =        0.908289D-05
+   its =2958 res. norm =        0.907101D-05
+   its =2959 res. norm =        0.905473D-05
+   its =2960 res. norm =        0.900037D-05
+   its =2961 res. norm =        0.895142D-05
+   its =2962 res. norm =        0.893401D-05
+   its =2963 res. norm =        0.892096D-05
+   its =2964 res. norm =        0.891272D-05
+   its =2965 res. norm =        0.890281D-05
+   its =2966 res. norm =        0.888815D-05
+   its =2967 res. norm =        0.885356D-05
+   its =2968 res. norm =        0.881055D-05
+   its =2969 res. norm =        0.876253D-05
+   its =2970 res. norm =        0.874599D-05
+   its =2971 res. norm =        0.873262D-05
+   its =2972 res. norm =        0.869715D-05
+   its =2973 res. norm =        0.865033D-05
+   its =2974 res. norm =        0.861411D-05
+   its =2975 res. norm =        0.859828D-05
+   its =2976 res. norm =        0.858736D-05
+   its =2977 res. norm =        0.858094D-05
+   its =2978 res. norm =        0.856965D-05
+   its =2979 res. norm =        0.855641D-05
+   its =2980 res. norm =        0.852805D-05
+   its =2981 res. norm =        0.850170D-05
+   its =2982 res. norm =        0.848941D-05
+   its =2983 res. norm =        0.847693D-05
+   its =2984 res. norm =        0.846998D-05
+   its =2985 res. norm =        0.846074D-05
+   its =2986 res. norm =        0.844585D-05
+   its =2987 res. norm =        0.841243D-05
+   its =2988 res. norm =        0.837274D-05
+   its =2989 res. norm =        0.831842D-05
+   its =2990 res. norm =        0.830257D-05
+   its =2991 res. norm =        0.828878D-05
+   its =2992 res. norm =        0.825024D-05
+   its =2993 res. norm =        0.820865D-05
+   its =2994 res. norm =        0.817140D-05
+   its =2995 res. norm =        0.815414D-05
+   its =2996 res. norm =        0.814286D-05
+   its =2997 res. norm =        0.813698D-05
+   its =2998 res. norm =        0.812773D-05
+   its =2999 res. norm =        0.811684D-05
+   its =3000 res. norm =        0.808672D-05
+   its =3001 res. norm =        0.805890D-05
+   its =3002 res. norm =        0.804889D-05
+   its =3003 res. norm =        0.803805D-05
+   its =3004 res. norm =        0.803158D-05
+   its =3005 res. norm =        0.802210D-05
+   its =3006 res. norm =        0.800683D-05
+   its =3007 res. norm =        0.797430D-05
+   its =3008 res. norm =        0.793647D-05
+   its =3009 res. norm =        0.787814D-05
+   its =3010 res. norm =        0.786118D-05
+   its =3011 res. norm =        0.784649D-05
+   its =3012 res. norm =        0.780633D-05
+   its =3013 res. norm =        0.776792D-05
+   its =3014 res. norm =        0.772969D-05
+   its =3015 res. norm =        0.771069D-05
+   its =3016 res. norm =        0.769893D-05
+   its =3017 res. norm =        0.769342D-05
+   its =3018 res. norm =        0.768557D-05
+   its =3019 res. norm =        0.767664D-05
+   its =3020 res. norm =        0.764377D-05
+   its =3021 res. norm =        0.761344D-05
+   its =3022 res. norm =        0.760502D-05
+   its =3023 res. norm =        0.759556D-05
+   its =3024 res. norm =        0.758968D-05
+   its =3025 res. norm =        0.757994D-05
+   its =3026 res. norm =        0.756375D-05
+   its =3027 res. norm =        0.753073D-05
+   its =3028 res. norm =        0.749361D-05
+   its =3029 res. norm =        0.743245D-05
+   its =3030 res. norm =        0.741424D-05
+   its =3031 res. norm =        0.739853D-05
+   its =3032 res. norm =        0.735647D-05
+   its =3033 res. norm =        0.731932D-05
+   its =3034 res. norm =        0.728006D-05
+   its =3035 res. norm =        0.725964D-05
+   its =3036 res. norm =        0.724778D-05
+   its =3037 res. norm =        0.724254D-05
+   its =3038 res. norm =        0.723570D-05
+   its =3039 res. norm =        0.722825D-05
+   its =3040 res. norm =        0.719330D-05
+   its =3041 res. norm =        0.716073D-05
+   its =3042 res. norm =        0.715332D-05
+   its =3043 res. norm =        0.714530D-05
+   its =3044 res. norm =        0.713978D-05
+   its =3045 res. norm =        0.713007D-05
+   its =3046 res. norm =        0.711312D-05
+   its =3047 res. norm =        0.707908D-05
+   its =3048 res. norm =        0.704278D-05
+   its =3049 res. norm =        0.697894D-05
+   its =3050 res. norm =        0.695846D-05
+   its =3051 res. norm =        0.694190D-05
+   its =3052 res. norm =        0.689423D-05
+   its =3053 res. norm =        0.686082D-05
+   its =3054 res. norm =        0.682364D-05
+   its =3055 res. norm =        0.679862D-05
+   its =3056 res. norm =        0.678691D-05
+   its =3057 res. norm =        0.678212D-05
+   its =3058 res. norm =        0.677674D-05
+   its =3059 res. norm =        0.676949D-05
+   its =3060 res. norm =        0.674156D-05
+   its =3061 res. norm =        0.671574D-05
+   its =3062 res. norm =        0.670875D-05
+   its =3063 res. norm =        0.670288D-05
+   its =3064 res. norm =        0.669789D-05
+   its =3065 res. norm =        0.668890D-05
+   its =3066 res. norm =        0.666718D-05
+   its =3067 res. norm =        0.662464D-05
+   its =3068 res. norm =        0.659137D-05
+   its =3069 res. norm =        0.652678D-05
+   its =3070 res. norm =        0.650494D-05
+   its =3071 res. norm =        0.648696D-05
+   its =3072 res. norm =        0.643198D-05
+   its =3073 res. norm =        0.639972D-05
+   its =3074 res. norm =        0.635565D-05
+   its =3075 res. norm =        0.633265D-05
+   its =3076 res. norm =        0.632083D-05
+   its =3077 res. norm =        0.631652D-05
+   its =3078 res. norm =        0.631267D-05
+   its =3079 res. norm =        0.630676D-05
+   its =3080 res. norm =        0.628715D-05
+   its =3081 res. norm =        0.626850D-05
+   its =3082 res. norm =        0.626263D-05
+   its =3083 res. norm =        0.625660D-05
+   its =3084 res. norm =        0.625021D-05
+   its =3085 res. norm =        0.623568D-05
+   its =3086 res. norm =        0.620437D-05
+   its =3087 res. norm =        0.615537D-05
+   its =3088 res. norm =        0.612636D-05
+   its =3089 res. norm =        0.606255D-05
+   its =3090 res. norm =        0.604025D-05
+   its =3091 res. norm =        0.602021D-05
+   its =3092 res. norm =        0.596471D-05
+   its =3093 res. norm =        0.593514D-05
+   its =3094 res. norm =        0.589144D-05
+   its =3095 res. norm =        0.586741D-05
+   its =3096 res. norm =        0.585206D-05
+   its =3097 res. norm =        0.584605D-05
+   its =3098 res. norm =        0.583951D-05
+   its =3099 res. norm =        0.583178D-05
+   its =3100 res. norm =        0.581463D-05
+   its =3101 res. norm =        0.580220D-05
+   its =3102 res. norm =        0.579817D-05
+   its =3103 res. norm =        0.579393D-05
+   its =3104 res. norm =        0.579128D-05
+   its =3105 res. norm =        0.578752D-05
+   its =3106 res. norm =        0.578042D-05
+   its =3107 res. norm =        0.575748D-05
+   its =3108 res. norm =        0.571595D-05
+   its =3109 res. norm =        0.558979D-05
+   its =3110 res. norm =        0.555543D-05
+   its =3111 res. norm =        0.552865D-05
+   its =3112 res. norm =        0.546952D-05
+   its =3113 res. norm =        0.544412D-05
+   its =3114 res. norm =        0.539907D-05
+   its =3115 res. norm =        0.536915D-05
+   its =3116 res. norm =        0.534978D-05
+   its =3117 res. norm =        0.534321D-05
+   its =3118 res. norm =        0.533664D-05
+   its =3119 res. norm =        0.532972D-05
+   its =3120 res. norm =        0.531447D-05
+   its =3121 res. norm =        0.530424D-05
+   its =3122 res. norm =        0.530130D-05
+   its =3123 res. norm =        0.529834D-05
+   its =3124 res. norm =        0.529656D-05
+   its =3125 res. norm =        0.529383D-05
+   its =3126 res. norm =        0.528734D-05
+   its =3127 res. norm =        0.526203D-05
+   its =3128 res. norm =        0.521089D-05
+   its =3129 res. norm =        0.507468D-05
+   its =3130 res. norm =        0.503295D-05
+   its =3131 res. norm =        0.500385D-05
+   its =3132 res. norm =        0.493363D-05
+   its =3133 res. norm =        0.490262D-05
+   its =3134 res. norm =        0.485720D-05
+   its =3135 res. norm =        0.482249D-05
+   its =3136 res. norm =        0.480297D-05
+   its =3137 res. norm =        0.479624D-05
+   its =3138 res. norm =        0.479014D-05
+   its =3139 res. norm =        0.478456D-05
+   its =3140 res. norm =        0.477486D-05
+   its =3141 res. norm =        0.476894D-05
+   its =3142 res. norm =        0.476640D-05
+   its =3143 res. norm =        0.476294D-05
+   its =3144 res. norm =        0.476057D-05
+   its =3145 res. norm =        0.475729D-05
+   its =3146 res. norm =        0.474682D-05
+   its =3147 res. norm =        0.470370D-05
+   its =3148 res. norm =        0.464383D-05
+   its =3149 res. norm =        0.454294D-05
+   its =3150 res. norm =        0.449604D-05
+   its =3151 res. norm =        0.446132D-05
+   its =3152 res. norm =        0.439525D-05
+   its =3153 res. norm =        0.434843D-05
+   its =3154 res. norm =        0.431028D-05
+   its =3155 res. norm =        0.427376D-05
+   its =3156 res. norm =        0.425115D-05
+   its =3157 res. norm =        0.424294D-05
+   its =3158 res. norm =        0.423773D-05
+   its =3159 res. norm =        0.423591D-05
+   its =3160 res. norm =        0.423396D-05
+   its =3161 res. norm =        0.423206D-05
+   its =3162 res. norm =        0.423024D-05
+   its =3163 res. norm =        0.422163D-05
+   its =3164 res. norm =        0.420200D-05
+   its =3165 res. norm =        0.415718D-05
+   its =3166 res. norm =        0.411877D-05
+   its =3167 res. norm =        0.409261D-05
+   its =3168 res. norm =        0.406107D-05
+   its =3169 res. norm =        0.388703D-05
+   its =3170 res. norm =        0.365567D-05
+   its =3171 res. norm =        0.352008D-05

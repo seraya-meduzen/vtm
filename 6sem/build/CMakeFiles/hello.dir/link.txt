@@ -1,0 +1,1 @@
+/usr/bin/mpic++  -flto -Ofast -march=native -llapack -fopenmp -lblas -O3 -DNDEBUG CMakeFiles/hello.dir/toom-cook-MPI.cpp.o -o hello  -Wl,-rpath,/home/meduzen/anaconda3/lib /home/meduzen/anaconda3/lib/libmpicxx.so /home/meduzen/anaconda3/lib/libmpi.so 

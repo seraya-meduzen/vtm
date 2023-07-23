@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG -rdynamic CMakeFiles/main.dir/inmost_task.cpp.o -o main   -L/home/meduzen/INMOST/build  -Wl,-rpath,/home/meduzen/INMOST/build:/home/meduzen/anaconda3/lib /home/meduzen/INMOST/build/libinmost.a /home/meduzen/anaconda3/lib/libmpicxx.so /home/meduzen/anaconda3/lib/libmpi.so 

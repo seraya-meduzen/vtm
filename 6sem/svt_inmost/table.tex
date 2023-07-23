@@ -1,0 +1,94 @@
+\input{preamble}
+
+\begin{document}
+	\tableofcontents
+	
+	\section{Постановка задачи}
+	
+	 Требуется решить разреженную систему матриц хранящихся в формате CSR.
+	 
+	  Для этого использовалась библиотека INMOST (C++). Ее функционал позволяет загрузить матрицу в указанном фрмате, создать переобуславливатель и запустить решатель по умолчанию (BiCGStab).
+Требуется замерить время построения переобуславливателя, решения системы, и сделать это для значений параметра $drop\_tolerance = 0.1,~0.01,~0.001$.
+
+	\section{Результаты}
+	
+	Способ замера времени: библиотека <chrono>. Код выполнялся на кластере ИВМ.
+
+\begin{table}[h!]
+	\centering
+	\begin{tabular}{|c|c|c|}
+		\hline
+		$Drop\_tolerance$  & ILU Time [ms] & BiCGStab Time [ms]\\ \hline
+		0.1 & 154 &  230 \\ 
+		\hline
+		0.01 & 429 & 104 \\
+		\hline
+		0.001 & 764 & 71\\
+		\hline
+	\end{tabular}
+	\caption{$A\_g2\_1$}
+	\label{table:1}
+%\end{table}
+\medskip
+%\begin{table}[h!]
+	\centering
+	\begin{tabular}{|c|c|c|}
+		\hline
+		$Drop\_tolerance$  & ILU Time [ms] & BiCGStab Time [ms]\\ \hline
+		0.1 & 3348 & 10166 \\ 
+		\hline
+		0.01 & 13354 & 4335 \\
+		\hline
+		0.001 & 35668 & 3551\\
+		\hline
+	\end{tabular}
+	\caption{$A\_g2\_2$}
+	\label{table:1}
+%\end{table}
+\medskip
+%\begin{table}[h!]
+	\centering
+	\begin{tabular}{|c|c|c|}
+		\hline
+		$Drop\_tolerance$  & ILU Time [ms] & BiCGStab Time [ms]\\ \hline
+		0.1 & 15844 & 79871 \\ 
+		\hline
+		0.01 & 13354 & 4335 \\
+		\hline
+		0.001 & 68362 & 27635\\
+		\hline
+	\end{tabular}
+	\caption{$A\_g2\_3$}
+	\label{table:1}
+\end{table}
+
+	
+	\section{Портрет матрицы}
+	\begin{center}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{YXQeLtRSUvc.jpg}
+	\caption{Портрет матрицы}
+	\label{fig:base-model-shema}
+\end{figure}
+\end{center}
+
+
+\end{document}
+
+
+%\begin{table}
+%\begin{center}
+%\begin{tabular}{|c|c|c|c|}
+%\hline
+%Size  & ILU Time [s] & PGMES Time [s] & Iterations\\ \hline
+%4127 & 0.007 &  0.052  & 315 \\ \hline
+%16527 & 0.025 & 7.450 & 584 \\
+%\hline
+%66159 & 0.090 & 99.836 & 1722\\
+%\hline
+%264751 & 0.351 & 733.469 & 3171\\
+%\hline
+%\end{tabular}
+%\end{center}
+%\end{table}

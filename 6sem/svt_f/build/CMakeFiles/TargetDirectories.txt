@@ -1,0 +1,3 @@
+/home/meduzen/Documents/vtm codes/cpp/6sem/svt_f/build/CMakeFiles/sparskit.dir
+/home/meduzen/Documents/vtm codes/cpp/6sem/svt_f/build/CMakeFiles/edit_cache.dir
+/home/meduzen/Documents/vtm codes/cpp/6sem/svt_f/build/CMakeFiles/rebuild_cache.dir

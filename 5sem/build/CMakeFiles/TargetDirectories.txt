@@ -1,0 +1,3 @@
+/home/meduzen/Documents/vtm codes/cpp/5sem/build/CMakeFiles/blas.dir
+/home/meduzen/Documents/vtm codes/cpp/5sem/build/CMakeFiles/edit_cache.dir
+/home/meduzen/Documents/vtm codes/cpp/5sem/build/CMakeFiles/rebuild_cache.dir
