@@ -2,37 +2,46 @@
 #include <iostream>
 #include <random>
 
-std::random_device rd;
-std::mt19937 gen(rd());
-std::uniform_real_distribution<> floatDist(-1, 0);
-
 using namespace std;
 
-double inner(double *a, double *b, int n)
+int search(vector<int> &A, int target)
 {
-	double sum = 0;
+	int n = A.size();
+	int lo = 0, hi = n - 1;
 
-#pragma omp parallel for reduction(+ \
-								   : sum)
-	for (int i = 0; i < n; i++)
+	while (lo < hi)
 	{
-		double tmp = a[i] * b[i];
-		sum += tmp;
+		int mid = (lo + hi) / 2;
+		if (A[mid] > A[hi])
+			lo = mid + 1;
+		else
+			hi = mid;
 	}
-	return sum;
+
+	int rot = lo;
+	lo = 0;
+	hi = n - 1;
+
+	// cout << rot << enrealmiddl;
+
+	while (lo <= hi)
+	{
+		int mid = (lo + hi) / 2;
+		int realmid = (mid + rot) % n;
+
+		cout << mid << " " << realmid << " " << n << endl;
+		if (A[realmid] == target)
+			return realmid;
+		if (A[realmid] < target)
+			lo = mid + 1;
+		else
+			hi = mid - 1;
+	}
+	return -1;
 }
 
 int main(int argc, char *argv[])
 {
-
-	int n = 1000000;
-	double *a = new double[n];
-	double *b = new double[n];
-	for (int i = 0; i < n; i++)
-	{
-		a[i] = (-floatDist(gen));
-		b[i] = (-floatDist(gen));
-	}
-
-	cout << inner(a, b, n);
+	vector<int> a = {4, 5, 6, 7, 0, 1, 2};
+	cout << search(a, 0) << endl;
 }

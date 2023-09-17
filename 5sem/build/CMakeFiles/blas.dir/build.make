@@ -73,15 +73,15 @@ CMakeFiles/blas.dir/strassen_blas.cpp.o: CMakeFiles/blas.dir/flags.make
 CMakeFiles/blas.dir/strassen_blas.cpp.o: ../strassen_blas.cpp
 CMakeFiles/blas.dir/strassen_blas.cpp.o: CMakeFiles/blas.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/meduzen/Documents/vtm codes/cpp/5sem/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/blas.dir/strassen_blas.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/blas.dir/strassen_blas.cpp.o -MF CMakeFiles/blas.dir/strassen_blas.cpp.o.d -o CMakeFiles/blas.dir/strassen_blas.cpp.o -c "/home/meduzen/Documents/vtm codes/cpp/5sem/strassen_blas.cpp"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/blas.dir/strassen_blas.cpp.o -MF CMakeFiles/blas.dir/strassen_blas.cpp.o.d -o CMakeFiles/blas.dir/strassen_blas.cpp.o -c "/home/meduzen/Documents/vtm codes/cpp/5sem/strassen_blas.cpp"
 
 CMakeFiles/blas.dir/strassen_blas.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/blas.dir/strassen_blas.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/meduzen/Documents/vtm codes/cpp/5sem/strassen_blas.cpp" > CMakeFiles/blas.dir/strassen_blas.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/meduzen/Documents/vtm codes/cpp/5sem/strassen_blas.cpp" > CMakeFiles/blas.dir/strassen_blas.cpp.i
 
 CMakeFiles/blas.dir/strassen_blas.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/blas.dir/strassen_blas.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/meduzen/Documents/vtm codes/cpp/5sem/strassen_blas.cpp" -o CMakeFiles/blas.dir/strassen_blas.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/meduzen/Documents/vtm codes/cpp/5sem/strassen_blas.cpp" -o CMakeFiles/blas.dir/strassen_blas.cpp.s
 
 # Object files for target blas
 blas_OBJECTS = \

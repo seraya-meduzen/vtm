@@ -1,1 +1,1 @@
-/usr/bin/g++  -flto -Ofast -march=native -lcblas CMakeFiles/blas.dir/strassen_blas.cpp.o -o blas 
+/usr/bin/c++  -flto -Ofast -march=native -lcblas CMakeFiles/blas.dir/strassen_blas.cpp.o -o blas 
